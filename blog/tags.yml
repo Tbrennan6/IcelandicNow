@@ -22,3 +22,13 @@ toppost:
   label: Top post
   permalink: /toppost
   description: One of the top posts on the website
+
+devblog:
+  label: Dev Blog
+  permalink: /devblog
+  description: Development of the website
+
+vocabulary:
+  label: Vocabulary
+  permalink: /vocabulary
+  description: Learning vocabulary
