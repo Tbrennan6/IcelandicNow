@@ -26,7 +26,7 @@ tbrennan:
   name: Tbrennan
   title: Project Founder
   url: icelandicnow.com
-  image_url: static/img/droid.jpg
+  image_url: https://raw.githubusercontent.com/Tbrennan6/IcelandicNow/dev/static/img/droid.jpg
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-tbrennan-articles'
