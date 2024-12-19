@@ -32,7 +32,7 @@ Talking with somebody is the most difficult because you have to contend with the
 
 ## What can you do about it?
 
-Luckily, if you're listening skills are not the best, there are methods that you can use to improve them!
+Luckily, if you're listening skills are not the best, there are methods that you can use to improve them! Like with everything in the world, the real answer is going to be to practice more. But, that's not to say there aren't any tips that can help you along the way. 
 
 ### 1. Study vocabulary
 
