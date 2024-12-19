@@ -5,13 +5,12 @@ authors: [tbrennan, mrme]
 tags: [hola, toppost, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet...
-
-<!-- truncate -->
 
 Hello everybody!
 
 I am writing this post to respond to a common question that I receive all the time: "How do/did you improve your Icelandic listening skills?"
+
+<!-- truncate -->
 
 Unfortunately, this question does not have a simple answer, as every individual learns best through different methods and at different paces. However, that's not to say that I have not picked up some tips and tricks over time that you can apply yourself and see if they work for you.
 
