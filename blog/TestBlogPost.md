@@ -2,7 +2,7 @@
 slug: test-blog-post
 title: Test Blog Post
 authors: [tbrennan, mrme]
-tags: [hola, toppost, docusaurus]
+tags: [toppost]
 ---
 
 
