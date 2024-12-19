@@ -1,7 +1,7 @@
 ---
 slug: test-blog-post
 title: Test Blog Post
-authors: [tbrennan]
+authors: [tbrennan, mrme]
 tags: [hola, docusaurus]
 ---
 
