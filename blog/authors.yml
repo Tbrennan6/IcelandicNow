@@ -30,5 +30,3 @@ tbrennan:
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-tbrennan-articles'
-  socials:
-    github: tbrennan6
