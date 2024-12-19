@@ -5,6 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
+  future: {
+    experimental_faster: true,
+  },
   title: 'The Icelandic Now Project',
   tagline: 'The project committed to making Icelandic more learnable',
   favicon: 'img/favicon.ico',
