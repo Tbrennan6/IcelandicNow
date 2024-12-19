@@ -33,6 +33,8 @@ Talking with somebody is the most difficult because you have to contend with the
 
 # What can you do about it?
 
+Luckily, if you're listening skills are not the best, there are methods that you can use to improve them!
+
 ## 1. Study vocabulary
 
 I have found personally that the most important factor when determining whether I understand a spoken word is whether I am already familiar with a word. This may sound incredibly obvious, but its value cannot be understated. While you can certainly pick up a new word from spoken language that you have never heard or seen used, it is way easier to hear and understand a word if you have already used it and committed it to memory beforehand. This is, in my experience, the biggest reason why new beginners fail at listening comprehension; they don't have the vocabulary to keep up.
