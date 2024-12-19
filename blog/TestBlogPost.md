@@ -69,7 +69,7 @@ From there, even if you could not tell what was said at all in those first two w
 
 While this seems only mildly helpful, with context clues, this can be extremely helpful. If you already roughly know the topic of the sentence, you can probably figure out what that first subject is, too, and from there, you can probably deduce the verb better as well.
 
-## 3. Listen more (to things you like)
+## 3. Listen to things you like
 
 While it's certainly not the most inspired tip of all time, it is probably the most important. To get better at anything, you have to practice, and listening is no exception. As you listen more, you will learn more about speech patterns, learn what words usually start sentences, learn vocabulary, and subconsciously improve in numerous other indescribable ways.
 
