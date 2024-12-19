@@ -1,32 +1,32 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+devblog:
+  label: Dev Blog
+  permalink: /devblog
+  description: Development of the website
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+faq:
+  label: FAQ
+  permalink: /faq
+  description: Answers to frequently asked questions
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+grammar:
+  label: Grammar
+  permalink: /grammar
+  description: Explanations of grammar
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+howdoyou:
+  label: How Do You
+  permalink: /howdoyou
+  description: Tips on how to improve your Icelandic
+
+resource:
+  label: Resource Feature
+  permalink: /resource
+  description: Review of learning resources
 
 toppost:
   label: Top post
   permalink: /toppost
   description: One of the top posts on the website
-
-devblog:
-  label: Dev Blog
-  permalink: /devblog
-  description: Development of the website
 
 vocabulary:
   label: Vocabulary
