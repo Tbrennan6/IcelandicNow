@@ -18,7 +18,7 @@ hola:
   permalink: /hola
   description: Hola tag description
 
-bestpost:
-  label: Best post
-  permalink: /bestpost
-  description: One of the best posts
+toppost:
+  label: Top post
+  permalink: /toppost
+  description: One of the top posts on the website
