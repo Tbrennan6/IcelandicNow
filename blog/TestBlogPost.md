@@ -16,7 +16,7 @@ Unfortunately, this question does not have a simple answer, as every individual 
 
 All answers and anecdotes here are from my personal experience.
 
-# Why is listening hard?
+# Why is listening the hardest skill?
 
 Reading and writing are the easiest because you have much more time to process and work over the information than the other two skills. When you are reading something, you can look at a word, and if you do not know it, check the dictionary or a translator. In addition, and sneakily helpful, when you read, you know exactly what word is giving you trouble, even if you don't know what the word means. This allows you to check what it means in a dictionary or other source.
 
