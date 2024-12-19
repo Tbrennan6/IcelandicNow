@@ -26,7 +26,7 @@ In light of these future struggles, it's important not to anticipate instantaneo
 
 ## Write it down, Review it
 
-People who are learning something often discover that physically writing down information that they learn can greatly aid their memory and recall. This is not universal, but the general trend is backed by several credible scientific studies. 
+People who are learning something often discover that physically writing down information that they learn can greatly aid their memory and recall. This is not universal, but several credible scientific studies back the general trend. 
 
 
 You have different options for jotting down your learning. You might opt for a notebook organized by day, or you might prefer a computer note system organized by topic. You might choose to make uncomplicated flashcards, or you could even go for a sophisticated method like the German Zettelkasten. Your personal style matters here. The point is that having a written account of what you've learned turns out to be quite rewarding; it helps you remember the information you've absorbed much faster. What is less important is the method that you choose.
