@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkicelandicnow_com=self.webpackChunkicelandicnow_com||[]).push([[9647],{7121:(e,c,s)=>{s.r(c),s.d(c,{default:()=>o});s(6540);var n=s(4164),r=s(1213),a=s(7559),u=s(2831),i=s(781),l=s(4848);function o(e){return(0,l.jsx)(r.e3,{className:(0,n.A)(a.G.wrapper.docsPages),children:(0,l.jsx)(i.A,{children:(0,u.v)(e.route.routes)})})}}}]);

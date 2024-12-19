@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkicelandicnow_com=self.webpackChunkicelandicnow_com||[]).push([[8621],{4891:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Welcome","slug":"/category/welcome","permalink":"/IcelandicNow/docs/category/welcome","sidebar":"tutorialSidebar","navigation":{"next":{"title":"Welcome","permalink":"/IcelandicNow/docs/welcome/welcome"}}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkicelandicnow_com=self.webpackChunkicelandicnow_com||[]).push([[5742],{7093:c=>{c.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

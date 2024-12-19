@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkicelandicnow_com=self.webpackChunkicelandicnow_com||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/IcelandicNow/blog","blogTitle":"Blog","authorsListPath":"/IcelandicNow/blog/authors"}')}}]);
