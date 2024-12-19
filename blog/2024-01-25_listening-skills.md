@@ -1,10 +1,9 @@
 ---
-slug: test-blog-post
-title: Test Blog Post
+slug: listening-skills
+title: How Do You Improve Your Icelandic Listening Skills?
 authors: [tbrennan]
-tags: [toppost]
+tags: [toppost, howdoyou]
 ---
-
 
 Hello everybody!
 
