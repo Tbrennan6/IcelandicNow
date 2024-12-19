@@ -1,7 +1,7 @@
 ---
 slug: test-blog-post
 title: Test Blog Post
-authors: [slorber, yangshun]
+authors: [tbrennan]
 tags: [hola, docusaurus]
 ---
 
