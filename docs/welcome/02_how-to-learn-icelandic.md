@@ -9,7 +9,6 @@ Before you begin the meat of the course, it would be extremely beneficial to go 
 Even if you consider yourself a language learning pro, consider giving this lesson a read or at least skim the headings. 
 
 ## Set realistic expectations
-
 The number one killer of language learning aspirations is unrealistic expectations.
 
 
@@ -25,7 +24,6 @@ That said, there may be times during this course when you feel overwhelmed and c
 In light of these future struggles, it's important not to anticipate instantaneous mastery of Icelandic. Icelandic is an exceptionally intricate language that necessitates several years of dedicated study to truly master. It's more pragmatic to set achievable goals: ones that fuel your enthusiasm for learning and sustain your motivation to continue. The old adage is not correct for language learning: do not aim for the moon hoping to land among the stars; you will not land in the stars; rather, you will be set adrift in space and never run into anything. Instead, consider aiming for a stable orbit or even just securing a bit of rocket fuel first. Then, the moon may be a little more achievable.
 
 ## Write it down, Review it
-
 People who are learning something often discover that physically writing down information that they learn can greatly aid their memory and recall. This is not universal, but several credible scientific studies back the general trend. 
 
 
@@ -55,7 +53,6 @@ While I'll certainly bring back topics or reference previous lessons as needed, 
 At certain times in the course, I will suggest how to review or think about a certain topic. Please note that these are always suggestions, and your own learning journey might demand a different approach. That's completely fine. Find what works for you and do it!
 
 ## Do not think in English letters
-
 This final adage is a little more specific, but it is extremely important to help you avoid a common pitfall if this is your first time learning a foreign language. Allow me to give a short anecdote from a real learner experience. 
 
 
