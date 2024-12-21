@@ -93,8 +93,8 @@ const config: Config = {
         //   label: 'GitHub',
         //   position: 'right',
         // },
+        {to: '/resources', label: 'Other Resources', position: 'left'},
         {to: '/about', label: 'About', position: 'right'},
-        {to: '/resources', label: 'Other Resources', position: 'right'},
       ],
     },
     footer: {
