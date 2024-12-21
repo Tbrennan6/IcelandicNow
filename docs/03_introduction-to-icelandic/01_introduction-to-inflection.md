@@ -10,7 +10,7 @@ As a native English speaker, the most important thing to understand about Icelan
 Inflection refers to the process whereby a word changes its ending to show different pieces of information or create new meanings. These pieces of information can include who is doing something, when it’s happening, or whether something is singular or plural. In a less-inflected language, like English, these pieces of information are typically supplied by word order or additional words. 
 
 
-*Note: Grammatical inflection is a different kind of inflection than the one that is meant by modulating the pitch of one’s voice.*
+*Note: Grammatical inflection is completely different than the kind of inflection meant by modulating the pitch of one’s voice.*
 
 ## Inflection in English
 
