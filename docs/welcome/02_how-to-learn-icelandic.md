@@ -66,9 +66,7 @@ When translating any sentence from language (X) to language (Y), it's vital to a
 
 
 1. What parts of speech are the words in language X?
-
 2. What do the words in language X do grammatically, and what do they mean?
-
 3. How does language Y address this grammatical function while keeping the same meaning?
 
 
@@ -76,9 +74,7 @@ In the case of Jane, the following could have been good answers to what the word
 
 
 1. "He" is a subject pronoun. "Is" is the verb "To be" conjugated to "He." "Eating" is another verb form.
-
 2. "He" is the subject of the sentence and the verb "To be." "Is" is the present tense form of "To be" conjugated to the subject of the sentence, "He." "Is" and "Eating" come together from the progressive tense, signifying a continuous action. 
-
 3. Icelandic also uses progressive tenses to talk about continuous actions. The Icelandic structure to form the progressive tense is a conjugated verb and then an infinitive verb.
 
 
