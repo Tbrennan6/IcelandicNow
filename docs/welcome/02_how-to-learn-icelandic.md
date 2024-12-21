@@ -12,7 +12,7 @@ Even if you consider yourself a language learning pro, consider giving this less
 The number one killer of language learning aspirations is unrealistic expectations.
 
 
-No single course or collection of courses, no matter how meticulously designed or how committed the student, can encompass everything; it cannot resolve every potential confusion or cater itself precisely to each student's optimal learning style. Regrettably, this course is not exempt from these limitations. 
+No single course or collection of courses, no matter how meticulously designed or how committed the student, can encompass everything; it cannot resolve every potential confusion or precisely cater to each student's optimal learning style. Regrettably, this course is not exempt from these limitations. 
 
 
 Mastering a language, be it Spanish, Icelandic, or even a programming language like C++, is a formidable endeavor. It involves absorbing new vocabulary, grappling with new grammatical structures, and altering the way you see and experience the world around you. Even things that you assumed were universal may be challenged or presented differently in another language. This is part of what makes learning languages fun and exciting but also what makes it difficult. 
@@ -38,10 +38,10 @@ You have different options for jotting down your learning. You might opt for a n
 <!-- *Like with flashcards, the best notes are made to be reviewed and referred to again and again.* -->
 <!-- </div> -->
 
-Moreover, the act of writing things down provides you with a valuable resource: you create a reference that you can revisit, revise, and explore anew with a more knowledgeable perspective later on. 
+Moreover, writing things down provides a valuable resource: you create a reference that you can revisit, revise, and explore anew with a more knowledgeable perspective later on. 
 
 
-Just remember, if you write something down and then never look at it again, it ceases to be beneficial. Daily reviews are ideal, but not always realistic. Try to review your notes as often as possible.  
+Just remember: if you write something down and then never look at it again, it ceases to be beneficial. Daily reviews are ideal, but they are not always realistic. Try to review your notes as often as possible.  
 
 
 What's more, not every verb table or newly learned definition will reappear in the course; in fact, they will do so infrequently. It's simply not feasible, given the course's scope and the need to progress, to review everything. But I do know that learning isn't always a straight path. It's unrealistic to expect yourself or anyone else to grasp everything right away, let alone retain that information indefinitely. That is where your notes come in. 
