@@ -39,12 +39,12 @@ As mentioned in the previous lesson, Icelandic verbs conjugate more and more com
 
 |              | English Present | Icelandic Present | English Past | Icelandic Past |
 |:------------:|:---------------:|:-----------------:|:------------:|:--------------:|
-|    I / Ég    |       bake      |        baka       |     bak**ed**    |     bak**aði**     |
-|   You / Þú   |       bake      |       bak**ar**       |     bak**ed**    |     bak**aðir**    |
-|  He* / Hann* |       bake**s**      |       bak**ar**       |     bak**ed**    |     bak**aði**     |
-|  Y'all / Þið |       bake      |      bök**um**\**      |     bak**ed**    |    bök**uðum**\**   |
-|   We / Við   |       bake      |       bak**ið**       |     bak**ed**    |    bök**uðuð**\**   |
-| They / Þeir* |       bake      |        baka       |     bak**ed**    |    bök**uðu**\**    |
+|    **I / Ég**    |       bake      |        baka       |     bak**ed**    |     bak**aði**     |
+|   **You / Þú**   |       bake      |       bak**ar**       |     bak**ed**    |     bak**aðir**    |
+|  **He\*  Hann\*** |       bake**s**      |       bak**ar**       |     bak**ed**    |     bak**aði**     |
+|  **We / Við**    |       bake      |      bök**um**\**      |     bak**ed**    |    bök**uðum**\**   |
+|  **Y'all / Þið**  |       bake      |       bak**ið**       |     bak**ed**    |    bök**uðuð**\**   |
+| **They / Þeir\*** |       bake      |        baka       |     bak**ed**    |    bök**uðu**\**    |
 
 *These subjects are hiding other versions depending on gender. You will learn more about *Þeir* in a later lesson.\
 **These words are experiencing umlaut. You will learn more about umlaut in a later lesson. 
