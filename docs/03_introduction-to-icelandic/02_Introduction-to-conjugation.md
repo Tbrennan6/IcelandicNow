@@ -7,21 +7,21 @@ The first kind of inflection that you are going to learn is conjugation. Conjuga
 
 ## How Do Icelandic Verbs Inflect?
 
-In English, verbs are conjugated depending on who the subject (the doer of the verb) is and when the action happened. If the subject is *he*, *she*, or *it*, then the verb adds an *-s*. 
+In English, verbs are conjugated depending on who the subject (the doer of the verb) is and when the action happened. If the subject is *he*, *she*, or *it*, then the verb adds an **-s**. 
 
 Example 1: I speak.\
 Example 2: He speak**s**.\
 Example 3: I bake.\
 Example 4: She bake**s**.
 
-Icelandic does a pretty similar thing. When the subject of the verb is *hann*, *hun*, or *það*, then the verb is usually going to add an *-r*.
+Icelandic does a pretty similar thing. When the subject of the verb is *hann*, *hun*, or *það*, then the verb is usually going to add an **-r**.
 
 Example 1: Ég tala. \
 Example 2: Hann tala**r**.\
 Example 3: Ég baka.\
 Example 4: Hann baka**r**. 
 
-While verbs can change depending on their person, they can also change depending on when they occur; this is known as tense. In English, when something happens in the past instead of the present, the verb usually adds *-ed* no matter who the speaker is.
+While verbs can change depending on their person, they can also change depending on when they occur; this is known as tense. In English, when something happens in the past instead of the present, the verb usually adds **-ed** no matter who the speaker is.
 
 Example 1: I talk.\
 Example 2: I talk**ed**.\
