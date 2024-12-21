@@ -56,7 +56,7 @@ Overall, English inflection is much simpler than Icelandic.
 As shown by the earlier example with the word *hestur*, Icelandic words can change much more than English words can. There are more possible endings, and the endings change for more reasons than they do in English. 
 
 
-While there are typically only four possible forms for each noun in English (a horse, horses, the horse, the horses), there are up to sixteen different forms for each noun in Icelandic! For Icelandic verbs, too, instead of just a few forms, there can be over a hundred possibilities depending on the verb in question! This is what it means when people say that Icelandic is heavily inflected; there are many different forms for each word!
+While there are typically only four possible forms for each noun in English (*a horse*, *horses*, *the horse*, *the horses*), there are up to sixteen different forms for each noun in Icelandic! For Icelandic verbs, too, instead of just a few forms, there can be over a hundred possibilities depending on the verb in question! This is what it means when people say that Icelandic is heavily inflected; there are many different forms for each word!
 
 
 What makes this difficult for non-natives is that the abundance of forms does not mean that there are many more valid ways to say something in Icelandic. Instead, it means that you must be more careful in choosing the right words to say what you are trying to say. Since using the correct inflection largely depends on grammar, you need to have a better sense of grammar to speak Icelandic than you typically do for English. This course will help you achieve that good grammar sense!
