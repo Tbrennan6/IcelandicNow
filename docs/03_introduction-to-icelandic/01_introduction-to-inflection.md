@@ -31,7 +31,7 @@ Example 2: Ég sá **hest**. \
 Example 3: Ég gaf **hesti** epli
 
 
-The only real inflection that English nouns (words that represent a person, place, thing, or idea) undergo is to follow extremely regular and consistent rules. In English, you add an *-s* or *-es* to the end of a noun to change it from singular to plural (one to many), and you add the words *a* or *an* or the before the noun to make it indefinite or definite (roughly, non-specific or specific). Notice below how these simple additions change what images and ideas come to mind.
+The only real inflection that English nouns (words that represent a person, place, thing, or idea) undergo is to follow extremely regular and consistent rules. In English, you add an *-s* or *-es* to the end of a noun to change it from singular to plural (one to many), and you add the words *a* or *an* or *the* before the noun to make it indefinite or definite (roughly, non-specific or specific). Notice below how these simple additions change what images and ideas come to mind.
 
 
 Example 1: **A horse** eats.\
