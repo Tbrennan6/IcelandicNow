@@ -5,6 +5,7 @@ title: Introduction to Conjugation
 
 The first kind of inflection that you are going to learn is conjugation. Conjugation is the inflection of verbs, and it is a kind of inflection that is present in both English and Icelandic. 
 
+## How do Iceladnic verbs inflect?
 
 In English, verbs are conjugated depending on who the subject (the doer of the verb) is and when the action happened. If the subject is *he*, *she*, or *it*, then the verb adds an *-s*. 
 
