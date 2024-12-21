@@ -18,34 +18,34 @@ Inflection refers to the process whereby a word changes its ending to show diffe
 English words do not inflect very much. As a result, words are not going to change their endings very much. Consider how the word *horse* is the same in the first three examples below. 
 
 
-Example 1: This is **a horse**.
-Example 2: I saw **a horse**.
+Example 1: This is **a horse**.\
+Example 2: I saw **a horse**.\
 Example 3: I gave **a horse** an apple.
 
 
 Below, you will find the translations of these sentences into Icelandic. Notice how the word has different endings? That is inflection at work!
 
 
-Example 1:Þetta er **hestur**. 
-Example 2: Ég sá **hest**. 
+Example 1: Þetta er **hestur**.\
+Example 2: Ég sá **hest**. \
 Example 3: Ég gaf **hesti** epli
 
 
 The only real inflection that English nouns (words that represent a person, place, thing, or idea) undergo is to follow extremely regular and consistent rules. In English, you add an *-s* or *-es* to the end of a noun to change it from singular to plural (one to many), and you add the words *a* or *an* or the before the noun to make it indefinite or definite (roughly, non-specific or specific). Notice below how these simple additions change what images and ideas come to mind.
 
 
-Example 1: **A horse** eats.
-Example 2: **The horse** eats.
-Example 3: **Horses** eat.
+Example 1: **A horse** eats.\
+Example 2: **The horse** eats.\
+Example 3: **Horses** eat.\
 Example 4: **The horses** eat.
 
 
 The same thing goes for English verbs (words that represent actions): there are only a few simple and fairly regular rules to follow. For example, you add an *-s* to the end of the word when the subject (the one doing the action) is *he*, *she*, or *it*, and you add an *-ed* to the end to change the verb from the present tense (when the verb is happening) into the past tense. Again, notice how these simple changes completely change the meaning of the sentence. 
 
 
-Example 1: **I bake** bread.
-Example 2: **He bakes** bread.
-Example 3: **I baked** bread.
+Example 1: **I bake** bread.\
+Example 2: **He bakes** bread.\
+Example 3: **I baked** bread.\
 Example 4: **He baked** bread.
 
 
