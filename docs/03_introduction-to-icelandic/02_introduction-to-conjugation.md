@@ -41,7 +41,7 @@ As mentioned in the previous lesson, Icelandic verbs conjugate more and more com
 |:------------:|:---------------:|:-----------------:|:------------:|:--------------:|
 |    **I / Ég**    |       bake      |        baka       |     bak**ed**    |     bak**aði**     |
 |   **You / Þú**   |       bake      |       bak**ar**       |     bak**ed**    |     bak**aðir**    |
-|  **He\*  Hann\*** |       bake**s**      |       bak**ar**       |     bak**ed**    |     bak**aði**     |
+|  **He\* / Hann\*** |       bake**s**      |       bak**ar**       |     bak**ed**    |     bak**aði**     |
 |  **We / Við**    |       bake      |      bök**um**\**      |     bak**ed**    |    bök**uðum**\**   |
 |  **Y'all / Þið**  |       bake      |       bak**ið**       |     bak**ed**    |    bök**uðuð**\**   |
 | **They / Þeir\*** |       bake      |        baka       |     bak**ed**    |    bök**uðu**\**    |
