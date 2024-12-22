@@ -43,7 +43,7 @@ While you have only learned to conjugate one verb so far, *að vera*, second-per
 | **Fara**  | ferðu     | fariði    |
 | **Vilja** | viltu     | viljiði   |
 
-**Now I know:**
+## Now I know:
 - what second-person merging is
 - that second-person merging does not change the meaning of the sentence
 - how to identify second-person merged verb forms  

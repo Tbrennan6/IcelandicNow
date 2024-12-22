@@ -31,11 +31,9 @@ Example 4: Þið eruð að tala. - (They are talking.)
 
 *Tip: If you are having some trouble, try thinking of instead of saying, "I am eating," Icelandic says, "I am to eat."*
 
-
 ## Putting it all together
 
 You can blend this structure with the word *hvað* and the verb *að gera* (to do) to make some normal, common conversations!
-
 
 Question 1: Hvað ert þú að gera? - (What are you doing.) \
 Answer 1: Ég er að borða. - (I am eating.) 
@@ -51,6 +49,4 @@ Answer 3: Við erum að tala. - (We are talking.)
 - when progressive tenses are used
 - how Icelandic forms the progressive tenses
 - how to ask somebody what they are doing and how to respond to that same question
-
-
 
