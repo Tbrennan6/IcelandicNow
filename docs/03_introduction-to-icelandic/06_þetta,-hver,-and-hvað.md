@@ -17,12 +17,12 @@ In *example 3*, you likely noticed that the form *eru* is used instead of *er*. 
 
 ## Hvað and Hver
 
-*Hvað* is a special form of the word *hver*. For these basic identifying sentences, you can think of *hvað* as meaning *what*, and *hver* as meaning *who*. You can only use hver to ask who a single person is 
+*Hvað* is a special form of the word *hver*. For these basic identifying sentences, you can think of *hvað* as meaning *what*, and *hver* as meaning *who*. 
 
 Example 1: Hvað er þetta? - (What is that?) \
 Example 2: Hver er þetta? - (Who is that?)
 
-With both of these 
+*Note: You can only use "hver" to ask who a single person is.* More about *hver* will be revealed in a future lesson. 
 
 ## Now I know:
 - how to identify something using *þetta* 
