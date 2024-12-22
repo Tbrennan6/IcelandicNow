@@ -72,7 +72,7 @@ The twist is that similar to how English has *he*, *she*, and *it* depends on th
 | this* | not this* | þau    |
 
 ## Now I Know:
-- how conjugation charts are organized
+- how conjugation charts are organized and how to read them
 - what person and plurality refer to
 - what subject pronouns each cell in a conjugation table refers to
 - that the first person singular and plural sections of the chart can be replaced with other words, and their conjugations would be correct
