@@ -38,7 +38,7 @@ The subjects *I* and *we* are both first person because they are as close to the
 ## A Note On *He* And *Hann* 
 As you have likely noticed, the subjects *he* and *hann* are accompanied by asterisks in conjugation charts. This is done because they could be swapped for other words. The words *he* and *hann* have been chosen because they are standardly used in these tables alongside *she* and *it* or *hún* and *það*, and using only one of these words saves considerable tablespace. 
 
-The word *he* in the conjugation chart could be replaced with any other singular noun, and the accompanying conjugation for that word as a subject would be correct. This includes she, it, John, Eifel Tower, cat, computer, and anything else that you can think of. 
+The word *he* in the conjugation chart could be replaced with any other singular noun, and the accompanying conjugation for that word as a subject would be correct. This includes *she*, *it*, *John*, *Eifel Tower*, *cat*, *computer*, or anything else that you can think of. 
 
 Example 1: He bakes. \
 Example 2: She bakes. \
