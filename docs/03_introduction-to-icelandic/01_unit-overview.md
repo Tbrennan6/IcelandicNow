@@ -22,7 +22,7 @@ Welcome to the first unit! This unit is designed to introduce you to the absolut
 - that the first person singular and plural sections of the chart can be replaced with other words, and their conjugations would be correct
 - that Icelandic has three versions of they and when they are used
 - what regular and irregular verbs are
-- how to conjugate að vera in the present and the past
+- how to conjugate *að vera* in the present and the past
 - how to identify something using þetta
 - how to ask what something is using hvað
 - how to ask who somebody is using hver
