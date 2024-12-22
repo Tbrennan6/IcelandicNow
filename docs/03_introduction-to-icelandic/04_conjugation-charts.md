@@ -29,7 +29,7 @@ Person and plurality refer to how close the subject of the verb is to the person
 |----------|------------|-------------|
 | **1st.** | I          | we / við    |
 | **2nd.** | you        | y'all / þið |
-| **3rd.** | he* / hann* | they / þeir |
+| **3rd.** | he* / hann* | they / þeir* |
 
 The subjects *I* and *we* are both first person because they are as close to the speaker as possible. When you use *I* or *we*, you are referring to an action that you did or a group including yourself. The subjects *you* and *y'all* are the next level away. You use them when you are directly addressing somebody or a group. The subjects *he* and *they* are the furthest away. When you use them, you are referring to a person or group abstractly. 
 
