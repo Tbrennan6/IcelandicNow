@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-title: Að Vera
+title: The Infinitive Form
 ---
 
-The most important verb to learn in any language is *to be*. In Icelandic, that verb is *að vera*.
+The infinitive form of a verb is the most common and useful form of a verb to know. 
 
 ## The Infinitive Form
 As mentioned in the last lesson, verbs conjugate to match their person and their tense. But verbs can also be written in an unconjugated form known as the infinite form. This form does not contain information about who is doing the action, when it is happening, or anything else; it just represents the action itself.
