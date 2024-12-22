@@ -34,7 +34,7 @@ Example 4: Hvað voruði að gera?
 
 While you have only learned to conjugate one verb so far, *að vera*, second-person merging can happen with any verb. Be on the lookout for this phenomenon happening throughout this course! Below, find some examples of this happening with some verbs you are familiar with and some you aren't yet. Notice how the singular form always ends in a *-u* and the plural form always ends in a *-ði*. You can use this knowledge to identify the forms every time they occur. 
 
-|           | **Sing.** | **Plur.** |
+|  **Verbs **        | **Sing.** | **Plur.** |
 |-----------|-----------|-----------|
 | **Vera**  | ertu       | eruði     |
 | **Baka**  | bakarðu   | bakaði    |
