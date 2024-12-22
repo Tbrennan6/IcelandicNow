@@ -9,8 +9,8 @@ Now that you know how to conjugate að vera, you are ready to create your first 
 The progressive tenses are used to describe continuous actions. The same tenses with nearly the same meaning also exist in English. 
 
 Example 1: I am eating. \
-Example 2: He am talking.\ 
-Example 3: She wqas baking. 
+Example 2: He is eating. \
+Example 3: She was baking. 
 
 In Icelandic, these forms are created a little differently. After the conjugated form of *að vera*, Icelandic uses an infinitive instead of a present participle (a verb form you do not need to be familiar with for this course) as English does.
 
