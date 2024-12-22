@@ -33,4 +33,4 @@ Example 4: Ég **tal**a.
 - the infinitive form of a verb is the unconjugated form of the verb
 - you can recognize the infinitive form of a verb by the word **að* coming before it
 - Icelandic verbs end in *a* in the infinitive form
-- what the stem and the ending of a verb
+- what the stem and the ending of a verb are
