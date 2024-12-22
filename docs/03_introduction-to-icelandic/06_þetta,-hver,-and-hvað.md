@@ -25,6 +25,6 @@ Example 2: Hver er þetta? - (Who is that?)
 With both of these 
 
 ## Now I know:
-- how to identify something using *þetta* \
-- how to ask what something is using *hvað* \
+- how to identify something using *þetta* 
+- how to ask what something is using *hvað* 
 - how to ask who somebody is using *hver*
