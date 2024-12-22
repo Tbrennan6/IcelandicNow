@@ -3,7 +3,7 @@ sidebar_position: 8
 title: Second-Person Merging
 ---
 
-To wrap up the *Introduction to Icelandic unit*, it is important to learn about the second person.
+To wrap up the *Introduction to Icelandic* unit, it is important to learn about the second person.
 
 ## What Is Second-Person Merging?
 
