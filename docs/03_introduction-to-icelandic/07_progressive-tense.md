@@ -14,7 +14,7 @@ Example 3: She was baking.
 
 In Icelandic, these forms are created a little differently. After the conjugated form of *að vera*, Icelandic uses an infinitive instead of a present participle (a verb form you do not need to be familiar with for this course) as English does.
 
-*Construction: (nom) (að vera) (infinitive)*
+*Construction: (subject) (að vera) (infinitive)*
 
 Example 1: Ég er að borða.\
 Example 2: Hann er að tala.\
@@ -34,7 +34,7 @@ Example 4: Þið eruð að tala. - (They are talking.)
 
 ## Putting it all together
 
-You can bland this structure with the word *hvað* and the verb *að gera* (to do) to make some normal, common conversations!
+You can blend this structure with the word *hvað* and the verb *að gera* (to do) to make some normal, common conversations!
 
 
 Question 1: Hvað ert þú að gera? - (What are you doing.) \
