@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 8
 title: Second-Person Merging
 ---
 
@@ -27,18 +27,23 @@ Merging the verb and second-person pronouns does not change the meaning of the s
 
 Example 1: Hvað ertu að borða? \
 Example 2: Hvað varstu að gera? \
-Example 3: Hvað eruði að gera? \ 
+Example 3: Hvað eruði að gera?\
 Example 4: Hvað voruði að gera?
 
 ## How Do I Make These Forms?
 
-While you have only learned to conjugate one verb so far, **að vera**, second-person merging can happen with any verb. Be on the lookout for this phenomenon happening throughout this course! Below, find some examples of this happening with some verbs you are familiar with and some you aren't yet. Notice how the singular form always ends in a *-u* and the plural form always ends in a *-ði*. You can use this knowledge to identify the forms every time they occur. 
+While you have only learned to conjugate one verb so far, *að vera*, second-person merging can happen with any verb. Be on the lookout for this phenomenon happening throughout this course! Below, find some examples of this happening with some verbs you are familiar with and some you aren't yet. Notice how the singular form always ends in a *-u* and the plural form always ends in a *-ði*. You can use this knowledge to identify the forms every time they occur. 
 
 |           | **Sing.** | **Plur.** |
 |-----------|-----------|-----------|
-| **Vera**  | ert       | eruði     |
+| **Vera**  | ertu       | eruði     |
 | **Baka**  | bakarðu   | bakaði    |
 | **Tala**  | talarðu   | taliði    |
 | **Gera**  | gerirðu   | geriði    |
 | **Fara**  | ferðu     | fariði    |
 | **Vilja** | viltu     | viljiði   |
+
+**Now I know:**
+- what second-person merging is
+- that second-person merging does not change the meaning of the sentence
+- how to identify second-person merged verb forms  
