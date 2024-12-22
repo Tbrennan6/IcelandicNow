@@ -77,4 +77,3 @@ The twist is that similar to how English has *he*, *she*, and *it* depends on th
 - what subject pronouns each cell in a conjugation table refers to
 - that the first person singular and plural sections of the chart can be replaced with other words, and their conjugations would be correct
 - that Icelandic has three versions of *they* and when they are used
-- 
