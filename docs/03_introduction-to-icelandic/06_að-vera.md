@@ -60,7 +60,7 @@ Below, see the entire chart for *to be.* *To be* is a unique verb in English bec
 
 *Tip: Try to find patterns in the conjugation chart that make it easier to remember. For example, did you notice that every past tense form starts with a "v" and every present tense form starts with an "e"? There are many other smaller patterns like that that you can and should spend some time discovering on your own.*
 
-*Tip: You don't need to memorize the entire chart right now, but it would be helpful to do so. If, after the first unit, you are still having considerable trouble, consider practicing filling out the table a couple of times on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)*.
+*Tip: You don't need to memorize the entire chart right now, but it would be helpful to start doing so as soon as possible. If, after the first unit, you are still having considerable trouble, consider practicing filling out the table a couple of times on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)*.
 
 Using the chart above, translate the following into Icelandic:
 1. I am
