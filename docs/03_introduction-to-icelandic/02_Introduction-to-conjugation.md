@@ -28,7 +28,7 @@ Example 2: I talk**ed**.\
 Example 3: She bakes.\
 Example 4: She bak**ed**.
 
-Icelandic does a pretty similar thing again. When the action of the verb takes place in the past, Icelandic usually adds an ending.
+Icelandic does a pretty similar thing again. When the action of the verb takes place in the past, Icelandic usually adds an ending. 
 
 Example 1: Ég tala.\
 Example 2: Ég tal**aði**.\
