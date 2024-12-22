@@ -22,7 +22,7 @@ In *example 3*, you likely noticed that the form *eru* is used instead of *er*. 
 Example 1: Hvað er þetta? - (What is that?) \
 Example 2: Hver er þetta? - (Who is that?)
 
-*Note: You can only use "hver" to ask who a single person is.* More about *hver* will be revealed in a future lesson. 
+*Note: You can only use "hver" to ask who a single person is. More about "hver" will be revealed in a future lesson.*
 
 ## Now I know:
 - how to identify something using *þetta* 
