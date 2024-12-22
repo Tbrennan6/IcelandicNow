@@ -11,6 +11,8 @@ This resource feature, as well as the mention and recommendation of this resourc
 
 [Íslenzka.is](https://islenzka.is/) a website by Mark, a man with an interest in linguistics who started learning Icelandic after a trip to Icelandic in 2011. In addition to Íslenska.is, Mark also runs a now-inactive Icelandic language-learning-journey documentation blog at Íslenzka.net.
 
+<!-- truncate -->
+
 The website is powered by a subset of data from the DMII (Database of Modern Icelandic Inflection) data by Stofnun Árna Magnússonar, an Icelandic governmental institution dedicated to, researching, recording, preserving, and sharing the Icelandic Language.
 
 The website allows you to search this database and generate empty inflection tables for many words within the database. You can then fill in the table and receive feedback on whether you entered the correct inflections or not. In addition to being able to search for certain words, the website also has a flashcard function, a quiz function, and a table function where you can be quizzed on the database of words as narrowed by one of a number of criteria that you can choose to toggle on or off.

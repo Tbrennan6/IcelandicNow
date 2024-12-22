@@ -9,6 +9,8 @@ Hello everybody,
 
 This post answers two common questions: "How do I write conditional statements in Icelandic?" and "Do you use subjunctive or indicative with 'Ef'"?
 
+<!-- truncate -->
+
 ## What is a conditional statement?
 
 A conditional statement is an if-then style statement in which the second part of the sentence, known as the conclusion/result, is only executed or occurs if the condition/hypothesis, the first part of the sentence, occurs or is true.
