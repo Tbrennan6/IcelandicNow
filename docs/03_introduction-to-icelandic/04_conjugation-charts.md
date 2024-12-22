@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Að Vera
+title: Conjugation Charts
 ---
 
 While the ideas of conjugation and inflection may seem intimidating and confusing at first, fear not! Tools and patterns are available that can help you memorize and internalize the ideas behind inflection. 
