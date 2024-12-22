@@ -55,7 +55,7 @@ Example 4: Jón bakar. \
 Example 5: Eiffel turninn bakar.
 
 ## A Note On Þeir
-There is a similar story with *þeir* as there is to *he* and *han* with one twist. As you could probably guess, *þeir* could be swapped with any plural noun or two singular nouns, and the accompanying conjugation for that word as a subject would be correct. 
+There is a similar story with *þeir* as there is to *he* and *han*, but with one twist. As you could probably guess, *þeir* could be swapped with any plural noun or two singular nouns, and the accompanying conjugation for that word as a subject would be correct. 
 
 Example 1: Þeir baka - (They bake.) \
 Example 2: Kettir baka. - (Cats bake.) \
