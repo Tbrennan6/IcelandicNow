@@ -11,6 +11,8 @@ This post will give a brief introduction to grammatical gender in Icelandic.
 
 Grammatical gender refers to the phenomenon in some languages whereby all nouns, even ones with no real-world gender connotation, are assigned to a specific gender for grammatical purposes.
 
+<!-- truncate -->
+
 ## Grammatical gender in English
 
 English does not have grammatical gender, so things are only referred to by their actual gender identities.
