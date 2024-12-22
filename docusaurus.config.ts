@@ -82,12 +82,13 @@ const config: Config = {
       },
       items: [
         {to: '/blog', label: 'Articles', position: 'left'},
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Icelandic Courses',
-        },
+        {to: '/docs/welcome', label: 'Icelandic Courses', position: 'left'},
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Icelandic Courses',
+        // },
         // {
         //   href: 'https://github.com/facebook/docusaurus',
         //   label: 'GitHub',
