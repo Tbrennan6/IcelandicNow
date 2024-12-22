@@ -14,8 +14,6 @@ Example 1: **To** eat \
 Example 2: **To** bake  
 Example 3: **To** talk 
 
-From reading these verbs above, you have no idea who is doing the action or when it is taking place.
-
 In Icelandic, you can recognize the infinitive form by the word **að** appearing before the verb. 
 
 Example 1: **Að** borða \
