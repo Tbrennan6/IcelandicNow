@@ -16,7 +16,7 @@ Example 4: To talk \
 Example 5: I talk.\
 Example 6: I talk**ed**.
 
-Irregular verbs do not follow a regular pattern like this. In English, *to be* and *to eat* are two examples of irregular verbs. These verbs are irregular because their past tense forms do not follow an expected pattern. To be is completely irregular; none of its conjugated forms match its infinitive form. 
+Irregular verbs do not follow a regular pattern like this. In English, *to be* and *to eat* are two examples of irregular verbs. These verbs are irregular because their past tense forms do not follow an expected pattern. 
 
 Example 1: To be \
 Example 1: I am. \
@@ -40,7 +40,7 @@ Below, see the entire chart for *to be.* *To be* is a unique verb in English bec
 | **2nd.** | were      | were      |
 | **3rd.** | was       | were      |
 
-*Tip: For some people, it's hard to wrap their brains around the fact that "am" and "were" are technically the same word. But fear not; this is completely normal and part of the learning process! It may be helpful to mentally walk through the "to be" chart in your head a couple of times.*
+*Tip: For some people, it's hard to wrap their brains around the fact that "am" and "were" are technically the same word. But fear not; this is completely normal and part of the learning process! It may be helpful to mentally walk through the "to be" chart in your head a couple of times. Try making the equivalent of "he is" using "I" as the subject, and then move on to the other subjects, too.*
 
 ## Að Vera
 
