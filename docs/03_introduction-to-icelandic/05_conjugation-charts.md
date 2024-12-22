@@ -49,7 +49,7 @@ Example 5: The Eifel Tower bakes.
 The same is true of the word *hann* (he). It could be replaced with any other singular noun in Icelandic, and the accompanying conjugation for that word as a subject would be correct.
 
 Example 1: Hann bakar. \
-Example 2: Hun borðar. \
+Example 2: Hún borðar. \
 Example 3: Það bakar. \
 Example 4: Jón bakar. \
 Example 5: Eiffel turninn bakar.
