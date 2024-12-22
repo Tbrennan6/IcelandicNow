@@ -46,7 +46,7 @@ Example 3: It bakes. \
 Example 4: John bakes. \
 Example 5: The Eifel Tower bakes. 
 
-The same is true of the word *hann (he). It could be replaced with any other singular noun in Icelandic, and the accompanying conjugation for that word as a subject would be correct.
+The same is true of the word *hann* (he). It could be replaced with any other singular noun in Icelandic, and the accompanying conjugation for that word as a subject would be correct.
 
 Example 1: Hann bakar. \
 Example 2: Hun borðar. \
