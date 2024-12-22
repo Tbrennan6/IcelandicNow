@@ -25,7 +25,7 @@ Example 3: To eat \
 Example 3: I eat. \
 Example 4: I ate. 
 
-## To be
+## To  Be
 Below, see the entire chart for *to be.* *To be* is a unique verb in English because it is completely irregular; none of its forms look anything like the infinitive! It is also unique because it has five unique forms when most verbs have only three. Also of note is how the present tense and the past tense forms do not share anything in common. 
 
 | Pres. be | **Sing.** | **Plur.** |
@@ -42,7 +42,7 @@ Below, see the entire chart for *to be.* *To be* is a unique verb in English bec
 
 *Tip: For some people, it's hard to wrap their brains around the fact that "am" and "were" are technically the same word. But fear not; this is completely normal and part of the learning process! It may be helpful to mentally walk through the "to be" chart in your head a couple of times.*
 
-## Að vera
+## Að Vera
 
 *Að vera* is completely irrregular. In practice, this means that you have to remember its forms by heart. While this may seem intimidating, *að vera* is such a common verb that trying to avoid it would do more harm than good. 
 
@@ -72,6 +72,7 @@ Using the chart above, translate the following into Icelandic:
 7. You were
 8. He was
 
-
-
+## Now I know:
+- what regular and irregular verbs are
+- how to conjugate að vera in the present and the past
 
