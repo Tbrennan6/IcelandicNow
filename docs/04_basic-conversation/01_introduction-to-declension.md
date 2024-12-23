@@ -12,21 +12,21 @@ Much of  the following text is the exact same as the introduction to the inflect
 ## Declension In English
 English nouns do not inflect very much. As a result, nouns do not change their endings very much. Consider how the word *horse* is the same in the first three examples below.
 
-Example 1: This is **a horse**.
-Example 2: I saw **a horse**.
+Example 1: This is **a horse**. \
+Example 2: I saw **a horse**. \
 Example 3: I gave **a horse** an apple.
 
 Below, you will find the translations of these sentences into Icelandic. Notice how the word has different endings? That is inflection at work!
 
-Example 1: Þetta er **hestur**.
+Example 1: Þetta er **hestur**. \
 Example 2: Ég sá **hest**.
 Example 3: Ég gaf **hesti** epli
 
 The only real inflection that English nouns (words that represent a person, place, thing, or idea) undergo is to follow extremely regular and consistent rules. In English, you add an *-s* or *-es* to the end of a noun to change it from singular to plural (one to many), and you add the words a or an or the before the noun to make it indefinite or definite (roughly, non-specific or specific). Notice below how these simple additions change what images and ideas come to mind.
 
-Example 1: **A horse** eats.
-Example 2: **The horse** eats.
-Example 3: **Horses** eat.
+Example 1: **A horse** eats. \
+Example 2: **The horse** eats. \
+Example 3: **Horses** eat. \
 Example 4: **The horses** eat.
 
 <!---
