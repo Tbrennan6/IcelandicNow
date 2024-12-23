@@ -72,6 +72,6 @@ Using the chart above, translate the following into Icelandic:
 7. You were
 8. He was
 
-## Now I know:
+## Now I Know:
 - what regular and irregular verbs are
 - how to conjugate *að vera* in the present and the past
