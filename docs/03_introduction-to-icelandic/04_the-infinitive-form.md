@@ -29,7 +29,7 @@ Example 2: Þú **tal**ar. \
 Example 3: Hann **tal**ar. \
 Example 4: Ég **tal**a. 
 
-## Now I know:
+## Now I Know:
 - the infinitive form of a verb is the unconjugated form of the verb
 - you can recognize the infinitive form of a verb by the word **að* coming before it
 - Icelandic verbs end in *a* in the infinitive form
