@@ -20,7 +20,7 @@ Example 1: Ég er að borða.\
 Example 2: Hann er að tala.\
 Example 3: Hún var að baka. 
 
-## What can I say with these?
+## What Can I Say With These?
 
 You can use nearly any verb with this structure and make a good, grammatical sentence. Progressive tenses are very useful in daily conversations because it is very common to tell somebody what you are doing or to describe what somebody else is doing at that very moment. 
 
@@ -31,7 +31,7 @@ Example 4: Þið eruð að tala. - (They are talking.)
 
 *Tip: If you are having some trouble, try thinking of instead of saying, "I am eating," Icelandic says, "I am to eat."*
 
-## Putting it all together
+## Putting It All Together
 
 You can blend this structure with the word *hvað* and the verb *að gera* (to do) to make some normal, common conversations!
 
@@ -44,7 +44,7 @@ Answer 3: Hann er að elda. - (He is cooking.)
 Question 3: Hvað eruð þið að gera? - (What are y'all doing?) \
 Answer 3: Við erum að tala. - (We are talking.)
 
-## Now I know:
+## Now I Know:
 - what the progressive tenses are
 - when progressive tenses are used
 - how Icelandic forms the progressive tenses
