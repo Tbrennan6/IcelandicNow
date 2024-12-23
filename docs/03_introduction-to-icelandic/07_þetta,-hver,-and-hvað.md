@@ -24,7 +24,7 @@ Example 2: Hver er þetta? - (Who is that?)
 
 *Note: You can only use "hver" to ask who a single person is. More about "hver" will be revealed in a future lesson.*
 
-## Now I know:
+## Now I Know:
 - how to identify something using *þetta* 
 - how to ask what something is using *hvað* 
 - how to ask who somebody is using *hver*
