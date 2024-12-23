@@ -50,7 +50,7 @@ What makes this difficult for non-natives is that the abundance of forms does no
 
 While mastering Icelandic inflection can seem daunting, with time and practice, it will become as natural and effortless as it is in English. 
 
-**Now I know:**
+**Now I Know:**
 - inflection refers to words changing their endings
 - English does not have as much inflection as Icelandic does
 - inflection is important because it provides additional information
