@@ -46,7 +46,7 @@ As mentioned in the previous lesson, Icelandic verbs conjugate more and more com
 |  **Y'all / Þið**  |       bake      |       bak**ið**       |     bak**ed**    |    bök**uðuð**\**   |
 | **They / Þeir\*** |       bake      |        baka       |     bak**ed**    |    bök**uðu**\**    |
 
-*These subjects are hiding other versions depending on gender. You will learn more about these subjects in the lesson *conjugation charts*. 
+*These subjects are hiding other versions depending on gender. You will learn more about these subjects in the lesson "conjugation charts". 
 **These words are experiencing umlaut. You will learn more about umlaut in a later lesson. 
 
 Using the chart above, translate the following into Icelandic:
