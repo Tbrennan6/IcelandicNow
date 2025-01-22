@@ -57,3 +57,8 @@ Some verbs can accept a mixture of cases. When this happens, it is not because e
 Example 1: tak/a (acc) - (take, like with a hand)
 Example 2: tak/a (dat) - (take, like receive a suggestion)
 
+## Now I Know:
+- the difference between a subjct and an object
+- what case steering is
+- what cases subjects and objects are typically on
+- how verbs control the case of their objects
