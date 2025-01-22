@@ -41,7 +41,7 @@ Similarly to direct objects, what case an indirect object needs to be in is dete
 
 Typically, dictionaries and wordlists will not denote what case an indirect object needs to be in unless it is not the indirect case. When this is done, the dative object is denoted in parenthesis after the verb before the direct object.
 
-Example 1: bak/a (acc)
+Example 1: bak/a (acc)\
 Example 2: spry/ja (acc) (gen)
 
 ## No Objects
