@@ -8,9 +8,9 @@ By now, you should be fairly comfortable with the idea of subjects and objects. 
 ## Subject 
 When a nous is acting as a subject in Icelandic, it overwhelmingly needs to be in the nominative case. This is a basic rule that is only broken in specific circumstances. 
 
-Example 1: **Hann** borðar. \ 
-Exmaple 2: **Hún** borðar. \
-Example 3: **Það** borðar. \
+Example 1: **Hann** borðar.\ 
+Exmaple 2: **Hún** borðar.\
+Example 3: **Það** borðar.\
 
 ## Objects 
 When a noun is acting as an object, it overwhelmingly needs to be in a case other than nominative: either accusative, dative, or genitive. These cases together are called the *additional cases*. 
@@ -47,7 +47,7 @@ Example 2: spry/ja (acc) (gen)
 ## No Objects
 Don't make the mistake of thinking that all verbs need an object all the time. Only *transitive* verbs want objects. There are many verbs that never wnat any objects, known as *non-transitive* verbs. 
 
-Example 1: að vakna - (to wake up) \
+Example 1: að vakna - (to wake up)\
 Example 2: að öskra - (to scream)
 
 
