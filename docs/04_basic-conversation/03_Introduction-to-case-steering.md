@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Introduction to Cast Steering
+title: Introduction to Case Steering
 ---
 
 By now, you should be fairly comfortable with the idea of subjects and objects. Whether a noun is a subject or an object and what verb it is effected by is a large part of deciding what case a noun needs to be.
