@@ -121,7 +121,7 @@ In the next lesson, you will learn more about when each form is used!
 
 ## Now I Know:
 - what declension is
-- how a case is
+- how cases are represented in declension tables
 - how many cases exist in Icelandic grammar
 - the names of the cases in Icelandic
 
