@@ -10,7 +10,7 @@ When a nous is acting as a subject in Icelandic, it overwhelmingly needs to be i
 
 Example 1: **Hann** borðar. \ 
 Exmaple 2: **Hún** borðar. \
-Example 3: **Það** borðar.
+Example 3: **Það** borðar. \
 
 ## Objects 
 When a noun is acting as an object, it overwhelmingly needs to be in a case other than nominative: either accusative, dative, or genitive. These cases together are called the *additional cases*. 
