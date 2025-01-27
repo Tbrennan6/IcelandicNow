@@ -21,11 +21,11 @@ Below are the most common time-sensitive greetings. The options given are all ex
 | **Option 2**   | góðan dag      | gott kvöld      |
 | **Option 3**   | daginn     | kvöldið      |
 
-**Conversation 1**/
+**Conversation 1**\
 Person 1: Góðan daginn! - (Good day!)\
 Person 2: Daginn. - (Good day.)
 
-**Conversation 2**/
+**Conversation 2**\
 Person 1: Gott kvöld. - (Good evening.)\
 Person 2: Kvöldið. - (Good evening.)
 
@@ -49,11 +49,11 @@ Breaking it down, the phrase *komdu sæll og blessaður* makes use of two adject
 | **Singular** | sæll og blessaður  | sæl og blessuð     | sælt og blessað |
 | **Plural**   | sælir og blessaðir | sælar og blessaðar | sæl og blessuð  |
 
-**Conversation 1:**/
+**Conversation 1:**\
 A woman: Komdu sæll og blessaður. - (Hello.)\
 A man: Sæl. - (Hello.)
 
-**Conversation 2:**/
+**Conversation 2:**\
 A boy: Komdu sæl og blessuð. - (Hello.)\
 His grandmother: Komdu sæll. - (Hello.)
 
@@ -77,7 +77,7 @@ Example 2: Heyrumst! - (We'll hear from each other again.)
 
 The phrase *góða nótt,* meaning *good Night*, is used to say *goodbye* to someone, but only when one of the two parties to the conversation is going to bed or otherwise leaving the area. This is the same as in English. 
 
-**Conversation:**
+**Conversation:**\
 Person 1: Góða nótt. - (Goodnight.)\
 Person 2: Góða nótt! Bæ. - (Goodnight, bye.)
 
