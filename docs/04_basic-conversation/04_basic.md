@@ -21,10 +21,12 @@ Below are the most common time-sensitive greetings. The options given are all ex
 | **Option 2**   | góðan dag      | gott kvöld      |
 | **Option 3**   | daginn     | kvöldið      |
 
-Person 1: Góðan daginn! - (Good day!)
+**Conversation 1**/
+Person 1: Góðan daginn! - (Good day!)/
 Person 2: Daginn. - (Good day.)
 
-Person 1: Gott kvöld. - (Good evening.)
+**Conversation 2**/
+Person 1: Gott kvöld. - (Good evening.)/
 Person 2: Kvöldið. - (Good evening.)
 
 *Note 1:  While saying "good day" or "good evening" to somebody in English can be a little stilted and overly formal, this is not the case in Icelandic. Saying "góðan daginn" and its equivalents is very typical and normal sounding.*
@@ -46,3 +48,37 @@ Breaking it down, the phrase *komdu sæll og blessaður* makes use of two adject
 |--------------|--------------------|--------------------|-----------------|
 | **Singular** | sæll og blessaður  | sæl og blessuð     | sælt og blessað |
 | **Plural**   | sælir og blessaðir | sælar og blessaðar | sæl og blessuð  |
+
+**Conversation 1:**/
+A woman: Komdu sæll og blessaður. - (Hello.)/
+A man: Sæl. - (Hello.)
+
+**Conversation 2:**/
+A boy: Komdu sæl og blessuð. - (Hello.)/
+His grandmother: Komdu sæll. - (Hello.)
+
+Two other informal greetings are important to know. 
+
+*Hæ* is much less formal and is used fairly often among younger people. *Halló* is also used, but it is most common when answering a phone.
+
+*Note: "Komdu sæll og blessaður" is a common phrase and is not nearly as stilted, weird, or bizarre as saying "come happy and blessed" would be in English.
+
+## Saying Goodbye
+There are not nearly as many ways to say *goodbye* as there are to say *hello*.
+
+The two most common ways are to say *bless* or *bæ*, both meaning *bye*. They are often said twice in a row, just like saying *bye-bye* in English.
+
+Example: Bless bless! - (Bye!)
+
+You may also say *(við) heyrumst* or *(við) sjáumst,* meaning *we’ll hear from each other again* and *we’ll see each other again."* As you may imagine, *(við) sjáumst* implies that you and your conversation partner just saw each other and, as such, it's not very appropriate for a phone conversation. 
+
+Example 1: Bæ, við heyrumst. - (Bye, we’ll hear each other again.)/
+Example 2: Heyrumst! - (We'll hear from each other again.)
+
+The phrase *góða nótt,* meaning *good Night*, is used to say *goodbye* to someone, but only when one of the two parties to the conversation is going to bed or otherwise leaving the area. This is the same as in English. 
+
+**Conversation:**
+Person 1: Góða nótt. - (Goodnight.)/
+Person 2: Góða nótt! Bæ. - (Goodnight, bye.)
+
+In the above example, one of the parties must have been going to bed or leaving the area.
