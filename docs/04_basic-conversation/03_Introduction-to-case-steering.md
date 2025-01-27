@@ -47,8 +47,8 @@ Example 2: spry/ja (acc) (gen)
 ## No Objects
 Don't make the mistake of thinking that all verbs need an object all the time. Only *transitive* verbs want objects. There are many verbs that never wnat any objects, known as *non-transitive* verbs. 
 
-Example 1: að vakna - (to wake up) \
-Example 2: að öskra - (to scream)
+Example 1: vakna - (to wake up) \
+Example 2: öskra - (to scream)
 
 
 ## Multiple Cases
