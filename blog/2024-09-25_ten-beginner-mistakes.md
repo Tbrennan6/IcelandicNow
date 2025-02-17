@@ -5,7 +5,6 @@ authors: [tbrennan]
 tags: [toppost, grammar, faq]
 ---
 
-TODO: Fix formatting on lists
 Sælir verið þið kæru nemendur,
 
 This post will discuss and remedy ten common beginner Icelandic mistakes.
