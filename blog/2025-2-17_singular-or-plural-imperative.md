@@ -18,7 +18,7 @@ The imperative form is the verb form that is used to give people commands. Since
 
 *Note: The first-person plural form is also used as a type of imperative. For example, saying "let's go" can be seen as an imperative, "förum!"*
 
-Example 1: Segðu mér! - (Tell me!)
+Example 1: Segðu mér! - (Tell me!)\
 Example 2: Segið mér- (Tell me!)
 
 ## Þérun
