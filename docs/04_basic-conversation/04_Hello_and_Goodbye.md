@@ -70,7 +70,7 @@ The two most common ways are to say *bless* or *bæ*, both meaning *bye*. They a
 
 Example: Bless bless! - (Bye!)
 
-You may also say *(við) heyrumst* or *(við) sjáumst,* meaning *we’ll hear from each other again* and *we’ll see each other again."* As you may imagine, *(við) sjáumst* implies that you and your conversation partner just saw each other and, as such, it's not very appropriate for a phone conversation. 
+You may also say *(við) heyrumst* or *(við) sjáumst,* meaning *we’ll hear from each other again* and *we’ll see each other again.* As you may imagine, *(við) sjáumst* implies that you and your conversation partner just saw each other and, as such, it's not very appropriate for a phone conversation. 
 
 Example 1: Bæ, við heyrumst. - (Bye, we’ll hear each other again.)\
 Example 2: Heyrumst! - (We'll hear from each other again.)
