@@ -3,6 +3,7 @@ slug: imperative
 title: When Do You Use The Singular Or Plural Imperative?
 authors: [tbrennan]
 tags: [howdoyou, grammar, faq]
+---
 
 Daginn, 
 
