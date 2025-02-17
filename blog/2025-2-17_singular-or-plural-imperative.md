@@ -22,7 +22,7 @@ Example 1: Segðu mér! - (Tell me!)\
 Example 2: Segið mér- (Tell me!)
 
 ## Þérun
-*Þérun* refers to the old pronoun *þér*. While *þér* is still used in modern language as the dative of *þú*, it used to be its own independent pronoun that meant *you* formally. While *þér* was a singular pronoun used to address one person, it was used with plural verbs and adjectives.
+*Þérun* refers to the old pronoun *þér*. While *þér* is still used in modern language as the dative of *þú*, it used to be its own independent pronoun that was a more formal version of *you*. While *þér* was a singular pronoun used to address one person, it was used with plural verbs and adjectives.
 
 Example 1: Talið þér íslensku?. - (Do you speak Icelandic?)\
 Example 2: Hver eruð þér? - (Who are you?)\
