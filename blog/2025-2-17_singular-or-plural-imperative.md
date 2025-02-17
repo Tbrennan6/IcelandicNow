@@ -22,7 +22,7 @@ Example 1: Segðu mér! - (Tell me!)\
 Example 2: Segið mér- (Tell me!)
 
 ## Þérun
-*Þérun* refers to the old pronoun *þér*. While *þér* is still used in modern langauge as the dative of *þú*, it used to be its own independant pronoun that meant *you* formal. While *þér* was a singular pronoun, used to address one person, it was used with plural verbs and adjectives.
+*Þérun* refers to the old pronoun *þér*. While *þér* is still used in modern language as the dative of *þú*, it used to be its own independent pronoun that meant *you* formally. While *þér* was a singular pronoun used to address one person, it was used with plural verbs and adjectives.
 
 Example 1: Talið þér íslensku?. - (Do you speak Icelandic?)\
 Example 2: Hver eruð þér? - (Who are you?)\
@@ -34,19 +34,19 @@ Example 1: Afsakið! - (Excuse me!)\
 Example 2: Afsakaðu - (Excuse me!)
 
 ## Instructions
-Instructions can seem a little bit more ambiguous. For example, is a cookbook directed only to the reader or is it addressed to the entirety of the potential reading base? The same can be asked of a political sign, a manual, or a large host of other things. 
+Instructions can seem a little bit more ambiguous. For example, is a cookbook directed only to the reader or is it addressed to the entirety of the potential reading base? The same can be said of a political sign, a manual, or a large host of other things. 
 
-Traditionally, these types of mediums use the plural forms because they are written for a general audience. They are an addressed to the general readership of the instructions. 
+Traditionally, these types of mediums use the plural forms because they are written for a general audience. They are addressed to the general readership of the instructions. 
 
 Example 1: Bakið í ofni í um 15-20 mín. - (Bake in the oven for about 15-20 min.)\
-Example 2: Notið viðeigandi hlífðarbúnað. - (Use proper protective equiptment.)
+Example 2: Notið viðeigandi hlífðarbúnað. - (Use proper protective equipment.)
 
-However, the singular can be used to be more personal and to address the reader directly. This may be more common in something such as a blog or said in a podcast (ex. subcribe to our mailing list!) as compared to written a textobok. 
+However, the singular can be used to be more personal and to address the reader directly. This may be more common in something such as a blog or in a podcast (ex., subscribe to our mailing list!) as compared to a written textbook. 
 
-Example 1: Bakaðu í ofni í um 15-20 mín. - (Bake in the over for about 15-20 min)\
-Example 2: Notaðu viðeigandi hlífðarbúnað - (Use proper protective equiptment.)
+Example 1: Bakaðu í ofni í um 15-20 mín. - (Bake in the oven for about 15-20 min.)\
+Example 2: Notaðu viðeigandi hlífðarbúnað - (Use proper protective equipment.)
 
 ## What about the pool sign?
-Back to the sign. The pool sign uses both singular and plural imperative forms, but it shouldn't. Best practice woudl have been to choose one form and stick with it throughout. It is written for a general audience by a company in the service industry, so a plural form is likely more appropriate. 
+Back to the sign. The pool sign uses both singular and plural imperative forms, but it shouldn't. Best practice would have been to choose one form and stick with it throughout. It is written for a general audience by a company in the service industry, so a plural form is likely more appropriate. 
 
 As described by an Icelandic native, "It almost feels like the Blue Lagoon poster is written by two people; one who wants to follow the service industry formality and another one who wants to feel intimate and familiar."
