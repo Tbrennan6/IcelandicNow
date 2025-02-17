@@ -43,7 +43,7 @@ This one is straightforward. In English, days of the week and languages are alwa
 <font color="red">
 - Ég er að læra **Í**slensku.
 </font>
-- Ég er að læra **í**slenksu.
+- Ég er að læra **í**slensku.
 
 2.
 <font color="red">
