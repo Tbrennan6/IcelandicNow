@@ -14,16 +14,16 @@ In Icelandic, the most common way to tell somebody your name is to use the verb 
 | **2nd.**        | heitir    | heitið    |
 | **3rd.**        | heitir    | heita     |
 
-Example 1: Ég heiti Jón. - (My name is Jón.)
-Example 2: Við heitum Ása og Þór. - (We are called Ása and Þór.)
-Example 3: Hann heitir Sigurður. - (His name is Sigurður.)
-Example 4: Hvað heitirðu? - (What is your name?)
+Example 1: Ég heiti Jón. - (My name is Jón.) \
+Example 2: Við heitum Ása og Þór. - (We are called Ása and Þór.) \
+Example 3: Hann heitir Sigurður. - (His name is Sigurður.) \
+Example 4: Hvað heitirðu? - (What is your name?) \
 Example 5: Hvað heitið þið? - (What are y'all's names?)
 
 **Conversation:**
-Jón: Góðan dag. - (Good day.)
-Ása: Daginn. - (Good day.)
-Jón: Ég heiti Jón. Hvað heitirðu? - (My name is Jón. What's your name?)
+Jón: Góðan dag. - (Good day.) \
+Ása: Daginn. - (Good day.) \
+Jón: Ég heiti Jón. Hvað heitirðu? - (My name is Jón. What's your name?) \
 Ása: Ég heiti Ása. - (My name is Asa.)
 
 ## I am from
@@ -43,18 +43,18 @@ Below, see a chart of some of the common countries from which someone learning I
 | **Spain**         | Spánn      | Spáni         |
 | **France**        | Frakland   | Fraklandi     |
 
-Example 1: Hún er frá Svíðþjóð. - (She is from Sweden.) 
-Example 2: Þær eru frá Englandi og Noregi. - (They are from England and Norway.) 
-Example 3: Hann er frá Íslandi. - (He is from Iceland.)
+Example 1: Hún er frá Svíðþjóð. - (She is from Sweden.) \
+Example 2: Þær eru frá Englandi og Noregi. - (They are from England and Norway.) \
+Example 3: Hann er frá Íslandi. - (He is from Iceland.) \
 Example: 4: Ég er frá Bandaríkjunum. - (I am from the United States.)
 
 To ask where somebody is from, use the interrogative *hvaðan* and the verb *að vera*. *Hvaðan* has the same meaning as *from where* or *whence* in English. Since the *from* meaning is already encoded in this word, the preposition *frá* is never used alongside it.  
 
-Question 1: Hvaðan ertu? - (Where are you from?)
+Question 1: Hvaðan ertu? - (Where are you from?) \
 Answer 1: Ég er frá Bandaríkjunum. - (We are from the United States.)
 
-Question 2: Hvaðan ertu? - (Where are you from?)
+Question 2: Hvaðan ertu? - (Where are you from?) \
 Answer 2: Ég er frá Noregi. - (I am from Norway.)
 
-Question 3: Hvaðan eruð þið? - (Where are y'all from?)
+Question 3: Hvaðan eruð þið? - (Where are y'all from?) \
 Answer 3: Við erum frá Englandi. - (We are from England.)
