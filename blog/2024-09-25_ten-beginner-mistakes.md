@@ -65,9 +65,9 @@ The big exception is for genetive, where most names will add an *-s*.
 1. Hún talaði við **Önnu**.
 
 <font color="red">
-2. Ég sá styttu af Leif**ur** Erikssónur.
+2. Ég sá styttu af Leif**ur** Eirikssónur.
 </font>
-2. Ég sá styttu af Leif**i** Erikss**y**n**i**.
+2. Ég sá styttu af Leif**i** Eirikss**y**n**i**.
 
 <font color="red">
 3. Biden var varaforseti Barack Obama.
