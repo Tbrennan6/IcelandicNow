@@ -19,7 +19,7 @@ The imperative form is the verb form that is used to give people commands. Since
 *Note: The first-person plural form is also used as a type of imperative. For example, saying "let's go" can be seen as an imperative, "förum!"*
 
 Example 1: Segðu mér! - (Tell me!)\
-Example 2: Segið mér- (Tell me!)
+Example 2: Segið mér!- (Tell me!)
 
 ## Þérun
 *Þérun* refers to the old pronoun *þér*. While *þér* is still used in modern language as the dative of *þú*, it used to be its own independent pronoun that was a more formal version of *you*. While *þér* was a singular pronoun used to address one person, it was used with plural verbs and adjectives.
