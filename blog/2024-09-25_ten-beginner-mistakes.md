@@ -40,14 +40,12 @@ Example 2: Viltu sjá?
 This one is straightforward. In English, days of the week and languages are always capitalized. In Icelandic, they are only capitalized if they are the first word of a sentence.
 
 <font color="red">
-Example 1: Ég er að læra **Í**slensku.\ </font>
-
+Example 1: Ég er að læra **Í**slensku.</font>\
 Example 1: Ég er að læra **í**slensku.
 
 <font color="red">
-Example 2: Ég fór í bankann á **M**ánudaginn.
-
-Example 2: Ég fór í bankann á **m**ánudaginn.\ </font>
+Example 2: Ég fór í bankann á **M**ánudaginn. </font>\
+Example 2: Ég fór í bankann á **m**ánudaginn. 
 
 ## 8. Not declining proper names
 
