@@ -85,12 +85,12 @@ Example: Mér gekk **vel** í prófinu.
 Beginners often don't realize that prepositions do not translate between languages very well at all, so they use the "same" prepositions across langauges. As a result, when it comes to talking about locations in Icelandic, many beginners use prepositions incorrectly.
 
 <font color="red">
-Example 1: Ég fer **til** bankans./
-Example 2: Ég er **í** sjúkrahúsi./
+Example 1: Ég fer **til** bankans.\
+Example 2: Ég er **í** sjúkrahúsi.\
 Example 3: Ég er **í** Ísland.
 </font>
 
-Þessi kona er á sjúkrahúsi
+
 
 Just like how people typically say that they are "**on** a train" but "**in** a car," Icelandic switches between *á* and *í* when referring to being located at different places. What makes Icelandic a little more confusing is that this same preposition is used when going to that location as well.
 
