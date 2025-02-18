@@ -87,7 +87,7 @@ Beginners often don't realize that prepositions do not translate between languag
 <font color="red">
 Example 1: Ég fer **til** bankans.\
 Example 2: Ég er **í** sjúkrahúsi.\
-Example 3: Ég er **í** Ísland.
+Example 3: Ég er **í** Íslandi.
 </font>
 
 
