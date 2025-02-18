@@ -41,8 +41,8 @@ Below, see a chart of some of the common countries from which someone learning I
 | **United States** | Bandaríkin | Bandaríkjunum |
 | **Norway**        | Noregur    | Noregi        |
 | **Sweden**        | Svíþjóð    | Svíþjóð       |
-| **Spain**         | Spánn      | Spáni         |
-| **France**        | Frakland   | Fraklandi     |
+| **Canada**         | Kanada      | Kanada         |
+| **France**        | Frakkland   | Frakklandi     |
 
 Example 1: Hún er frá Svíðþjóð. - (She is from Sweden.)\
 Example 2: Þær eru frá Englandi og Noregi. - (They are from England and Norway.)\
