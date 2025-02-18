@@ -61,10 +61,10 @@ Example 2: Ég sá styttu af Leif**ur** Eirikssónur.\
 Example 3: Biden var varaforseti Barack Obama.
 </font>
 
-Example 1: Hún talaði við **Önnu**.<br>
-Example 2: Ég sá styttu af Leif**i** Eirikss**y**n**i**.<br> 
-Example 3a: Biden var varaforseti Barack**s** Obama.<br>
-Example 3b: Biden var varaforseti Obama**s**.
+Example 1: Hún talaði við **Önnu**.<br>  
+Example 2: Ég sá styttu af Leif**i** Eirikss**y**n**i**.<br>  
+Example 3a: Biden var varaforseti Barack**s** Obama.<br>  
+Example 3b: Biden var varaforseti Obama**s**.<br> 
 
 ## 7. Using adjectives instead of adverbs
 
