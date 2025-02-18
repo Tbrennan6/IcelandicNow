@@ -61,9 +61,9 @@ Example 2: Ég sá styttu af Leif**ur** Eirikssónur.\
 Example 3: Biden var varaforseti Barack Obama.
 </font>
 
-Example 1: Hún talaði við **Önnu**.
-Example 2: Ég sá styttu af Leif**i** Eirikss**y**n**i**.
-Example 3a: Biden var varaforseti Barack**s** Obama.
+Example 1: Hún talaði við **Önnu**.\
+Example 2: Ég sá styttu af Leif**i** Eirikss**y**n**i**.\
+Example 3a: Biden var varaforseti Barack**s** Obama.\
 Example 3b: Biden var varaforseti Obama**s**.
 
 ## 7. Using adjectives instead of adverbs
@@ -128,7 +128,7 @@ Example: Ég **elska** þig.
 This rule holds even when you put an adverb in the first position. This word order is unnatural in English, which is why many make mistakes, but perfectly correct in Icelandic.
 
 <font color="red">
-Example 1: Í dag ég **fór** í bankann. </font>
+Example 1: Í dag ég **fór** í bankann.</font>
 Example 1: Í dag **fór** ég í bankann.
 
 There is one main exception. In English, many question types contain the meaningless word do or does to signify that the words following form a question, but Icelandic (and every other language in the world except for Gaelic languages) does not. Instead, Germanic languages invert, putting the verb in the first position instead of the noun.
@@ -164,7 +164,7 @@ Example 2: Hefurðu **að sjá** það?
 
 These sentences can be fixed by using the supine form instead of the infinitive. While it is a bit hard to describe how to form the supine, it is always identical to the third-person singular past participle form. With time, practice, and exposure, you will pick up the patterns and be able to create this form with no problem.
 
-Example 1: Ég get **gert** það!
+Example 1: Ég get **gert** það!\
 Example 2: Hefurðu **séð** það?
 
 ## 1. Not inflecting
