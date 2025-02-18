@@ -18,33 +18,33 @@ The imperative form is the verb form that is used to give people commands. Since
 
 *Note: The first-person plural form is also used as a type of imperative. For example, saying "let's go" can be seen as an imperative, "förum!"*
 
-Example 1: Segðu mér! - (Tell me!)\
-Example 2: Segið mér! - (Tell me!)
+Example 1: Seg**ðu** mér! - (Tell me!)\
+Example 2: Seg**ið** mér! - (Tell me!)
 
 ## Þérun
 *Þérun* refers to the old pronoun *þér*. While *þér* is still used in modern language as the dative of *þú*, it used to be its own independent pronoun that was a more formal version of *you*. Although *þér* was a singular pronoun used to address one person, it was used with plural verbs and adjectives.
 
-Example 1: Talið þér íslensku? - (Do you speak Icelandic?)\
-Example 2: Hver eruð þér? - (Who are you?)\
-Example 3: Eruð þér íslenskir? - (Are you Icelandic?)
+Example 1: Tal**ið** **þér** íslensku? - (Do you speak Icelandic?)\
+Example 2: Hver er**uð** **þér**? - (Who are you?)\
+Example 3: Er**uð** **þér** íslenskir? - (Are you Icelandic?)
 
 The modern use of *þérun* is reserved to the most formal circumstances, but it is still common in a few phrases, including some commands. For example, the verb *að afsaka,* meaning *to excuse* is most often used with the *þérun.* 
 
-Example 1: Afsakið! - (Excuse me!)\
-Example 2: Afsakaðu! - (Excuse me!)
+Example 1: Afsak**ið**! - (Excuse me!)\
+Example 2: Afsaka**ðu**! - (Excuse me!)
 
 ## Instructions
 Instructions can seem a little bit more ambiguous. For example, is a cookbook directed only to the reader or is it addressed to the entirety of the potential reading base? The same can be said of a political sign, a manual, or a large host of other things. 
 
 Traditionally, these types of mediums use the plural forms because they are written for a general audience. They are addressed to the general readership of the instructions. 
 
-Example 1: Bakið í ofni í um 15-20 mín. - (Bake in the oven for about 15-20 min.)\
-Example 2: Notið viðeigandi hlífðarbúnað. - (Use proper protective equipment.)
+Example 1: Bak**ið** í ofni í um 15-20 mín. - (Bake in the oven for about 15-20 min.)\
+Example 2: Not**ið** viðeigandi hlífðarbúnað. - (Use proper protective equipment.)
 
 However, the singular can be used to be more personal and to address the reader directly. This may be more common in something such as a blog or in a podcast (ex., subscribe to our mailing list!) as compared to a written textbook. 
 
-Example 1: Bakaðu í ofni í um 15-20 mín. - (Bake in the oven for about 15-20 min.)\
-Example 2: Notaðu viðeigandi hlífðarbúnað. - (Use proper protective equipment.)
+Example 1: Baka**ðu** í ofni í um 15-20 mín. - (Bake in the oven for about 15-20 min.)\
+Example 2: Nota**ðu** viðeigandi hlífðarbúnað. - (Use proper protective equipment.)
 
 ## What about the pool sign?
 Back to the sign. The pool sign uses both singular and plural imperative forms, but it shouldn't. Best practice would have been to choose one form and stick with it throughout. It is written for a general audience by a company in the service industry, so a plural form is likely more appropriate. 
