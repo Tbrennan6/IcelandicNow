@@ -19,7 +19,7 @@ The imperative form is the verb form that is used to give people commands. Since
 *Note: The first-person plural form is also used as a type of imperative. For example, saying "let's go" can be seen as an imperative, "förum!"*
 
 Example 1: Segðu mér! - (Tell me!)\
-Example 2: Segið mér!- (Tell me!)
+Example 2: Segið mér! - (Tell me!)
 
 ## Þérun
 *Þérun* refers to the old pronoun *þér*. While *þér* is still used in modern language as the dative of *þú*, it used to be its own independent pronoun that was a more formal version of *you*. Although *þér* was a singular pronoun used to address one person, it was used with plural verbs and adjectives.
@@ -28,7 +28,7 @@ Example 1: Talið þér íslensku? - (Do you speak Icelandic?)\
 Example 2: Hver eruð þér? - (Who are you?)\
 Example 3: Eruð þér íslenskir? - (Are you Icelandic?)
 
-The modern use of *þérun* is reserved to the most formal circumstances, but it is still common in a few phrases. For example, the verb *að afsaka,* meaning *to excuse* is most often used with the *þérun.* 
+The modern use of *þérun* is reserved to the most formal circumstances, but it is still common in a few phrases, including some commands. For example, the verb *að afsaka,* meaning *to excuse* is most often used with the *þérun.* 
 
 Example 1: Afsakið! - (Excuse me!)\
 Example 2: Afsakaðu! - (Excuse me!)
