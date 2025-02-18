@@ -37,7 +37,7 @@ Example 2: Viltu sjá?
 
 ## 9. Capitalizing days and languages
 
-This one is straightforward. In English, days of the week and languages are always capitalized. In Icelandic, they are only capitalized if they are the first word of a sentence.
+This one is straightforward. In English, days of the week and languages are always capitalized. In Icelandic, they are only capitalized if they are the first word of a sentence,just like with any other word.
 
 <font color="red">
 Example 1: Ég er að læra **Í**slensku.\
@@ -57,19 +57,14 @@ The big exception is for genetive, where most names will add an *-s*.
 
 <font color="red">
 Example 1: Hún talaði við **Anna**.\
+Example 2: Ég sá styttu af Leif**ur** Eirikssónur.\
+Example 3: Biden var varaforseti Barack Obama.
 </font>
+
 Example 1: Hún talaði við **Önnu**.
-
-<font color="red">
-Example 2: Ég sá styttu af Leif**ur** Eirikssónur.
-</font>
 Example 2: Ég sá styttu af Leif**i** Eirikss**y**n**i**.
-
-<font color="red">
-Example 2: Biden var varaforseti Barack Obama.
-</font>
-Example 2: Biden var varaforseti Barack**s** Obama.
-Example 2: Biden var varaforseti Obama**s**.
+Example 3a: Biden var varaforseti Barack**s** Obama.
+Example 3b: Biden var varaforseti Obama**s**.
 
 ## 7. Using adjectives instead of adverbs
 
