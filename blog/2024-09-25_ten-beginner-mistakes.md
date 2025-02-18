@@ -26,13 +26,13 @@ Hundurinn vill borða matinn hennar.
 Often, new speakers learn the verb *að vilja*, but they don't learn (or they forget) that it is a bare infinitive verb. Unlike other verbs, when bare infinitive verbs chain, the following verb does not have the word **að** before it. As a result, new learned will make incorrect sentences like the following:
 
 <font color="red">
-Example 1: Ég vil **að** gera þetta!/
+Example 1: Ég vil **að** gera þetta!\
 Example 2: Viltu **að** sjá?
 </font>
 
 These sentences can be fixed by simply removing the word *að*.
 
-Example 1 Ég vil gera þetta!/
+Example 1 Ég vil gera þetta!\
 Example 2: Viltu sjá?
 
 ## 9. Capitalizing days and languages
