@@ -90,8 +90,6 @@ Example 2: Ég er **í** sjúkrahúsi.\
 Example 3: Ég er **í** Íslandi.
 </font>
 
-
-
 Just like how people typically say that they are "**on** a train" but "**in** a car," Icelandic switches between *á* and *í* when referring to being located at different places. What makes Icelandic a little more confusing is that this same preposition is used when going to that location as well.
 
 To tell the difference between "*going to*" and "*being at*" a location, you need to examine the verb of the sentence. Also, for the to meaning, the location with be in the accusative, while it will be dative for the at meaning.
@@ -113,9 +111,7 @@ Example 3: Ég fer **til Íslands**.
 
 This mistake is typically tied to a lack of knowledge about grammatical gender. In English (and many other languages), inanimate objects are referred to with the pronoun it, the Icelandic translation of which is það.
 
-
 But Icelandic does not refer to inanimate things as það unless that object has been assigned to the neuter grammatical gender.
-
 
 Grammatical gender is a fairly intensive topic, which you can read more about here.
 
@@ -128,7 +124,8 @@ Example: Ég **elska** þig.
 This rule holds even when you put an adverb in the first position. This word order is unnatural in English, which is why many make mistakes, but perfectly correct in Icelandic.
 
 <font color="red">
-Example 1: Í dag ég **fór** í bankann.</font>
+Example 1: Í dag ég **fór** í bankann.
+</font>
 Example 1: Í dag **fór** ég í bankann.
 
 There is one main exception. In English, many question types contain the meaningless word do or does to signify that the words following form a question, but Icelandic (and every other language in the world except for Gaelic languages) does not. Instead, Germanic languages invert, putting the verb in the first position instead of the noun.
@@ -144,8 +141,8 @@ Many of the verbs revolve around thinking and other experiential verbs.
 
 <font color="red">
 Example 1:  **Ég finnst** kakan góð!\
-Example 2: **Ég dreymdi** að ég væri fiskur.</font>
-
+Example 2: **Ég dreymdi** að ég væri fiskur.
+</font>
 Example 1: **Mér finnst** kakan góð!\
 Example 2: **Mig dreymdi** að ég væri fiskur.
 
