@@ -145,15 +145,12 @@ Many of the verbs revolve around thinking and other experiential verbs.
 
 <font color="red">
 Example 1:  **Ég finnst** kakan góð!\
-</font>
-Example 1: **Mér finnst** kakan góð!
+Example 2: **Ég dreymdi** að ég væri fiskur.</font>
 
-<font color="red">
-Example 2: **Ég dreymdi** að ég væri fiskur.\
-</font>
+Example 1: **Mér finnst** kakan góð!\
 Example 2: **Mig dreymdi** að ég væri fiskur.
 
-Finnst þér gaman að lesa?
+
 
 ## 2. No supine/sagnbót
 
