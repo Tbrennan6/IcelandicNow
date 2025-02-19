@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Unit Overview
 ---
 
-Welcome to the second unit! This unit is designed to introduce you to the concepts, phrases, and words necessary to make short conversations.
+Welcome to the second unit! This unit is designed to introduce you to the concepts, phrases, and words necessary to make short conversations while also providing a framework to understand inflection.
 
 **I Will Learn:**
 - what declension is
