@@ -38,7 +38,7 @@ Below, see a chart of some of the common countries from which someone learning I
 |-------------------|------------|---------------|
 | **Iceland**       | Ísland     | Íslandi       |
 | **England**       | England    | Englandi      |
-| **United States** | Bandaríkin | Bandaríkjunum |
+| **The United States** | Bandaríkin | Bandaríkjunum |
 | **Norway**        | Noregur    | Noregi        |
 | **Sweden**        | Svíþjóð    | Svíþjóð       |
 | **Canada**         | Kanada      | Kanada         |
