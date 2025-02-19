@@ -18,11 +18,12 @@ Example 3. Blessaður. Hvernig hefurðu það? - (Hello, how are you?)
 
 In theory, there are endless ways to answer these questions depending on your mood, but in practice, only a few are commonly used.
 
-| Good | gott   |
-|------|--------|
-| Well | ágætt  |
-| Fine | fínt   |
-| Ok   | í lagi |
+| **English** | **Icelandic** |
+|-------------|---------------|
+| Good        | gott          |
+| Well        | ágætt         |
+| Fine        | fínt          |
+| Ok          | í lagi        |
 
 More often than not, the word *allt* will precede the adjective. 
 
