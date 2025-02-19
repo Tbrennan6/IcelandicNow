@@ -41,3 +41,7 @@ Person 2: Ég hef það fínt, takk. - (I am doing well, thanks.)
 Conversation 3:\
 Person 1: Hvernig hefurðu það? - (How are you doing?)\
 Person 2: Ég hef það ágætt, takk. - (I am doing well, thanks.)
+
+## Now I Know:
+- how to ask somebody how they are doing
+- how to tell somebody how I am doing

@@ -59,3 +59,9 @@ Answer 2: Ég er frá Noregi. - (I am from Norway.)
 
 Question 3: Hvaðan eruð þið? - (Where are y'all from?)\
 Answer 3: Við erum frá Englandi. - (We are from England.)
+
+## Now I Know:
+- how to tell somebody my name 
+- how to tell somebody where I am from
+- how to ask somebody their name
+- how to ask somebody where they are from

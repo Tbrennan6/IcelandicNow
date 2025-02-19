@@ -52,3 +52,6 @@ Person 1: Heyrðu, þú ert frá Íslandi, er það ekki? - (Hey, you're from Ic
 Person 2: Jú. Ég er frá Íslandi. - (Yes. I am from Iceland.)\
 Person 1: Flott! Þekkirðu Björk? - (Great! Do you know Björk?)\
 Person 2: Nei. - (No.)
+
+## Now I Know:
+- many short phrases that can be widely applied

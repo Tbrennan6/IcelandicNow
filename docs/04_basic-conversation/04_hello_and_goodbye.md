@@ -82,3 +82,10 @@ Person 1: Góða nótt. - (Goodnight.)\
 Person 2: Góða nótt! Bæ. - (Goodnight, bye.)
 
 In the above example, one of the parties must have been going to bed or leaving the area.
+
+## Now I Know:
+- the most common greetings in Icelandic
+- what greetings are used depending on the time of day
+- what greetings are used depending on formality
+- how greetings change depending on person and pluality
+- the most common ways to say goodbye
