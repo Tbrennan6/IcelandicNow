@@ -27,17 +27,17 @@ In theory, there are endless ways to answer these questions depending on your mo
 
 More often than not, the word *allt* will precede the adjective. 
 
-Conversation 1:
+Conversation 1:\
 Person 1: Komdu sæl Kolbrún, hvað segirðu gott? - (Hello Kolbrún, how are you?)\
 Person 2: Ég segi allt ágætt. En þú? - (I am well. Yourself?)\
 Person 1: Ég segi allt gott, takk. - (I am good, thanks.)
 
-Conversation 2:
+Conversation 2:\
 Person 1: Komdu sæll. - (Hello.)\
 Person 2: Sæll. - (Hello.)\
 Person 1: Hvernig hefurðu það? - (How are you doing?)\
 Person 2: Ég hef það fínt, takk. - (I am doing well, thanks.)
 
-Conversation 3:
+Conversation 3:\
 Person 1: Hvernig hefurðu það? - (How are you doing?)\
 Person 2: Ég hef það ágætt, takk. - (I am doing well, thanks.)
