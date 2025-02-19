@@ -20,8 +20,7 @@ Example 3: Hann heitir Sigurður. - (His name is Sigurður.)\
 Example 4: Hvað heitirðu? - (What is your name?)\
 Example 5: Hvað heitið þið? - (What are y'all's names?)
 
-**Conversation:**
-
+**Conversation:**\
 Jón: Góðan dag. - (Good day.)\
 Ása: Daginn. - (Good day.)\
 Jón: Ég heiti Jón. Hvað heitirðu? - (My name is Jón. What's your name?)\
