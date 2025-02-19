@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-title: Short fixed phrases
+title: Short Fixed Phrases
 ---
 
 Throughout this course, you will learn about inflection and how to form natural, creative sentences. While the goal is to construct your own sentences from scratch, having a collection of pre-constructed phrases is also highly valuable.
