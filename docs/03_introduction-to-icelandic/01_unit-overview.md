@@ -23,9 +23,9 @@ Welcome to the first unit! This unit is designed to introduce you to the absolut
 - That Icelandic has three versions of they and when they are used
 - What regular and irregular verbs are
 - How to conjugate *að vera* in the present and the past
-- How to identify something using þetta
-- How to ask what something is using hvað
-- How to ask who somebody is using hver
+- How to identify something using *þetta*
+- How to ask what something is using *hvað*
+- How to ask who somebody is using *hver*
 - What the progressive tenses are
 - When progressive tenses are used
 - How Icelandic forms the progressive tenses
