@@ -22,5 +22,5 @@ I wrote more about how to use this resource in an article [here](TODO)!
 
 Every time you learn a new inflectional pattern, I encourage you to practice with this website, filling out the tables for yourself a few times to test your understanding and reinforce your learning.
 
-I wrote more about how to use this resource in an article [here](https://www.icelandicnow.com/resource-highlight-slenzkais)!
+I wrote more about how to use this resource in an article [here](https://tbrennan6.github.io/IcelandicNow/blog/islenza.is)!
 
