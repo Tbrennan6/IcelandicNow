@@ -31,7 +31,7 @@ Person 2: Kvöldið. - (Good evening.)
 
 *Note 1:  While saying "good day" or "good evening" to somebody in English can be a little stilted and overly formal, this is not the case in Icelandic. Saying "góðan daginn" and its equivalents is very typical and normal sounding.*
 
-*Note 2: "Icelandic does not have a comfortable translation for "good morning," such as is common in English. For this purpose, "góðan daginn" is used.*
+*Note 2: Icelandic does not have a comfortable translation for "good morning," such as is common in English. For this purpose, "góðan daginn" is used.*
 
 ## Formality Sensitive Greetings
 Icelandic greetings can also depend on the level of formality. This happens in English as well. For instance, if you are talking with a superior at work or an older person in general, it would be common and respectful to use a more formal greeting than one you would use with your friends. You wouldn't, usually, say *wazzup* to your great-grandma or a company representative in a business meeting. Instead, you may choose to say something more formal, such as *hello*.
