@@ -1,6 +1,6 @@
 ---
 slug: islenza.is
-title: "Resource Feature: Islenzka.is"
+title: "Resource Feature: Íslenzka.is"
 authors: [tbrennan]
 tags: [resource feature]
 ---

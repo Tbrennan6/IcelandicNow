@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Complete free courses designed to provide clear guidance and support for beginners.
+        Completely free courses designed to provide clear guidance and support for beginners.
       </>
     ),
   },
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Browse all of our other resources. We're sure you'll find something useful. 
+        Browse all of our other resources. We're sure you'll find something useful! 
       </>
     ),
   },
