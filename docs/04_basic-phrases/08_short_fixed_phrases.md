@@ -48,7 +48,7 @@ Er það ekki? - (Isn't that so or Right?)\\
 **Conversation:**\
 Person 1: Góðan daginn. - (Good day.)\
 Person 2: Daginn. - (Good day.)\
-Person 1: Heyrðu, þú ert frá Íslandi, er það ekki? - (Hey, you're from Iceland, right?\
+Person 1: Heyrðu, þú ert frá Íslandi, er það ekki? - (Hey, you're from Iceland, right?)\
 Person 2: Jú. Ég er frá Íslandi. - (Yes. I am from Iceland.)\
 Person 1: Flott! Þekkirðu Björk? - (Great! Do you know Björk?)\
 Person 2: Nei. - (No.)
