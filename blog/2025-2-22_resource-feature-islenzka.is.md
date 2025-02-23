@@ -7,6 +7,8 @@ tags: [resource feature]
 
 The creator of Íslenzka.is kindly approved this resource feature, as well as its mention and recommendation in the course, following an email inquiry.
 
+<!-- truncate -->
+
 ## What is it?
 [Íslenzka.is](https://islenzka.is/) is a website by Mark, a man with an interest in linguistics who started learning Icelandic after a trip to Iceland in 2011. In addition to Íslenska.is, Mark also ran [Íslenzka.net](https://islenzka.net/), a well-made bog documenting his Icelandic learning journal, which is now inactive. 
 

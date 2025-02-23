@@ -9,9 +9,12 @@ Daginn,
 
 The other day, a friend and fellow learner showed me this picture from his trip to the Blue Lagoon:
 
+<!-- truncate -->
+
 ![blue lagoon sign](/img/blue_lagoon_sign.jpg)
 
 The picture is a sign giving guests instructions on how to secure their clothes in the facility's lockers. The reason why he shared is that he noticed that the imperative forms switch between the singular and plural, and he wanted to know why.
+
 
 ## In general
 The imperative form is the verb form that is used to give people commands. Since you can only speak commands to people that you are talking to, the imperative only exists with second-person forms. You use the second-person singular when commanding one person and the second-person plural when commanding multiple people.

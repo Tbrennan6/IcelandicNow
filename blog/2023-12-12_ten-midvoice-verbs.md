@@ -7,7 +7,9 @@ tags: [toppost, vocabulary]
 
 Good day!
 
-This is the second post in a series called "You Should Know." You can view all other posts in this series Here.
+This is the second post in a series called "You Should Know", where we 
+
+<!-- truncate -->
 
 Midvoice verbs (those that end in -st) are often scary for Icelandic learners, and for a valid reason: they can be pretty confusing. Midvoice verbs are used to cover a lot of ground in Icelandic. They can be used to create reflexive meanings, reciprocal meanings, possibility-related meanings, and even entirely brand-new verbs wholly unrelated to their non-midvoice counterpart, if such even exists. And, to make matters worse, they are everywhere!
 

@@ -9,6 +9,8 @@ Sælir verið þið kæru nemendur,
 
 This post will discuss and remedy ten common beginner Icelandic mistakes.
 
+<!-- truncate -->
+
 To illustrate the mistakes, incorrect and correct examples will be provided. The incorrect examples will be colored in <font color="red">red</font>.
 
 ## 10. Using **að** after **vilja**

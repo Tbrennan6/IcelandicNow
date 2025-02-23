@@ -7,7 +7,9 @@ tags: [vocabulary]
 
 Hello everybody!
 
-This is the first post in a new series called "You Should Know." You can view all other posts in this series Here.
+This is the first post in a new series called "You Should Know." 
+
+<!-- truncate -->
 
 The series is mostly aimed at Icelandic learners who are just starting to enter the intermediate phase. At this level, one of the biggest struggles is having the functional vocabulary necessary to read books, talk with others, and just generally make good use of the language.
 
