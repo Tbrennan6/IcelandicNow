@@ -13,14 +13,14 @@ English does not have grammatical gender, so things are only referred to by thei
 - Female people and animals are referred to with feminine pronouns (she, her).
 - Everything else—such as inanimate objects (cups, bowls) and abstract concepts (happiness)—is referred to with the neutral pronoun (it).
 
-## Grammatical gender in Icelandic.
+## Grammatical gender in Icelandic
 
 Icelandic has grammatical gender, meaning that every noun is classified as masculine, feminine, or neuter. This classification occurs regardless of the noun’s real-world gender or lack thereof. For example, a noun might refer to something with no inherent gender, like an object or an abstract concept, but it still belongs to one of these three gender categories for grammatical purposes.
 
 For example, in Icelandic, the word *froskur* (drog) is classified as masculine, even though frogs can be both male or female in reality. Similarly, *borg* (city) is feminine, despite cities having no living characteristics or natural gender. Likewise, *barn* (child) is neuter, even though children are people who have their own gender identity. 
 
 ### Common misconceptions
-It may be tempting to think that there is a reason behind nouns being ceratin genders, but there is not. It is completely arbitrary. The grammatical gender assigned to a noun is completely separate from the actual thing the noun represents. There is no way to determine if some noun is masculiune, feminine, or neuter based on what it represents; it is simply the way that the noun is characterised. 
+It may be tempting to think that there is a reason behind nouns being certain genders, but there is not. It is completely arbitrary. The grammatical gender assigned to a noun is completely separate from the actual thing the noun represents. There is no way to determine if some noun is masculiune, feminine, or neuter based on what it represents; it is simply the way that the noun is characterised. 
 
 Another important thing to understand is that the gender is attached to the noun itself, not the thing it represents. Consider the following two words:
 
