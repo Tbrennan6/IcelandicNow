@@ -14,7 +14,7 @@ Additionally, pre-constructed phrases serve as useful grammatical reference poin
 Geturðu endurtekið? - (Could you repeat?)\
 Að sjálfsögðu. - (Of course.)\
 Fyrirgefðu. - (Sorry.)
-Talarðu ensku/íslensku? - (Do you speak English/Icelandic?)
+Talarðu ensku/íslensku? - (Do you speak English/Icelandic?)\
 Bara - (Only)
 
 **Conversation:**\
@@ -42,7 +42,7 @@ Veistu - (Do you know, used for facts)\
 Þekkirðu - (Do you know / Are you familiar with, used for people or places, not facts)\
 Flott - (Great, interjection)\
 Heyrðu - (Hey, used to get attention or to refresh the conversation)\
-Er það ekki? - (Isn't that so or Right?)\\
+Er það ekki? - (Isn't that so or Right?)
 
 
 **Conversation:**\
