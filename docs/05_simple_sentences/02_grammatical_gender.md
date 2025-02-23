@@ -46,7 +46,7 @@ Example 1: Þetta er **barn**. **Það** er… - (This is a child. It is…)\
 Example 2: Þetta er **hestur**. **Hann** er… - (This is a horse. He is…)\
 Example 3: Þetta er **borg**. **Hún** er… - (This is a city. She is…)
 
-When selecting pronouns in Icelandic, always consider the noun's gender. For instance, when translating *it is big* into Icelandic, you might assume *það* fits for *it*. However, you must choose the pronoun based on the gender of the noun. If the noun is feminine (e.g., *borg*), you should use *hún* rather than *það*.
+When selecting pronouns in Icelandic, always consider the noun's gender. For instance, when translating *it is big* into Icelandic, you might assume *það* fits for *it*. However, you must choose the pronoun based on the gender of the noun. If the noun that *it* is refering to is feminine (e.g., *borg*), you should use *hún* rather than *það*.
 
 *Tip: Because the gender attaches to the noun, not the thing itself, there are instances where something could be referred to with multiple pronouns. For example, a haddock fish on the table could be referred to as "fiskur" (masculine) or "ýsa" (feminine), and that would determine whether "hann" or "hún" is appropriate. The same applies to a "horse", as discussed earlier. You must choose the pronoun based on which noun you're using, and clarify the noun's gender at the start for context.*
 
