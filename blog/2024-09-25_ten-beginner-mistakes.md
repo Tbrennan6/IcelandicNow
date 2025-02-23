@@ -14,7 +14,6 @@ This post will discuss and remedy ten common beginner Icelandic mistakes.
 To illustrate the mistakes, incorrect and correct examples will be provided. The incorrect examples will be colored in <font color="red">red</font>.
 
 ## 10. Using **að** after **vilja**
-
 This first mistake is the lowest on the list, but given how common it is, it may as well be #1.
 
 <!-- truncate -->
@@ -38,7 +37,6 @@ Example 1 Ég vil gera þetta!\
 Example 2: Viltu sjá?
 
 ## 9. Capitalizing days and languages
-
 This one is straightforward. In English, days of the week and languages are always capitalized. In Icelandic, they are only capitalized if they are the first word of a sentence,just like with any other word.
 
 <font color="red">
@@ -50,7 +48,6 @@ Example 1: Ég er að læra **í**slensku.\
 Example 2: Ég fór í bankann á **m**ánudaginn. 
 
 ## 8. Not declining proper names
-
 While most Icelandic learners know that nouns decline, many new learners are surprised to learn that proper nouns decline, too. As a general rule, most foreign names do not decline, except for names that end in *-a*, which typically follow the female-weak pattern.
 
 The big exception is for genetive, where most names will add an *-s*.
@@ -69,7 +66,6 @@ Example 3a: Biden var varaforseti Barack**s** Obama.\
 Example 3b: Biden var varaforseti Obama**s**.
 
 ## 7. Using adjectives instead of adverbs
-
 This mistake is common for English natives who try to directly translate from English.
 
 English is more flexible when it comes to using adjectives as adverbs. Consider the following sentence: "I did good on the test." This sentence is natural in English, but its direct Icelandic translation would be plainly incorrect.
@@ -83,7 +79,6 @@ The problem is that *gott* is an adjective, and adjectives have to modify nouns.
 Example: Mér gekk **vel** í prófinu.
 
 ## 6. Misusing *á*, *í*, and *til*
-
 Beginners often don't realize that prepositions do not translate between languages very well at all, so they use the "same" prepositions across langauges. As a result, when it comes to talking about locations in Icelandic, many beginners use prepositions incorrectly.
 
 <font color="red">
@@ -110,7 +105,6 @@ Example 3: Ég er **á Íslandi**.\
 Example 3: Ég fer **til Íslands**.
 
 ## 5. Overusing *það*
-
 This mistake is typically tied to a lack of knowledge about grammatical gender. In English (and many other languages), inanimate objects are referred to with the pronoun it, the Icelandic translation of which is það.
 
 But Icelandic does not refer to inanimate things as það unless that object has been assigned to the neuter grammatical gender.
@@ -118,7 +112,6 @@ But Icelandic does not refer to inanimate things as það unless that object has
 Grammatical gender is a fairly intensive topic, which you can read more about [here](https://tbrennan6.github.io/IcelandicNow/blog/grammatical-gender).
 
 ## 4. Breaking V2
-
 Icelandic maintains V2 word order, which means that the sentence's main **verb** needs to be the second element of the sentence.
 
 Example: Ég **elska** þig.
@@ -136,7 +129,6 @@ Example 2: Þú **vil**t sjá. -> **Vil**tu sjá?\
 Example 3: Hann **getur** ekki. - **Getur** hann ekki?
 
 ## 3. Not understanding quirky case verbs
-
 Learners often face a small roadblock when they learn that not all Icelandic verbs have a nominative subject. A lot of verbs, many of which are very common, need subjects that are not nominative.
 
 Many of the verbs revolve around thinking and other experiential verbs.
@@ -151,7 +143,6 @@ Example 2: **Mig dreymdi** að ég væri fiskur.
 
 
 ## 2. No supine/sagnbót
-
 In a similar vein as #10, this common mistake is an exception when chaining verbs.
 
 When you are using *að geta* or *að hafa* as chaining verbs, the verb that immediately follows it needs to be in the **supine** form. In Icelandic, this form is known as the **sagnbót**. Many beginners do not know about these forms or that they are required after these previously mentioned verbs and use a normal or bare infinitive instead.
@@ -167,7 +158,6 @@ Example 1: Ég get **gert** það!\
 Example 2: Hefurðu **séð** það?
 
 ## 1. Not inflecting
-
 The top mistake had to be related to inflection, the bane of every Icelandic learner's experience.
 
 I mention not inflecting here instead of inflecting incorrectly because not inflecting is more of a true mistake. Most of the time, if someone does not inflect their words at all, it's because they don't know that they should; that is a true mistake. If someone inflects incorrectly, it's because they know that they should, but they simply do so incorrectly; this is more akin to a practice error.

@@ -12,7 +12,6 @@ This post answers two common questions: "How do I write conditional statements i
 <!-- truncate -->
 
 ## What is a conditional statement?
-
 A conditional statement is an if-then style statement in which the second part of the sentence, known as the conclusion/result, is only executed or occurs if the condition/hypothesis, the first part of the sentence, occurs or is true.
 
 - If I eat a lot of pizza, I will be sick.
@@ -26,7 +25,6 @@ In Icelandic, the exact same type of statements are possible and common. The wor
 *Note: Icelandic doesn't tend to separate conditionals with commas.*
 
 ## Indicative or subjunctive?
-
 The reason why there is some confusion surrounding whether "Ef" needs an indicative or subjunctive verb is that you have likely seen examples of both.
 
 1. Ef ég **fer** út verður mér kalt. - (If I **go** outside, I will be cold.)
@@ -37,7 +35,6 @@ In the first example, the verb is in the present indicative mood, while in the s
 The difference is that the first example uses conditional real (realis) while the second uses conditional unreal (irrealis).
 
 ## Conditional real
-
 Conditional real statements are used for conditions that could very easily be true. These statements use indicative verbs for both clauses.
 
 1. Ef ég **fer** út **verður** mér kalt. - (If I go outside, I will be cold.)
@@ -47,7 +44,6 @@ Conditional real statements are used for conditions that could very easily be tr
 Both me going outside and me coming home with a cat could very easily be true, so Examples 1 and 2 are conditional real. Example 3 contains a situation that may or may not simply be true. As a result, it is also conditional real.
 
 ## Conditional unreal
-
 Conditional unreal statements are used for conditions that are purely hypothetical or very unlikely to occur. The verbs in conditional unreal statements need to be in the subjunctive past. Very commonly, the verb in the conclusion will use a "Myndi" construction instead of the normal subjunctive past. This is particularly common when the subjunctive past of the verb would look the same as the indicative past.
 
 1. Ef ég **væri** hundur **myndi** ég gelta. - (If I were a dog, I would bark.)
@@ -57,7 +53,6 @@ Conditional unreal statements are used for conditions that are purely hypothetic
 I am not a dog nor a millionaire, so Examples 1 and 2 are hypothetical, so they are conditional unreal. Since me telling you the truth is also something that hasn't happened yet and may never happen, it is hypothetical and also an example of conditional unreal, too.
 
 ## Subjunctive instead of if
-
 Icelandic adds an extra level of complexity; Instead of using "If," a simple subjunctive verb can be used.
 
 With a conditional realis, the conclusion stays indicative.
@@ -73,7 +68,6 @@ With a conditional unreal, the conclusion stays in the subjunctive.
 3. **Segði ég** þér sannleikinn **þyrfti** ég að drepa þig. - (If I told you the truth, I would have to kill you.)
 
 ## Then and þá?
-
 "Then" and "Þá" are never necessary in conditional statements. They are optional discourse markers.
 
 1. Ef ég væri sjóræningi **þá** myndi ég eiga skip. - (If I were a pirate, **then** I would own a ship.)

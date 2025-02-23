@@ -16,7 +16,6 @@ Unfortunately, this question does not have a simple answer, as every individual 
 All answers and anecdotes here are from my personal experience.
 
 ## Why is listening the hardest skill?
-
 Reading and writing are the easiest because you have much more time to process and work over the information than the other two skills. When you are reading something, you can look at a word, and if you do not know it, check the dictionary or a translator. In addition, and sneakily helpful, when you read, you know exactly what word is giving you trouble, even if you don't know what the word means. This allows you to check what it means in a dictionary or other source.
 
 With writing, it's much the same story. You can use the internet, a dictionary, a thesaurus, or whatever you need to be confident before putting your words out.
@@ -30,11 +29,9 @@ If the audio you are listening to has an accompanying text, such as an audiobook
 Talking with somebody is the most difficult because you have to contend with their entire vocabulary and any speech patterns that they possess. Then, when they speak, you hear one word, and then it's instantly onto the next one, regardless of whether you caught or understood it. Even if they repeat what they said and slow it down for you, thanks to elision and slurred speech, you may still not be able even to tell what word they are saying, much less be able to decipher its meaning and respond intelligently.
 
 ## What can you do about it?
-
 Luckily, if you're listening skills are not the best, there are methods that you can use to improve them! Like with everything in the world, the real answer is going to be to practice more. But, that's not to say there aren't any tips that can help you along the way. 
 
 ### 1. Study vocabulary
-
 I have found personally that the most important factor when determining whether I understand a spoken word is whether I am already familiar with a word. This may sound incredibly obvious, but its value cannot be understated. While you can certainly pick up a new word from spoken language that you have never heard or seen used, it is way easier to hear and understand a word if you have already used it and committed it to memory beforehand. This is, in my experience, the biggest reason why new beginners fail at listening comprehension; they don't have the vocabulary to keep up.
 
 Think of the process as similar to the concept of "Sight Words." When you are teaching somebody to read, you tell them to figure out the words by sounding them out letter by letter. This works fairly well, especially if the writing system is similar to the phonetic one, but it leads to very slow reading as the person has to sound out the word entirely. This is where Sight Words come in. With Sight Words, you tell her non-reader not to sound out the word but to simply memorize how it sounds all together. While this sounds counter-intuitive to the sound-it-out system, it's important when building for fluidity.
@@ -52,7 +49,6 @@ If you are like me, you'll probably have no words written because, at regular ta
 But, if you know some of the words that are spoken in their entirety, you can, at a minimum, deduce where three words are, or at least where one stops and one ends. From here, the task becomes slightly easier.
 
 ### 2. Use morphology and syntax to your advantage
-
 When it comes to a heavily inflected language like Icelandic, knowing your morphology and syntax is obviously important for spelling and reading, but they are also important listening skills. It's important to remember that written language is just a visual representation of spoken language. Every letter or symbol, in one way or another, represents or historically represented a certain sound. As such, every time you study inflection and syntax, you are actually studying phonetics as well.
 
 For example, imagine you hear the following phrase:
@@ -70,7 +66,6 @@ From there, even if you could not tell what was said at all in those first two w
 While this seems only mildly helpful, with context clues, this can be extremely helpful. If you already roughly know the topic of the sentence, you can probably figure out what that first subject is, too, and from there, you can probably deduce the verb better as well.
 
 ### 3. Listen to things you like
-
 While it's certainly not the most inspired tip of all time, it is probably the most important. To get better at anything, you have to practice, and listening is no exception. As you listen more, you will learn more about speech patterns, learn what words usually start sentences, learn vocabulary, and subconsciously improve in numerous other indescribable ways.
 
 But you likely already knew that you have to listen to get better at listening at least some level. So, I will shift the topic to another question: How do you find things to listen to?

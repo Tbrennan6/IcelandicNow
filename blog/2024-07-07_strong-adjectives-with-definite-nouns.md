@@ -12,7 +12,6 @@ This post responds to a question I often receive. Advanced Icelandic learners kn
 <!-- truncate -->
 
 ## Solving an ambiguity
-
 Consider the two following examples:
 
 1. Ég gekk inn langan ganginn.
@@ -31,11 +30,9 @@ To test your understanding, consider the differences between these two ways of s
 2. Ég gaf bláum hundunum að borða.
 
 ## How common is this?
-
 Using a strong adjective with definite nouns is not a common thing to do in regular speech. It is mostly done in novels and books to be more precise. The only real difference is that with the strong adjective, the possibility now exists that you are talking about a subset of the things mentioned instead of all of them.
 
 ## Examples from real sources
-
 Below, find examples from real Icelandic books that used strong adjectives with definite nouns. Consider what difference a weak adjective would make instead of a strong adjective.
 
 1. "[S]yfjuleg þögn hvíldi yfir stórum, ferköntuðum húsunum við Runnaflöt." - Harry Potter og Fonixreglan eftir J.K. Rolling

@@ -14,7 +14,6 @@ Grammatical gender refers to the phenomenon in some languages whereby all nouns,
 <!-- truncate -->
 
 ## Grammatical gender in English
-
 English does not have grammatical gender, so things are only referred to by their actual gender identities.
 
 When referring to a male animal or a male person, English uses masculine pronouns such as *he* and *him*, and when referring to a female animal or person, feminine pronouns such as *she* and *her*.
@@ -23,7 +22,6 @@ Non-living, inanimate things like cups and bowls, and even the idea of happiness
 *Note: Individuals who use they/them or neo-pronouns do not typically refer to themselves with "it".*
 
 ## Grammatical gender in Icelandic
-
 Icelandic employs a distinct grammatical gender system, setting it apart from English.
 
 Within Icelandic, three grammatical genders are recognized: masculine, feminine, and neuter. Each noun, whether it pertains to an object, person, concept, or place, is designated to one of these genders, notwithstanding the fact that the noun itself may lack any gender-related attributes or even embody contrasting gender qualities.
@@ -36,7 +34,6 @@ While the aforementioned child may very well use feminine or masculine pronouns 
 - Hvar er Ása? Hvar er hún? - (Where is Ása? Where is she?)
 
 ## A common misconception
-
 Languages with grammatical gender do not assign items with feminine or girlish attributes automatically as feminine. The same is true with masculine-seeming nouns.
 
 The grammatical gender ascribed to a noun is entirely detached from the actual characteristics of the noun itself. You cannot tell the genre of a noun based on what it represents.
@@ -48,7 +45,6 @@ This phenomenon draws parallels to the way that some English speakers may refer 
 While boats aren't inherently female, this convention persists due to long-standing linguistic habits. Though historical origins may exist for such practices, the majority of people won't know it nor care—boats are referred to as *she* because that's the convention.
 
 ## Why is grammatical gender important?
-
 While the assignment of gender to a noun is arbitrary, it carries significant linguistic implications. One of the most visible areas where grammatical gender impacts a language is the usage of pronouns.
 
 In English, it would be very strange to refer to inanimate objects such as a computer mouse or a table with the pronouns *he* or *she*; English mandates the neutral pronoun *it* for non-living entities. However, in Icelandic, the pronoun you use has to match the noun's gender.
