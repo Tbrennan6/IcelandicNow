@@ -2,7 +2,7 @@
 slug: islenza.is
 title: "Resource Feature: Íslenzka.is"
 authors: [tbrennan]
-tags: [resource feature]
+tags: [Resource Feature]
 ---
 
 The creator of Íslenzka.is kindly approved this resource feature, as well as its mention and recommendation in the course, following an email inquiry.
