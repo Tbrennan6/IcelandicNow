@@ -12,6 +12,11 @@ Example 1: **Ég** er. - (I am.)\
 Example 2: **Hann** talar. - (He speaks.)\
 Example 3: **Við** borðum. - (We eat.)
 
+A common exception is for the verbs *að heita* and *að vera*, which typically want nominative objects. 
+
+Example 1: Hann er **Siggi**. - (He is Siggi.)
+Example 2: Hann heitir **Siggi**. - (His name is Siggi.)
+
 ## Accusative
 The accusative case is the second most common case. Its main usage is as verbs' direct objects. If a word is the object of a verb or preposition and you do not know what case that verb or preposition wants, you can usually guess accusative and have a decent chance of being correct. 
 

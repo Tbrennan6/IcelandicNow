@@ -6,7 +6,7 @@ title: Weak Nouns
 The first group of nouns that we are going to learn is weak nouns. 
 
 ## What Are Weak Nouns 
-Weak nouns are nouns that end in a vowel in all their singular forms (e.g., pappi, mamma, hjarta). They are the first type of noun that we are going to look at since they decline very simply: they take one vowel in the nominative case and another for all other cases (accusative, dative, and genitive). 
+Weak nouns are nouns that end in a vowel in all their singular forms (e.g., pappi, mamma, hjarta). They are the first type of noun that we are going to look at since they typically decline very simply: they take one vowel in the nominative case and another for all other cases (accusative, dative, and genitive). 
 
 ### Weak Masculine Nouns 
 Weak masculine nouns change their ending vowel from *i* to *a*. 
@@ -19,7 +19,7 @@ Example 4: Ég sakna pabb**a**. - (I miss dad).
 For practice, try replacing *pabbi* with the name *Siggi* or *Bjarni*.
 
 ### Weak Feminine Nouns 
-Weak feminine nouns change their ending vowel from *a* to *ö*. 
+Weak feminine nouns change their ending vowel from *a* to *u*. 
 
 *Note: many weak feminine nouns have an "a" in their stems. When their ending is changed to a "u", this "a" changes to an "ö". This process is called umlaut, and it will be touched upon more in a later lesson.*
 
