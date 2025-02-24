@@ -54,10 +54,10 @@ Person 2: Nei, ég tala **hana** ekki. - (No, I don't speak it.)
 *Tip: The overwhelming majoirty of languages in Icelandic are weak feminine words (e.g., enska, sænska, franska).*
 
 **Conversation 3:**\
-Person 1: Gefur hann **henni** köku? - (He gives her a cake?)
+Person 1: Gefur hann **henni** köku? - (He gives her a cake?)\
 Person 2: Nei, **hann** gefur **henni** banana. - (No, he gives her a banana.)
 
 **Conversation 4:**\
-Person 1: Talar **Anna** **noresku**? - (Does Anna speak Norwegian?)
+Person 1: Talar **Anna** **noresku**? - (Does Anna speak Norwegian?)\
 Person 2: Nei, **hann** talar **hana** ekki.- (No, she doesnt speak it.)
 
