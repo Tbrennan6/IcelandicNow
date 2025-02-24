@@ -14,6 +14,8 @@ Now that you are familiar with weak nouns, grammatical gender, and cases, its ti
 | **Dative**     | mér              | þér               |
 | **Genitive**   | mín              | þín               |
 
+While this may seem like a lot to learn at once, it helps to notice that the additional cases differ by only one letter, having the exact same endings.
+
 **Conversation 1:**\
 Person 1: Kennir pabbi **þér** **íslensku**? - (Does dad teach you Icelandic.)\
 Person 2: Nei, mamma kennir **mér** **hana**. - (No, mom teaches it to me.)
@@ -39,6 +41,8 @@ Person 2: Já, ég þekki **hana**. - (Yes, I know her.)
 | **Accusative** | hann          | hana         | það        |
 | **Dative**     | honum         | henni        | því        |
 | **Genitive**   | hans          | hennar       | þess       |
+
+The third-person pronoun forms are much less consistant than the first and second-person ones. 
 
 **Conversation 1:**\
 Person 1: Hvar er **hann**? - (Where is he?)\
