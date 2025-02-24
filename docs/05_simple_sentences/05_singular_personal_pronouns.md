@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Singualr Personal Pronouns
+title: Singular Personal Pronouns
 ---
 
 Now that you are familiar with weak nouns, grammatical gender, and cases as objects, its time to incorporate pronouns. It is extremely common to use pronouns during conversations after a noun has been mentioned previously and it is clear based on context what is being refered to. 
