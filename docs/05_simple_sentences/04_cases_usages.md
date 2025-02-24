@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Cases As Objects
+title: Cases Usages
 ---
 
 Now that you know how to form the cases, it is time to learn a little more about how to use them.
