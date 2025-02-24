@@ -58,6 +58,6 @@ Person 1: Gefur hann **henni** köku? - (He gives her a cake?)\
 Person 2: Nei, **hann** gefur **henni** banana. - (No, he gives her a banana.)
 
 **Conversation 4:**\
-Person 1: Talar **Anna** **noresku**? - (Does Anna speak Norwegian?)\
-Person 2: Nei, **hann** talar **hana** ekki.- (No, she doesnt speak it.)
+Person 1: Talar **Anna** **norsku**? - (Does Anna speak Norwegian?)\
+Person 2: Nei, **hún** talar **hana** ekki.- (No, she doesnt speak it.)
 
