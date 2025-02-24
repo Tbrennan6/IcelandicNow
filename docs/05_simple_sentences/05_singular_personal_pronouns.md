@@ -15,8 +15,8 @@ Now that you are familiar with weak nouns, grammatical gender, and cases as obje
 | **Genitive**   | mín              | þín               |
 
 **Conversation 1:**\
-Person 1: Kennir pabbi **þér** íslensku? - (Does dad teaches you Icelandic.)\
-Person 2: Nei, mamma kennir **mér** hana. - (No, mom teaches it to me.)
+Person 1: Kennir pabbi **þér** **íslensku**? - (Does dad teache you Icelandic.)\
+Person 2: Nei, mamma kennir **mér** **hana**. - (No, mom teaches it to me.)
 
 **Conversation 2:**\
 Person 1: Ég sakna **þín**. - (I miss you.)\
@@ -29,7 +29,7 @@ Person 2: Ég elska **þig** líka. - (I love you too.)
 *Note: Icelandic doesn't have a true vocative case (used when addressing somebody with their name), so the nominative case is used instead with rare exception. In the above example, "Siggi" is being used vocatively.*
 
 **Conversation 4:**\
-Person 1: Þekkirðu Jóhanna? - (Do you know Jóhanna?)\
+Person 1: Þekkirðu **Jóhannu**? - (Do you know Jóhanna?)\
 Person 2: Já, ég þekki **hana**. (Yes, I know her.)
 
 ## Third-Person Pronouns
@@ -43,7 +43,7 @@ Person 2: Já, ég þekki **hana**. (Yes, I know her.)
 **Conversation 1:**\
 Person 1: Hvar er **hann**? - (Where is he?)\
 Person 2: Hver? - (Who?)\
-Person 1: **Siggi**. Hvar er hann? - (Siggi. Where is he?)
+Person 1: **Siggi**. Hvar er **hann**? - (Siggi. Where is he?)
 
 **Conversation 2:**\
 Person 1: Er þetta danska? - (Is that Danish?)\
