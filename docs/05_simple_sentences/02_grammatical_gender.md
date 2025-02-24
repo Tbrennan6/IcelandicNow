@@ -9,9 +9,9 @@ Grammatical gender is a feature in some languages where all nouns, regardless of
 
 English does not have grammatical gender, so things are only referred to by their natural gender identities.
 
-- Male people and animals are referred to with masculine pronouns (he, him).
-- Female people and animals are referred to with feminine pronouns (she, her).
-- Everything else—such as inanimate objects (cups, bowls) and abstract concepts (happiness)—is referred to with the neutral pronoun (it).
+- Male people and animals are referred to with masculine pronouns (e.g., he, him).
+- Female people and animals are referred to with feminine pronouns (e.g., she, her).
+- Everything else—such as inanimate objects (e.g., cups, bowls) and abstract concepts (e.g., happiness)—is referred to with the neutral pronoun (it).
 
 ## Grammatical gender in Icelandic
 
