@@ -40,7 +40,7 @@ Example 1: Ég gef **mömmu** köku. - (You give mom cake.)\
 Example 2: Hann gef **Sigga** penna. - (He gives Siggi a pen.)
 
 ## Genitive
-The genitive case is not often as a direct or indirect object. 
+The genitive case is not often used as a direct or indirect object. Its usages will be described further in subsequent lessons. 
 
 Example: Ég sanka **pabba**. - (I miss dad.)
 
