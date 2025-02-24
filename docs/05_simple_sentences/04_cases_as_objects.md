@@ -37,5 +37,5 @@ Example 2: Hann gef **Sigga** penna. - (He gives Siggi a pen.)
 ## Genitive
 The genitive case is not often as a direct or indirect object. 
 
-Example: Ég sanka pabba. - (I miss dad.)
+Example: Ég sanka **pabba**. - (I miss dad.)
 
