@@ -5,7 +5,7 @@ title: My name is, and I am from
 
 After meeting somebody and saying hello for the first time, it is very common to ask them their name and where they are from.
 
-## My name is 
+## My Name Is 
 In Icelandic, the most common way to tell somebody your name is to use the verb *að heita*. English is a bit strange in the because it does not have a verb that translates directly to *að heita*. Instead, awkward phrases such as *My name is...* or *I am called...* fill in this gap. In Icelandic, you can simply use the verb.
 
 | **Pres. heita** | **Sing.** | **Plur.** |
@@ -26,7 +26,7 @@ Jón: Góðan dag. - (Good day.)\
 Jón: Ég heiti Jón. Hvað heitirðu? - (My name is Jón. What's your name?)\
 Ása: Ég heiti Ása. - (My name is Asa.)
 
-## I am from
+## I Am From
 To say where you are from, use the preposition *frá*.
 
 Prepositions (words that represent relationships, usually temporal and spacial) do not themselves inflect, but they do control cases, much like verbs. *Frá* always wants its object to be in the dative case, so any object following it needs to be in the dative case. Since the country, place, or city that you are from will be the object of *frá*, that is what needs to be in the dative case. 

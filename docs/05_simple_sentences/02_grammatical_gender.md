@@ -5,7 +5,7 @@ title: Grammatical Gender
 
 Grammatical gender is a feature in some languages where all nouns, regardless of whether they have a natural gender, are assigned a gender for grammatical purposes. This classification affects how words like articles, adjectives, and pronouns interact with nouns.
 
-## Grammatical gender in English
+## Grammatical Gender in English
 
 English does not have grammatical gender, so things are only referred to by their natural gender identities.
 
@@ -13,13 +13,13 @@ English does not have grammatical gender, so things are only referred to by thei
 - Female people and animals are referred to with feminine pronouns (e.g., she, her).
 - Everything else—such as inanimate objects (e.g., cups, bowls) and abstract concepts (e.g., happiness)—is referred to with the neutral pronoun (it).
 
-## Grammatical gender in Icelandic
+## Grammatical Gender in Icelandic
 
 Icelandic has grammatical gender, meaning that every noun is classified as masculine, feminine, or neuter. This classification occurs regardless of the noun’s real-world gender or lack thereof. For example, a noun might refer to something with no inherent gender, like an object or an abstract concept, but it still belongs to one of these three gender categories for grammatical purposes.
 
 For example, in Icelandic, the word *froskur* (frog) is classified as masculine, even though frogs can be both male or female in reality. Similarly, *borg* (city) is feminine, despite cities having no living characteristics or natural gender. Likewise, *barn* (child) is neuter, even though children are people who have their own gender identity. 
 
-### Common misconceptions
+### Common Misconceptions
 It may be tempting to think that there is a reason behind nouns being certain genders, but there is not. It is completely arbitrary. The grammatical gender assigned to a noun is completely separate from the actual thing the noun represents. There is no way to determine if some noun is masculiune, feminine, or neuter based on what it represents; it is simply the way that the noun is characterised. 
 
 Another important thing to understand is that the gender is attached to the noun itself, not the thing it represents. Consider the following two words:
@@ -31,7 +31,7 @@ Both of these words mean *horse*, so they represent the exact same thing: a hors
 
 *Note: Grammatical gender is not consistent across languages with grammatical gender. While there may be some overlap in closely related languages (e.g., Swedish and Icelandic), this is not at all reliable for less closely related languages (e.g., Spanish and Icelandic).*
 
-## Why is gender important
+## Why Is Gender Important
 While the assignment of grammatical gender to nouns is arbitrary, it does matter. 
 
 One of the most improtant reasons is for the use of pronouns. In English, it would be odd to refer to a computer mouse with the pronouns *he* or *she*; English uses the neutral pronoun *it* for non-living things like a computer mouse. In contrast, Icelandic pronouns must match the grammatical gender of the noun. For example:
