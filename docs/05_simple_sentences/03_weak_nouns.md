@@ -11,12 +11,12 @@ Weak nouns are nouns that end in a vowel in all their singular forms (e.g., papp
 ### Weak Masculine Nouns 
 Weak masculine nouns change their ending vowel from *i* to *a*. 
 
-Example 1: Þetta er papp**i**. - (This is dad.)\
-Example 2: Ég elska papp**a**. - (I love dad.)\
-Example 3: Ég hjálpa papp**a**.  - (I help dad.)\
-Example 4: Ég sakna papp**a**. - (I miss dad).
+Example 1: Þetta er pabb**i**. - (This is dad.)\
+Example 2: Ég elska pabb**a**. - (I love dad.)\
+Example 3: Ég hjálpa pabb**a**.  - (I help dad.)\
+Example 4: Ég sakna pabb**a**. - (I miss dad).
 
-For practice, try replacing *pappi* with the name *Siggi* or *Bjarni*.
+For practice, try replacing *pabbi* with the name *Siggi* or *Bjarni*.
 
 ### Weak Feminine Nouns 
 Weak feminine nouns change their ending vowel from *a* to *ö*. 
