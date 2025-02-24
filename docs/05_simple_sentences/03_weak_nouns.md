@@ -35,9 +35,9 @@ Weak neuter nouns are the easiest of all. They don't change their vowel at all, 
 
 There are very few weak neuter nouns, and they all represent body parts. As such, our example sentences will all be non-sensical, but the important thing is that you see the declension process in action.  
 
-Example 1: Þetta er hjarta. - (This is a heart.)\
-Example 2: Ég elska hjarta. - (I love a heart.)\
-Example 3: Ég hjálpa hjarta. - (I help a heart.)\
-Example 4: Ég sakna hjarta. - (I miss a heart.)
+Example 1: Þetta er hjart**a**. - (This is a heart.)\
+Example 2: Ég elska hjart**a**. - (I love a heart.)\
+Example 3: Ég hjálpa hjart**a**. - (I help a heart.)\
+Example 4: Ég sakna hjart**a**. - (I miss a heart.)
 
 For practice, try replacing the word *hjarta* with the words *lunga* and *eyra*.
