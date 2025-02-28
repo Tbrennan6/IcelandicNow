@@ -17,7 +17,7 @@ Now that you are familiar with weak nouns, grammatical gender, and cases, its ti
 While this may seem like a lot to learn at once, it helps to notice that the additional cases differ by only one letter, having the exact same endings.
 
 **Conversation 1:**\
-Person 1: Kennir pabbi **þér** **íslensku**? - (Does dad teach you Icelandic.)\
+Person 1: Kennir pabbi **þér** **íslensku**? - (Does dad teach you Icelandic?)\
 Person 2: Nei, mamma kennir **mér** **hana**. - (No, mom teaches it to me.)
 
 **Conversation 2:**\
@@ -65,6 +65,4 @@ Person 2: Nei, **hann** gefur **henni** banana. - (No, he gives her a banana.)
 Person 1: Talar **Anna** **norsku**? - (Does Anna speak Norwegian?)\
 Person 2: Nei, **hún** talar **hana** ekki.- (No, she doesnt speak it.)
 
-**Conversation 5:**\
-Person 1: Hvar er Jóni? - (Where is ?)\
-Person 2: Nei, **hún** talar **hana** ekki.- (No, she doesnt speak it.)
+
