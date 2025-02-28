@@ -25,12 +25,13 @@ In theory, there are endless ways to answer these questions depending on your mo
 | Fine        | fínt          |
 | Ok          | í lagi        |
 
-More often than not, the word *allt* will precede the adjective. 
 
 **Conversation 1:**\
 Person 1: Komdu sæl Kolbrún, hvað segirðu gott? - (Hello Kolbrún, how are you?)\
 Person 2: Ég segi allt ágætt. En þú? - (I am well. Yourself?)\
 Person 1: Ég segi allt gott, takk. - (I am good, thanks.)
+
+*Note: With the "ég segi" option, more often than not, the word *allt* will precede the adjective. 
 
 **Conversation 2:**\
 Person 1: Komdu sæll. - (Hello.)\
