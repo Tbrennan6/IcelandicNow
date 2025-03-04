@@ -65,4 +65,10 @@ Person 2: Nei, **hann** gefur **henni** banana. - (No, he gives her a banana.)
 Person 1: Talar **Anna** **norsku**? - (Does Anna speak Norwegian?)\
 Person 2: Nei, **hún** talar **hana** ekki.- (No, she doesnt speak it.)
 
+**Conversation 5:**\
+Person 1: Hver er **hún**? - (Who is she?)\
+Person 2: Hún er **Ása**. - (She is Ása.)
 
+**Conversation 6:**\
+Person 1: Saknarðu **pappa**? - (Do you miss dad?)\
+Person 2: Já. Ég sakna **hans** mikið. - (Yes. I miss him a lot.)

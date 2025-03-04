@@ -14,7 +14,7 @@ Example 3: **Við** borðum. - (We eat.)
 
 A common exception is for the verbs *að heita* and *að vera*, which typically want nominative objects. 
 
-Example 1: Hann er **Siggi**. - (He is Siggi.)
+Example 1: Hann er **Siggi**. - (He is Siggi.)\
 Example 2: Hann heitir **Siggi**. - (His name is Siggi.)
 
 ## Accusative
