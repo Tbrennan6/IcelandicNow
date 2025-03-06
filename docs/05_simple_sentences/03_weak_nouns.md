@@ -3,10 +3,14 @@ sidebar_position: 3
 title: Weak Nouns
 ---
 
-The first group of nouns that we are going to learn is weak nouns. 
+While learning Icelandic, it is extremely helpful to learn words in groups because it makes the learning process more efficient. Instead of memorizing each word individually, we can study entire groups that follow the same patterns, making our learning process much smoother and more effective.
+
+While we can and will group words by part of speech (e.g., nouns, pronouns, verbs), we can also organize words within each part of speech based on their characteristics.
+
+In this lesson, we are going to focus on a specific subset of nouns: weak nouns!
 
 ## What Are Weak Nouns 
-Weak nouns are nouns that end in a vowel in all their singular forms (e.g., pappi, mamma, hjarta). They are the first type of noun that we are going to look at since they typically decline very simply: they take one vowel in the nominative case and another for all other cases (accusative, dative, and genitive). 
+Weak nouns are the nouns that end in a vowel in all their singular forms (e.g., pappi, mamma, hjarta). They are the first type of noun that we are going to look at since they decline very simply: they take one vowel in the nominative case and another for all other cases (accusative, dative, and genitive). Unlike strong nouns, which may have irregular changes, weak nouns follow a predictable pattern, making them one of the easiest types to learn. Instead of memorizing multiple endings, you only need to remember one for the nominative case and a single ending for all other cases.
 
 ### Weak Masculine Nouns 
 Weak masculine nouns change their ending vowel from *i* to *a*. 
