@@ -22,7 +22,7 @@ Person 1: Hvað heitirðu? - (What is your name?)\
 Person 2: Ég skil ekki. Geturðu endurtekið? - (I don't understand. Can you repeat that?)\
 Person 1: Já. Hvað heitir þú? - (Sure. What is your name?)\
 Person 2: Fyrirgefðu, ég skil ekki. Talarðu ensku? - (Sorry, I don't understand. Do you speak English?)\
-Person 2: Nei, ég tala bara íslensku. Fyrirgefðu. - (No, I only speak Iceladnic. Sorry.)
+Person 2: Nei, ég tala bara íslensku. Fyrirgefðu. - (No, I only speak Icelandic. Sorry.)
 
 ## Set 2
 Afsakið. - (Excuse me, used to politely get attention)\
