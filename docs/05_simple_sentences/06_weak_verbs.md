@@ -80,7 +80,7 @@ D/K/Kj/P/S/T -> -t
 
 *Note: This rule is much simplified, but it will act as a great starting point.*
 
-Below, see the conjugational change from the present to the past tense for the i-verb *að reyna*.)
+Below, see the conjugational change from the present to the past tense for the i-verb *að reyna*.
 
 Example 1: Ég reyni -> Ég reyndi\
 Example 2: Þú reynir -> Þú reyndir\
