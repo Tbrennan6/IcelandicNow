@@ -5,6 +5,12 @@ title: Weak verbs
 
 So far, we have been exposed to a few different verbs (e.g., *að elska*, *að tala*, *að heita*) and have perhaps started to pick up on how they behave. In this lesson, we are going to drill down a little harder on verb inflections by learning how to inflect weak verbs in both the present and the past!
 
+While many courses and textbooks prefer to teach only one verb type or one tense at a time, we are going to take a different and learn all weak verbs in the present and past at the same time. If this is the first time you are learning conjugation, this lesson may seem like a lot of information to take in--and admittedly it is. But there is a resaon that I made this decision:
+
+1. Learning all weak verbs at once helps us categorize them together mentally and gain a greater appreciation for their similarities which will help us inflect them.  
+2. The present and past tenses are both extremely common, so knowing only one is extremely limiting. 
+3. Seeing and learning both tenses together helps us to internalize the changes between the present and past tenses better!
+
 ## What Are Weak Verbs?
 Previously, we learned a little bit about weak nouns: a certain subset of all nouns that are categorized together because they behave the same way. Weak verbs are the same way!
 
@@ -41,11 +47,6 @@ Example 3: Hann talar -> Hann talaði\
 Example 4: Við tölum -> Við töluðum\
 Example 5: Þið talið -> Þið töluðuð\
 Example 6: Þeir tala -> Þeir töluðu
-
-If this is the first time you are seeing these two charts, it may seem like a lot of information to take in. While many courses and textbooks prefer to teach only one tense at a time, we are going to take a different approach for two main reasons. 
-
-1. The past and present tense are both extremely common, so knowing only one is extremely limiting. 
-2. Seeing and learning both tenses together helps us to internalize the changes between the present and past tenses better!
 
 *Practice: Take some time to observe both the charts together and try to learn how a verb changes in one person and plurality from the present into the past as well as pick out patterns in the charts more generally.*
 
