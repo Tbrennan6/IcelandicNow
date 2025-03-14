@@ -70,7 +70,7 @@ There is no practical or deducible reason to explain why some weak verbs are ass
 
 *Tip: Remember, the verb stem is the part of the verb that comes before the inflectional ending is added.*
 
-The rule is as follows:
+The rule is as follows:\
 B/Ð/L/M/N -> -di\
 F/G/Gj/R/(vowel) -> -ði\
 D/K/Kj/P/S/T -> -ti
