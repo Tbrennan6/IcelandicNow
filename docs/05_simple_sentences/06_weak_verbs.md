@@ -31,7 +31,7 @@ This course will classify Icelandic weak verbs into two categories by their weak
 | **2nd.**      | -aðir     | -uðuð     |
 | **3rd.**      | -aði      | -uðu      |
 
-The *-aði* pattern is extremely common. In addition, it can be thought of as the default pattern because new words entering Icelandic often become *-aði* verbs. For example, the verb *to google* did not exist in any language before Google existed. When to google was created in Icelandic, it became an *-aði* verb. 
+The *-aði* pattern is extremely common. In addition, it can be thought of as the default pattern because new words entering Icelandic often become *-aði* verbs. For example, the verb *to google* did not exist in any language before Google existed. When to google was created in Icelandic, it became an *-aði* verb, (e.g., hann gúglaði).
 
 Example 1: Ég tala -> Ég talaði\
 Example 2: Þú talar -> Þú talaðir\
@@ -83,10 +83,6 @@ Example 6: Þær reyna -> Þær reyndu
 
 *Practice: Try inflecting "að gera", "að trúa", "að skrá", and "að breytta" using teh rules you just learned!*
 
-Reyna -> Reyndi\
-Trúa-> Trúði\
-Breyta -> Breytti
+*Tip: With time, the assignment of "-di", "-ti", and "-ði" verb endings to certain stem endings will become automatic as the sound combinations created by them become more familiar to you.*
 
-*Tip: With time, the assignment of "-di", "-ti", and "-ði" verb endings to certain stem endings will become automatic as the sound combinations created by them become more familiar to you. 
-
-*Note: Just because a verb's stem ending fits in one of the "-di", "-ti", and "-ði" endings, that does not automatically mean it is a "-di", "-ti", and "-ði"  verb. The verb could still be an "-aði" verb.*
+*Note: Just because a verb's stem ending fits in one of the "-di", "-ti", and "-ði" endings, that does not automatically mean it is a "-di", "-ti", and "-ði"  verb. The verb could still be an "-aði" verb (e.g., "að elska" and "að hrópa")
