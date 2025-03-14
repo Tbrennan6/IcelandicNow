@@ -14,9 +14,9 @@ Much like how weak nouns can be identified by their endings, weak verbs can be a
 
 Example 1: Play -> Played\
 Example 2: Stay -> Stayed\
-Example 3: Kill -> Killed\
+Example 3: Kill -> Killed
 
-This course will classify Icelandic weak verbs into two categories by their weak past endings: -aði verbs and -di/ti/ði verbs. 
+This course will classify Icelandic weak verbs into two categories by their weak past endings: *-aði* verbs and *-di*/*-ti*/*-ði* verbs. 
 
 ## -aði Verbs 
 | **Pres. -aði** | **Sing.** | **Plur.** |
@@ -50,7 +50,7 @@ If this is the first time you are seeing these two charts, it may seem like a lo
 |---------------|-----------|-----------|
 | **1st.**      | -i        | -um       |
 | **2nd.**      | -ir       | -ið       |
-| **3rd.**      | -i        | -a        |
+| **3rd.**      | -ir       | -a        |
 
 | **Past -Xi** | **Sing.** | **Plur.** |
 |--------------|-----------|-----------|
@@ -74,7 +74,12 @@ B/Ð/L/M/N -> -di\
 F/G/Gj/R/(vowel) -> -ði\
 D/K/Kj/P/S/T -> -ti
 
-For example:
+Example 1: Ég reyni -> Ég reyndi
+Example 2: Þú reynir -> Þú reyndir
+Example 3: Hún reynir -> Hún reyndi
+Example 4: Við reynum -> Við reyndum
+Example 5: Þið reynið -> Þið reyndið
+Example 6: Þær reyna -> Þær reyndu
 
 Reyna -> Reyndi\
 Trúa-> Trúði\

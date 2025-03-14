@@ -16,16 +16,16 @@ A conditional statement is an if-then style statement in which the second part o
 
 - If I eat a lot of pizza, I will be sick.
 
-In the example above, "If I eat a lot of pizza" is the hypothesis. It is not guaranteed that the hypothesis will happen, as made clear by the word "If," but given it does occur, then the conclusion, "I will be sick," will also occur.
+In the example above, *If I eat a lot of pizza* is the hypothesis. It is not guaranteed that the hypothesis will happen, as made clear by the word *if*, but given it does occur, then the conclusion, *I will be sick*, will also occur.
 
-In Icelandic, the exact same type of statements are possible and common. The word that triggers the statement is "Ef."
+In Icelandic, the exact same type of statements are possible and common. The word that triggers the statement is *ef*.
 
 - **Ef** ég borða mikið af pítsu verð ég veikur. - (**If** I eat a lot of pizza, I will be sick.)
 
 *Note: Icelandic doesn't tend to separate conditionals with commas.*
 
 ## Indicative or subjunctive?
-The reason why there is some confusion surrounding whether "Ef" needs an indicative or subjunctive verb is that you have likely seen examples of both.
+The reason why there is some confusion surrounding whether *ef* needs an indicative or subjunctive verb is that you have likely seen examples of both.
 
 1. Ef ég **fer** út verður mér kalt. - (If I **go** outside, I will be cold.)
 2. Ef ég **væri** hundur myndi ég borða kött. - (If I f I **were** a dog, I would eat a cat.)
@@ -44,7 +44,7 @@ Conditional real statements are used for conditions that could very easily be tr
 Both me going outside and me coming home with a cat could very easily be true, so Examples 1 and 2 are conditional real. Example 3 contains a situation that may or may not simply be true. As a result, it is also conditional real.
 
 ## Conditional unreal
-Conditional unreal statements are used for conditions that are purely hypothetical or very unlikely to occur. The verbs in conditional unreal statements need to be in the subjunctive past. Very commonly, the verb in the conclusion will use a "Myndi" construction instead of the normal subjunctive past. This is particularly common when the subjunctive past of the verb would look the same as the indicative past.
+Conditional unreal statements are used for conditions that are purely hypothetical or very unlikely to occur. The verbs in conditional unreal statements need to be in the subjunctive past. Very commonly, the verb in the conclusion will use a *myndi* construction instead of the normal subjunctive past. This is particularly common when the subjunctive past of the verb would look the same as the indicative past.
 
 1. Ef ég **væri** hundur **myndi** ég gelta. - (If I were a dog, I would bark.)
 2. Ef ég **væri** milljónamæringur **myndi** ég kaupa allt. - (If I were a millionaire, I would buy everything.)
@@ -53,7 +53,7 @@ Conditional unreal statements are used for conditions that are purely hypothetic
 I am not a dog nor a millionaire, so Examples 1 and 2 are hypothetical, so they are conditional unreal. Since me telling you the truth is also something that hasn't happened yet and may never happen, it is hypothetical and also an example of conditional unreal, too.
 
 ## Subjunctive instead of if
-Icelandic adds an extra level of complexity; Instead of using "If," a simple subjunctive verb can be used.
+Icelandic adds an extra level of complexity; Instead of using *if*, a simple subjunctive verb can be used.
 
 With a conditional realis, the conclusion stays indicative.
 
@@ -68,7 +68,7 @@ With a conditional unreal, the conclusion stays in the subjunctive.
 3. **Segði ég** þér sannleikinn **þyrfti** ég að drepa þig. - (If I told you the truth, I would have to kill you.)
 
 ## Then and þá?
-"Then" and "Þá" are never necessary in conditional statements. They are optional discourse markers.
+*Then* and *Þá* are never necessary in conditional statements. They are optional discourse markers.
 
 1. Ef ég væri sjóræningi **þá** myndi ég eiga skip. - (If I were a pirate, **then** I would own a ship.)
 2. Sé hundurinn stærri **þá** keypti ég hann. - (If the dog were bigger, **then** I would buy him.)
