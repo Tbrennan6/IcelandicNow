@@ -65,7 +65,7 @@ I-verbs are weak verbs that have *i* as their principal sound.
 | **2nd.**     | -Xir      | -Xuð      |
 | **3rd.**     | -Xi       | -Xu       |
 
-The i-verb conjugation patterns has three possible consonent to be used throughout for the past tense, *d, *t*, or *ð*. In the past tense chart, this differing letter is represented by the letter *x*. 
+The i-verb conjugation patterns has three possible consonent to be used throughout for the past tense, *d, *t*, or *ð*. In the past tense chart, this differing letter is represented by a capital letter *x*. 
 
 There is no practical or deducible reason to explain why some weak verbs are assigned to be i-verbs instead of a-verbs. But once a verb is an i-verbs, which of the three ending patterns it will follow is based on what letter or combination of letters ends the verb's stem.
 
@@ -112,7 +112,7 @@ In the present tense, j-verbs lose their *j* in the singular, but keep it in the
 
 In the past tense, j-verbs lose their *j* entirely. Then, have the same three possibilities for endings as i-verbs, ending either *-di*, *-ti*, or *-ði*, depending on the same rules based on the letter or combination of letters before the *-ja*. 
 
-Unlike i-verbs, these verbs experience a vowel change in the past tense known as i-umlaut, which will be touched upon more in a later lesson. For example the verb *að telja* changes the *e* in its stem to an *a* in the past tense. Following that rule, in some forms, there will be an *ö* instead of an *a*. That is because of a-umlaut, which is the same things that happened with *mamma* -> *mömmu* in the weak nouns lesson. 
+Unlike i-verbs, these verbs experience a vowel change in the past tense known as i-umlaut, which will be touched upon more in a later lesson. In the chart, this is represented by a capital letter *ö*. For example the verb *að telja* changes the *e* in its stem to an *a* in the past tense. Following that rule, in some forms, there will be an *ö* instead of an *a*. That is because of a-umlaut, which is the same things that happened with *mamma* -> *mömmu* in the weak nouns lesson. 
 
 Below, see the conjugational change from the present to the past tense for the j-verb *að telja*.
 
