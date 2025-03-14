@@ -48,9 +48,9 @@ Example 4: Við tölum -> Við töluðum\
 Example 5: Þið talið -> Þið töluðuð\
 Example 6: Þeir tala -> Þeir töluðu
 
-*Practice: As you should with the rest of the patterns as well, take some time to observe both the charts together and try to learn how a verb changes in one person and plurality from the present into the past as well as pick out patterns in the charts more generally.*
+*Practice: As you should with the other patterns as well, take some time to observe the present and past charts together and try to better appreciate how a verb changes in one person and plurality from the present into the past as well as pick out patterns in the charts more generally.*
 
-*Practice: Try inflecting "að gúgla", "að borða", and "að nota".*
+*Practice: Try inflecting "að gúgla", "að borða", and "að nota" on [Íslenzka.is](https://islenzka.is/aefingar/leita.html).*
 
 ## I-verbs
 I-verbs are weak verbs that have *i* as their principal sound.
@@ -89,7 +89,7 @@ Example 4: Við reynum -> Við reyndum\
 Example 5: Þið reynið -> Þið reyndið\
 Example 6: Þær reyna -> Þær reyndu
 
-*Practice: Try inflecting "að gera", "að trúa", "að skrá", and "að breytta" using the rule you just learned!*
+*Practice: Try inflecting "að gera", "að trúa", "að skrá", and "að breytta" using the rule you just learned on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)!*
 
 *Tip: With time, the assignment of the i-verb endings to certain stem endings will become automatic as the sound combinations created by them become more familiar to you.*
 
@@ -124,3 +124,5 @@ Example 3: Það telur -> Hún taldi\
 Example 4: Við teljum -> Við töldum\
 Example 5: Þið teljið-> Þið tölduð\
 Example 6: Þau telja -> Þær töldu
+
+*Practice: Try inflecting "selja" using the rules you just learned on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)!*
