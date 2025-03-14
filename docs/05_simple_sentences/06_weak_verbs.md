@@ -31,7 +31,7 @@ This course will classify Icelandic weak verbs into two categories by their weak
 | **2nd.**      | -aðir     | -uðuð     |
 | **3rd.**      | -aði      | -uðu      |
 
-The *-aði* pattern is extremely common. In addition, it can be thought of as the default pattern because new words entering Icelandic often become *-aði* verbs. For example, the verb *to google* did not exist in any language before Google existed. When to google was created in Icelandic, it became an *-aði* verb, (e.g., hann gúglaði).
+The *-aði* pattern is extremely common. In addition, it can be thought of as the default pattern because new words entering Icelandic often become *-aði* verbs. For example, the verb *to google* did not exist in any language before Google existed. When to google was created in Icelandic, it became an *-aði* verb, (e.g., "gúglaði").
 
 Example 1: Ég tala -> Ég talaði\
 Example 2: Þú talar -> Þú talaðir\
