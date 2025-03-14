@@ -101,9 +101,9 @@ J-verbs are different in that *j* is not a principal sound. Rather, they are wea
 
 | **Past I** | **Sing.** | **Plur.** |
 |--------------|-----------|-----------|
-| **1st.**     | -Xi       | -Xum      |
-| **2nd.**     | -Xir      | -Xuð      |
-| **3rd.**     | -Xi       | -Xu       |
+| **1st.**     | Ö-Xi       | Ö-Xum      |
+| **2nd.**     | Ö-Xir      | Ö-Xuð      |
+| **3rd.**     | Ö-Xi       | Ö-Xu       |
 
 In the present tense, j-verbs lose their *j* in the singular, but keep it in the plural. Also notable, they have no ending for the first-person singular. 
 
@@ -113,7 +113,7 @@ For example the verb *að telja*, changes the *e* in its stem to an *a* in the p
 
 Example 1: Ég tel -> Ég taldi\
 Example 2: Þú telur -> Þú taldir\
-Example 3: Það reynir -> Hún reyndi\
-Example 4: Við reynum -> Við reyndum\
-Example 5: Þið reynið -> Þið reyndið\
-Example 6: Þau reyna -> Þær reyndu
+Example 3: Það telur -> Hún taldi\
+Example 4: Við teljum -> Við taldum\
+Example 5: Þið teljið-> Þið talduð\
+Example 6: Þau telja -> Þær töldu
