@@ -66,7 +66,7 @@ For example, the *-di* verbs end with *-dir* in the second-person singular in th
 
 There is no practical or deducible reason to explain why some weak verbs are assigned to be  *-di*, *-ti*, *-ði* verbs instead of *-aði* verbs, but once a verb is a *-di*, *-ti*, *-ði* verb, which of the three ending patterns it will follow is based on what letter or combination of letters ends the verb's stem.
 
-Tip: Remember, the verb stem is the part of the verb that comes before the inflectional ending is added.
+*Tip: Remember, the verb stem is the part of the verb that comes before the inflectional ending is added.*
 
 The rule is as follows:
 
@@ -80,6 +80,8 @@ Example 3: Hún reynir -> Hún reyndi
 Example 4: Við reynum -> Við reyndum
 Example 5: Þið reynið -> Þið reyndið
 Example 6: Þær reyna -> Þær reyndu
+
+*Practice: Try inflecting "að gera", "að trúa", "að skrá", and "að breytta" using teh rules you just learned!*
 
 Reyna -> Reyndi\
 Trúa-> Trúði\

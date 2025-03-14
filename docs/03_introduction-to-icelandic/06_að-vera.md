@@ -40,7 +40,9 @@ Below, see the entire chart for *to be.* *To be* is a unique verb in English bec
 | **2nd.** | were      | were      |
 | **3rd.** | was       | were      |
 
-*Tip: For some people, it's hard to wrap their brains around the fact that "am" and "were" are technically the same word. But fear not; this is completely normal and part of the learning process! It may be helpful to mentally walk through the "to be" chart in your head a couple of times. Try making the equivalent of "he is" using "I" as the subject, and then move on to the other subjects, too.*
+*Tip: For some people, it's hard to wrap their brains around the fact that "am" and "were" are technically the same word. But fear not; this is completely normal and part of the learning process! It may be helpful to mentally walk through the "to be" chart in your head a couple of times.*
+
+*Practice: Try making the equivalent of "he is" using "I" as the subject, and then move on to the other subjects, too.*
 
 ## Að Vera
 
