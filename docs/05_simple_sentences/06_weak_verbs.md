@@ -102,7 +102,7 @@ J-verbs are different in that *j* is not a principal sound. Rather, they are wea
 | **2nd.**    | -ur       | -jið      |
 | **3rd.**    | -ur       | -ja       |
 
-| **Past I** | **Sing.** | **Plur.** |
+| **Past J** | **Sing.** | **Plur.** |
 |--------------|-----------|-----------|
 | **1st.**     | Ö-Xi       | Ö-Xum      |
 | **2nd.**     | Ö-Xir      | Ö-Xuð      |
