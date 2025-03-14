@@ -25,8 +25,6 @@ While there are many ways to classify verbs, this course will classify Icelandic
 ## A-verbs 
 A-verbs are weak verbs that have *a* as their principal sound. 
 
-<div align="left">
-
 | **Pres. A** | **Sing.** | **Plur.** |
 | -------------- | --------- | --------- |
 | **1st.**       | -a        | -um       |
@@ -38,8 +36,6 @@ A-verbs are weak verbs that have *a* as their principal sound.
 | **1st.**      | -aði      | -uðum     |
 | **2nd.**      | -aðir     | -uðuð     |
 | **3rd.**      | -aði      | -uðu      |
-
-</div>
 
 The a-verb pattern isthe most common conjugation pattern in Icelandic. In addition, it can be thought of as the default pattern because new words entering Icelandic often become a-verbs. For example, the verb *to google* did not exist in any language before Google existed. When the verb *to google* was created in Icelandic, it became an a-verb, (e.g., *hann gúglar*).
 
