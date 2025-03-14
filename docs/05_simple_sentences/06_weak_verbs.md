@@ -5,24 +5,22 @@ title: Weak verbs
 
 So far, we have been exposed to a few different verbs (e.g., *að elska*, *að tala*, *að heita*) and have perhaps started to pick up on how they behave. In this lesson, we are going to drill down a little harder on verb inflections by learning how to inflect weak verbs in both the present and the past!
 
-While many courses and textbooks prefer to teach only one verb type or one tense at a time, we are going to take a different and learn all weak verbs in the present and past at the same time. If this is the first time you are learning conjugation, this lesson may seem like a lot of information to take in--and admittedly it is. But there is a resaon that I made this decision:
+While many courses and textbooks prefer to teach only one verb type or one tense at a time, we are going to take a different and learn all weak verbs in the present and past at the same time. If this is the first time you are learning conjugation, this may seem like a lot of information to take in--and admittedly it is. But there is are resaons why we are going to do it this way.
 
-1. Learning all weak verbs at once helps us categorize them together mentally and gain a greater appreciation for their similarities which will help us inflect them.  
+1. Learning all weak verbs at once helps us categorize them together mentally and gain a greater appreciation for their similarities which will help us memorize how to inflect them.  
 2. The present and past tenses are both extremely common, so knowing only one is extremely limiting. 
 3. Seeing and learning both tenses together helps us to internalize the changes between the present and past tenses better!
 
 ## What Are Weak Verbs?
-Previously, we learned a little bit about weak nouns: a certain subset of all nouns that are categorized together because they behave the same way. Weak verbs are the same way!
+Previously, we learned a little bit about weak nouns: a certain subset of all nouns that are categorized together because change their endings in similar ways. The same is true for weak verbs!
 
-Also much like how weak nouns, weak verbs can be identified by their endings. They are the verbs that form their simple past tense by adding a /d/, /t/, or /ð/ sound. In English, every verb that adds **-ed** to form the simple past tense is weak.
-
-*Tip: Weak verbs developed during Proto-Germanic, later evolutionarily than strong verbs, and are much more numerous.*
+Weak verbs are the verbs that form their simple past tense by adding a /d/, /t/, or /ð/ sound. In English, every verb that adds **-ed** to form the simple past tense is a weak verb.
 
 Example 1: Play -> Play**ed**\
 Example 2: Stay -> Stay**ed**\
 Example 3: Kill -> Kill**ed**
 
-This course will classify Icelandic weak verbs into three categories: a-verbs, i-verbs, and j-verbs. 
+While there are many ways to classify verbs, this course will classify Icelandic weak verbs into three types: a-verbs, i-verbs, and j-verbs.
 
 ## A-verbs 
 A-verbs are weak verbs that have *a* as their principal sound. 
@@ -39,9 +37,9 @@ A-verbs are weak verbs that have *a* as their principal sound.
 | **2nd.**      | -aðir     | -uðuð     |
 | **3rd.**      | -aði      | -uðu      |
 
-The a-verb pattern is extremely common. In addition, it can be thought of as the default pattern because new words entering Icelandic often become a-verbs. For example, the verb *to google* did not exist in any language before Google existed. When to google was created in Icelandic, it became an a-verb, (e.g., "gúglaði").
+The a-verb pattern isthe most common conjugation pattern in Icelandic. In addition, it can be thought of as the default pattern because new words entering Icelandic often become a-verbs. For example, the verb *to google* did not exist in any language before Google existed. When the verb *to google* was created in Icelandic, it became an a-verb, (e.g., *hann gúglar*).
 
-Below, see the conjugation of the a-verb *að tala*.
+Below, see the conjugational change from the present to the past tense for the a-verb *að tala*.
 
 Example 1: Ég tala -> Ég talaði\
 Example 2: Þú talar -> Þú talaðir\
@@ -80,7 +78,7 @@ D/K/Kj/P/S/T -> -t
 
 *Note: This rule is much simplified, but it will act as a great starting point.*
 
-Below, see the conjugation of the i-verb *að reyna*.)
+Below, see the conjugational change from the present to the past tense for the i-verb *að reyna*.)
 
 Example 1: Ég reyni -> Ég reyndi\
 Example 2: Þú reynir -> Þú reyndir\
@@ -116,7 +114,7 @@ In the past tense, j-verbs lose their *j* entirely. Then, have the same three po
 
 Unlike i-verbs, these verbs experience a vowel change in the past tense known as i-umlaut, which will be touched upon more in a later lesson. For example the verb *að telja* changes the *e* in its stem to an *a* in the past tense. Following that rule, in some forms, there will be an *ö* instead of an *a*. That is because of a-umlaut, which is the same things that happened with *mamma* -> *mömmu* in the weak nouns lesson. 
 
-Below, see the conjugation of the j-verb *að telja*.
+Below, see the conjugational change from the present to the past tense for the j-verb *að telja*.
 
 Example 1: Ég tel -> Ég taldi\
 Example 2: Þú telur -> Þú taldir\
