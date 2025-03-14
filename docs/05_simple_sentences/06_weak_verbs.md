@@ -64,16 +64,16 @@ I-verbs are weak verbs that have *i* as their principal sound.
 | **2nd.**     | -Xir      | -Xuð      |
 | **3rd.**     | -Xi       | -Xu       |
 
-The i-verb conjugation patterns has three possible endings for the past tense, *-di*, *-ti*, and *-ði*. In the past tense chart, this differing letter is represented by the letter *x*. 
+The i-verb conjugation patterns has three possible consonent to be used throughout for the past tense, *d, *t*, or *ð*. In the past tense chart, this differing letter is represented by the letter *x*. 
 
 There is no practical or deducible reason to explain why some weak verbs are assigned to be i-verbs instead of a-verbs. But once a verb is an i-verbs, which of the three ending patterns it will follow is based on what letter or combination of letters ends the verb's stem.
 
 *Tip: Remember, the verb stem is the part of the verb that comes before the inflectional ending is added.*
 
 The simplified rule is as follows:\
-B/Ð/L/M/N -> -di\
-F/G/Gj/R/(vowel) -> -ði\
-D/K/Kj/P/S/T -> -ti
+B/Ð/L/M/N -> -d\
+F/G/Gj/R/(vowel) -> -ð\
+D/K/Kj/P/S/T -> -t
 
 *Note: This rule is much simplified, but it will act as a great starting point.*
 
