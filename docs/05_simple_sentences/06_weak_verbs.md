@@ -33,11 +33,11 @@ This course will classify Icelandic weak verbs into two categories by their weak
 
 The *-aði* pattern is extremely common. In addition, it can be thought of as the default pattern because new words entering Icelandic often become *-aði* verbs. For example, the verb *to google* did not exist in any language before Google existed. When to google was created in Icelandic, it became an *-aði* verb. 
 
-Example 1: Ég tala -> Ég talaði
-Example 2: Þú talar -> Þú talaðir
-Example 3: Hann talar -> Hann talaði
-Example 4: Við tölum -> Við töluðum
-Example 5: Þið talið -> Þið töluðuð
+Example 1: Ég tala -> Ég talaði\
+Example 2: Þú talar -> Þú talaðir\
+Example 3: Hann talar -> Hann talaði\
+Example 4: Við tölum -> Við töluðum\
+Example 5: Þið talið -> Þið töluðuð\
 Example 6: Þeir tala -> Þeir töluðu
 
 If this is the first time you are seeing these two charts, it may seem like a lot of information to take in--and it is. While many courses and textbooks prefer to teach only one tense at a time, we are going to take a different approach, and for two main reasons. 
@@ -70,14 +70,14 @@ Tip: Remember, the verb stem is the part of the verb that comes before the infle
 
 The rule is as follows:
 
-B/Ð/L/M/N -> -di
-F/G/Gj/R/(vowel) -> -ði
+B/Ð/L/M/N -> -di\
+F/G/Gj/R/(vowel) -> -ði\
 D/K/Kj/P/S/T -> -ti
 
 For example:
 
-Reyna -> Reyndi
-Trúa-> Trúði
+Reyna -> Reyndi\
+Trúa-> Trúði\
 Breyta -> Breytti
 
 *Tip: With time, the assignment of "-di", "-ti", and "-ði" verb endings to certain stem endings will become automatic as the sound combinations created by them become more familiar to you. 
