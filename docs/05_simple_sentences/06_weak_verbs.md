@@ -69,7 +69,6 @@ There is no practical or deducible reason to explain why some weak verbs are ass
 *Tip: Remember, the verb stem is the part of the verb that comes before the inflectional ending is added.*
 
 The rule is as follows:
-
 B/Ð/L/M/N -> -di\
 F/G/Gj/R/(vowel) -> -ði\
 D/K/Kj/P/S/T -> -ti
@@ -85,4 +84,4 @@ Example 6: Þær reyna -> Þær reyndu
 
 *Tip: With time, the assignment of "-di", "-ti", and "-ði" verb endings to certain stem endings will become automatic as the sound combinations created by them become more familiar to you.*
 
-*Note: Just because a verb's stem ending fits in one of the "-di", "-ti", and "-ði" endings, that does not automatically mean it is a "-di", "-ti", and "-ði"  verb. The verb could still be an "-aði" verb (e.g., "að elska" and "að hrópa")
+*Note: Just because a verb's stem ending fits in one of the "-di", "-ti", and "-ði" endings, that does not automatically mean it is a "-di", "-ti", and "-ði"  verb. The verb could still be an "-aði" verb (e.g., "að elska" and "að hrópa")*
