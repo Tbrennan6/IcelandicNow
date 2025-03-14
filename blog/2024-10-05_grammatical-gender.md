@@ -51,7 +51,7 @@ In English, it would be very strange to refer to inanimate objects such as a com
 
 As previously mentioned, the noun "Barn" requires neuter pronouns, the noun "Hestur" necessitates masculine pronouns, and the noun "Borg" demands feminine pronouns. This distinction is highlighted in the examples below, where the pronouns are altered in the second sentence of each instance to correspond with the gender of the noun.
 
-*Note: "Hann" best translates to "He," "Hún" best translates to "She," and "Það" best translates to "It."*
+*Note: "Hann" best translates to "he," "hún" best translates to "she," and "það" best translates to "it."*
 
 1. Þetta er barn. Það er… (This is a child. It is…)
 2. Þetta er hestur. Hann er… (This is a horse. He is…)

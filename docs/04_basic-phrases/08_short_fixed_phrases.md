@@ -13,8 +13,8 @@ Additionally, pre-constructed phrases serve as useful grammatical reference poin
 Ég skil. - (I understand.)\
 Geturðu endurtekið? - (Could you repeat?)\
 Að sjálfsögðu. - (Of course.)\
-Fyrirgefðu. - (Sorry.)
-Talarðu ensku/íslensku? - (Do you speak English/Icelandic?)
+Fyrirgefðu. - (Sorry.)\
+Talarðu ensku/íslensku? - (Do you speak English/Icelandic?)\
 Bara - (Only)
 
 **Conversation:**\
@@ -26,7 +26,7 @@ Person 2: Nei, ég tala bara íslensku. Fyrirgefðu. - (No, I only speak Iceland
 
 ## Set 2
 Afsakið. - (Excuse me, used to politely get attention)\
-Ég veit... - (I know, referring to a fact)
+Ég veit... - (I know, referring to a fact)\
 Hvar er...? - (Where is...?)\
 Það er allt í lagi. - (It's ok.)\
 Ekkert að þakka. - (No problem.)
@@ -42,7 +42,7 @@ Veistu - (Do you know, used for facts)\
 Þekkirðu - (Do you know / Are you familiar with, used for people or places, not facts)\
 Flott - (Great, interjection)\
 Heyrðu - (Hey, used to get attention or to refresh the conversation)\
-Er það ekki? - (Isn't that so or Right?)\\
+Er það ekki? - (Isn't that so or Right?)
 
 
 **Conversation:**\
