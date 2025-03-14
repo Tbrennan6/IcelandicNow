@@ -14,13 +14,13 @@ While many courses and textbooks prefer to teach only one verb type or one tense
 ## What Are Weak Verbs?
 Previously, we learned a little bit about weak nouns: a certain subset of all nouns that are categorized together because they behave the same way. Weak verbs are the same way!
 
-Also much like how weak nouns, weak verbs can be identified by their endings. They are the verbs that form their simple past tense by adding a /d/, /t/, or /ð/ sound. In English, every verb that adds *-ed* to form the simple past tense is weak.
+Also much like how weak nouns, weak verbs can be identified by their endings. They are the verbs that form their simple past tense by adding a /d/, /t/, or /ð/ sound. In English, every verb that adds **-ed** to form the simple past tense is weak.
 
 *Tip: Weak verbs developed during Proto-Germanic, later evolutionarily than strong verbs, and are much more numerous.*
 
-Example 1: Play -> Played\
-Example 2: Stay -> Stayed\
-Example 3: Kill -> Killed
+Example 1: Play -> Play**ed**\
+Example 2: Stay -> Stay**ed**\
+Example 3: Kill -> Kill**ed**
 
 This course will classify Icelandic weak verbs into three categories: a-verbs, i-verbs, and j-verbs. 
 
@@ -40,6 +40,8 @@ A-verbs are weak verbs that have *a* as their principal sound.
 | **3rd.**      | -aði      | -uðu      |
 
 The a-verb pattern is extremely common. In addition, it can be thought of as the default pattern because new words entering Icelandic often become a-verbs. For example, the verb *to google* did not exist in any language before Google existed. When to google was created in Icelandic, it became an a-verb, (e.g., "gúglaði").
+
+Below, see the conjugation of the a-verb *að tala*.
 
 Example 1: Ég tala -> Ég talaði\
 Example 2: Þú talar -> Þú talaðir\
@@ -78,6 +80,8 @@ D/K/Kj/P/S/T -> -t
 
 *Note: This rule is much simplified, but it will act as a great starting point.*
 
+Below, see the conjugation of the i-verb *að reyna*.)
+
 Example 1: Ég reyni -> Ég reyndi\
 Example 2: Þú reynir -> Þú reyndir\
 Example 3: Hún reynir -> Hún reyndi\
@@ -108,9 +112,11 @@ J-verbs are different in that *j* is not a principal sound. Rather, they are wea
 
 In the present tense, j-verbs lose their *j* in the singular, but keep it in the plural. Also notable, they have no ending for the first-person singular. 
 
-In the past tense, j-verbs lose their *j* entirely. Then, have the same three possibilities for endings as i-verbs, ending either *-di*, *-ti*, or *-ði*, depending on the same rules based on the letter or combination of letters before the *-ja*. Unlike i-verbs, these verbs experience a vowel change in the past tense known as i-umlaut, which will be touched upon more in a later lesson.
+In the past tense, j-verbs lose their *j* entirely. Then, have the same three possibilities for endings as i-verbs, ending either *-di*, *-ti*, or *-ði*, depending on the same rules based on the letter or combination of letters before the *-ja*. 
 
-For example the verb *að telja*, changes the *e* in its stem to an *a* in the past tense. Following that rule, you will also notice that in some forms there is an *ö* instead of an *a*. That is because of a-umlaut, which is the same things that happened with *mamma* -> *mömmu* in the weak nouns lesson. 
+Unlike i-verbs, these verbs experience a vowel change in the past tense known as i-umlaut, which will be touched upon more in a later lesson. For example the verb *að telja* changes the *e* in its stem to an *a* in the past tense. Following that rule, in some forms, there will be an *ö* instead of an *a*. That is because of a-umlaut, which is the same things that happened with *mamma* -> *mömmu* in the weak nouns lesson. 
+
+Below, see the conjugation of the j-verb *að telja*.
 
 Example 1: Ég tel -> Ég taldi\
 Example 2: Þú telur -> Þú taldir\
