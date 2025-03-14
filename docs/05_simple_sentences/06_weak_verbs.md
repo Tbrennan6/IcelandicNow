@@ -16,7 +16,7 @@ Example 1: Play -> Played\
 Example 2: Stay -> Stayed\
 Example 3: Kill -> Killed\
 
-This course will classify Icelandic weak verbs into two categories by their weak past endings: -aði verbs and -d/t/ð verbs. 
+This course will classify Icelandic weak verbs into two categories by their weak past endings: -aði verbs and -di/ti/ði verbs. 
 
 ## -aði Verbs 
 | **Pres. -aði** | **Sing.** | **Plur.** |
