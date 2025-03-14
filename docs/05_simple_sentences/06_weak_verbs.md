@@ -82,4 +82,4 @@ Breyta -> Breytti
 
 *Tip: With time, the assignment of "-di", "-ti", and "-ði" verb endings to certain stem endings will become automatic as the sound combinations created by them become more familiar to you. 
 
-Note: Just because a verb's stem ending fits in one of the "-di", "-ti", and "-ði" endings, that does not automatically mean it is a *"-di", "-ti", and "-ði"  verb. The verb could still be an "-aði" verb. 
+*Note: Just because a verb's stem ending fits in one of the "-di", "-ti", and "-ði" endings, that does not automatically mean it is a "-di", "-ti", and "-ði"  verb. The verb could still be an "-aði" verb.*
