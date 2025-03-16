@@ -114,7 +114,7 @@ In the present tense, j-verbs lose their *j* in the singular, but keep it in the
 
 In the past tense, j-verbs lose their *j* entirely. Then, have the same three possibilities for endings as i-verbs, ending either *-di*, *-ti*, or *-ði*, depending on the same rules based on the letter or combination of letters before the *-ja*. 
 
-Unlike i-verbs, these verbs experience a vowel change in the past tense known as i-umlaut, which will be touched upon more in a later lesson. In the chart, this is represented by a capital letter *ö*. For example the verb *að telja* changes the *e* in its stem to an *a* in the past tense. Following that rule, in some forms, there will be an *ö* instead of an *a*. That is because of a-umlaut, which is the same things that happened with *mamma* -> *mömmu* in the weak nouns lesson. 
+Unlike i-verbs, these verbs experience a vowel change in the past tense known as i-umlaut, which will be touched upon more in a later lesson. In the chart, this is represented by a capital letter *ö*. For example the verb *að telja* changes the *e* in its stem to an *a* in the past tense. Following that rule, in some forms, there will be an *ö* instead of an *a*. That is because of u-umlaut, which is the same things that happened with *mamma* -> *mömmu* in the weak nouns lesson. 
 
 Below, see the conjugational change from the present to the past tense for the j-verb *að telja*.
 

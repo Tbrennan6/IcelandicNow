@@ -25,7 +25,7 @@ For practice, try replacing *pabbi* with the name *Siggi* or *Bjarni*.
 ### Weak Feminine Nouns 
 Weak feminine nouns change their ending vowel from *a* to *u*. 
 
-*Note: many weak feminine nouns have an "a" in their stems. When their ending is changed to a "u", this "a" changes to an "ö". This process is called umlaut, and it will be touched upon more in a later lesson.*
+*Note: many weak feminine nouns have an "a" in their stems. When their ending is changed to a "u", this "a" changes to an "ö". This process is called u-umlaut, and it will be touched upon more in a later lesson.*
 
 Example 1: Þetta er mamm**a**. - (This is mom.)\
 Example 2: Ég elska mömm**u**. - (I love mom.)\
