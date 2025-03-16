@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: Weak verbs 
+title: Weak Verbs 
 ---
 
 So far, we have been exposed to a few different verbs (e.g., *að elska*, *að tala*, *að heita*) and have perhaps started to pick up on how they behave. In this lesson, we are going to drill down a little harder on verb inflections by learning how to inflect weak verbs in both the present and the past!
