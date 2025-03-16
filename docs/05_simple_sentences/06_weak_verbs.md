@@ -125,4 +125,4 @@ Example 4: Við teljum -> Við töldum\
 Example 5: Þið teljið-> Þið tölduð\
 Example 6: Þau telja -> Þær töldu
 
-*Practice: Try inflecting "selja" using the rules you just learned on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)!*
+*Practice: Try inflecting "velja" using the rules you just learned on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)!*
