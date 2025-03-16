@@ -37,7 +37,7 @@ A-verbs are weak verbs that have *a* as their principal sound.
 | **2nd.**      | -aðir     | -uðuð     |
 | **3rd.**      | -aði      | -uðu      |
 
-The a-verb pattern isthe most common conjugation pattern in Icelandic. In addition, it can be thought of as the default pattern because new words entering Icelandic often become a-verbs. For example, the verb *to google* did not exist in any language before Google existed. When the verb *to google* was created in Icelandic, it became an a-verb, (e.g., *hann gúglar*).
+The a-verb pattern is the most common conjugation pattern in Icelandic. In addition, it can be thought of as the default pattern because new words entering Icelandic often become a-verbs. For example, the verb *to google* did not exist in any language before Google existed. When the verb *to google* was created in Icelandic, it became an a-verb, (e.g., *hann gúglar*).
 
 Below, see the conjugational change from the present to the past tense for the a-verb *að tala*.
 
