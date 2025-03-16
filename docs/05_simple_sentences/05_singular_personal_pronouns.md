@@ -55,7 +55,8 @@ Person 2: Nei, þetta er íslenska. - (No, it's Icelandic.)\
 Person 1: Talarðu **íslensku**? - (Do you speak Icelandic?)\
 Person 2: Nei, ég tala **hana** ekki. - (No, I don't speak it.)
 
-*Tip: The overwhelming majoirty of languages in Icelandic are weak feminine words (e.g., enska, sænska, franska).*
+*Tip: The overwhelming majority of languages in Icelandic are weak feminine words (e.g., 
+"enska", "sænska", "franska").*
 
 **Conversation 3:**\
 Person 1: Gefur hann **henni** köku? - (Does he give her a cake?)\
