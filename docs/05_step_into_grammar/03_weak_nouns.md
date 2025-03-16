@@ -49,7 +49,7 @@ For practice, try replacing *mamma* with the name *Freyja* or *Anna*. Remember u
 ## Weak Neuter Nouns
 Weak neuter nouns are the easiest of all. They don't change their vowel at all, so they are the same in all the cases.
 
-There are very few weak neuter nouns, about 40 in total, the most notable group of which are body parts. As such, our example sentences will all be non-sensical, but the important thing is that you see the declension process in action.  
+There are very few weak neuter nouns, the most notable group of which are body parts. As such, our example sentences will all be non-sensical, but the important thing is that you see the declension process in action.  
 
 Example 1: Þetta er hjart**a**. - (This is a heart.)\
 Example 2: Ég elska hjart**a**. - (I love a heart.)\
