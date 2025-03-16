@@ -12,6 +12,8 @@ In this lesson, we are going to focus on a specific subset of nouns: weak nouns!
 ## What Are Weak Nouns 
 Weak nouns are the nouns that end in a vowel in all their singular forms (e.g., pappi, mamma, hjarta). They are the first type of noun that we are going to look at since they decline very simply: they take one vowel in the nominative case and another for all other cases (accusative, dative, and genitive). Unlike strong nouns, which may have irregular changes, weak nouns follow a predictable pattern, making them one of the easiest types to learn. Instead of memorizing multiple endings, you only need to remember one for the nominative case and a single ending for all other cases.
 
+*Note: In this lesson, we will focus on learning one pattern for each type of weak noun, though other patterns exist. The others patterns will be covered in future lessons.*
+
 ### Weak Masculine Nouns 
 Weak masculine nouns change their ending vowel from *i* to *a*. 
 
@@ -19,6 +21,12 @@ Example 1: Þetta er pabb**i**. - (This is dad.)\
 Example 2: Ég elska pabb**a**. - (I love dad.)\
 Example 3: Ég hjálpa pabb**a**.  - (I help dad.)\
 Example 4: Ég sakna pabb**a**. - (I miss dad).
+
+*Tip: Icelanders do not use "my" when refering to family members if the context is sufficiently clear.*
+
+Because these nouns are all **masculine**, we use masculine pronouns to refer to them. 
+
+Example 5: Þetta er **asni**. **Hann** heitir Þór. - (This is a donkey. His name is Þór.)
 
 For practice, try replacing *pabbi* with the name *Siggi* or *Bjarni*.
 
@@ -32,6 +40,10 @@ Example 2: Ég elska mömm**u**. - (I love mom.)\
 Example 3: Ég hjálpa mömm**u**.  - (I help mom.)\
 Example 4: Ég sakna mömm**u**. - (I miss mom).
 
+Because these nouns are all **feminine**, we use feminine pronouns to refer to them. 
+
+Example 5: Þetta er **panda**. **Hún** heitir Helga. - (This is a panda. Her name is Helga.)
+
 For practice, try replacing *mamma* with the name *Freyja* or *Anna*. Remember umlaut for *Anna*.
 
 ### Weak Neuter Nouns
@@ -43,5 +55,7 @@ Example 1: Þetta er hjart**a**. - (This is a heart.)\
 Example 2: Ég elska hjart**a**. - (I love a heart.)\
 Example 3: Ég hjálpa hjart**a**. - (I help a heart.)\
 Example 4: Ég sakna hjart**a**. - (I miss a heart.)
+
+Because these nouns are all **neuter**, we use neuter pronouns to refer to them. 
 
 For practice, try replacing the word *hjarta* with the words *lunga* and *eyra*.
