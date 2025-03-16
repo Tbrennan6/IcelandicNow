@@ -30,10 +30,9 @@
 }
 
 table {
-  position: absolute;
-    left: 0;
+  display: table;
+    width: initial;
     margin-top: 0;
-    margin-bottom: 10px;
-    width: auto;
-    border-collapse: collapse;
-}
+    margin-bottom: 10;
+    margin-left: auto;
+    margin-right: auto;
