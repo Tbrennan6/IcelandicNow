@@ -3,9 +3,15 @@ sidebar_position: 5
 title: Singular Personal Pronouns
 ---
 
-Now that you are familiar with weak nouns, grammatical gender, and cases, its time to incorporate pronouns. It is extremely common to use pronouns during conversations after a noun has been mentioned previously and it is clear based on context what is being refered to. 
+Now that you are familiar with weak nouns, grammatical gender, and cases, its time to incorporate pronouns into the mix! It is extremely common to use pronouns during conversations after a noun has been mentioned previously and it is clear based on context what is being refered to. 
+
+Using pronouns often leads to more natuarl and less clunky sentences. Consider which of the two examples below sounds more natural:/
+
+Example 1: This is Jón. **Jón** lives fishing. **Fishing** is **Jon's** favorite activity. 
+Example 2: This is Jón. **He** loves fishing. **It** is **his** favorite activity.
 
 ## First and Second-Person Pronouns
+The first and second-person pronouns replace words in the first and second-person. 
 
 |                | **First-Person** | **Second-Person** |
 |----------------|------------------|-------------------|
@@ -14,7 +20,7 @@ Now that you are familiar with weak nouns, grammatical gender, and cases, its ti
 | **Dative**     | mér              | þér               |
 | **Genitive**   | mín              | þín               |
 
-While this may seem like a lot to learn at once, it helps to notice that the additional cases differ by only one letter, having the exact same endings.
+The first and second-person pronousn are best learned together beause their additional cases differ by only one letter.
 
 **Conversation 1:**\
 Person 1: Kennir pabbi **þér** **íslensku**? - (Does dad teach you Icelandic?)\
@@ -35,6 +41,8 @@ Person 1: Þekkirðu **Jóhannu**? - (Do you know Jóhanna?)\
 Person 2: Já, ég þekki **hana**. - (Yes, I know her.)
 
 ## Third-Person Pronouns
+The first and second-person pronouns replace words in the third-person. In practice, this is going to be most things.
+
 |                | **Masculine** | **Feminine** | **Neuter** |
 |----------------|---------------|--------------|------------|
 | **Nominative** | hann          | hún          | það        |
@@ -42,7 +50,7 @@ Person 2: Já, ég þekki **hana**. - (Yes, I know her.)
 | **Dative**     | honum         | henni        | því        |
 | **Genitive**   | hans          | hennar       | þess       |
 
-The third-person pronoun forms are much less consistant than the first and second-person ones. 
+The third-person pronoun forms are much less consistent than the first and second-person ones, but that doesn’t mean we should neglect learning them. Taking the time to master their endings will pay off greatly in the near future when we study strong nouns, other pronouns, and adjectives.
 
 **Conversation 1:**\
 Person 1: Hvar er **hann**? - (Where is he?)\

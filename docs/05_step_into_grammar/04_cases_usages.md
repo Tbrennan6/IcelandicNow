@@ -12,7 +12,9 @@ Example 1: **Ég** er. - (I am.)\
 Example 2: **Hann** talar. - (He speaks.)\
 Example 3: **Við** borðum. - (We eat.)
 
-A common exception is for the verbs *að heita* and *að vera*, which typically want nominative objects. 
+A common exception is for the verbs *að heita* and *að vera*, which typically want nominative objects, too!
+
+*Note: This is an over-simplification, but it generally serves for 99% of the time.*
 
 Example 1: Hann er **Siggi**. - (He is Siggi.)\
 Example 2: Hann heitir **Siggi**. - (His name is Siggi.)
@@ -24,8 +26,6 @@ Example 1: Ég tala **íslensku**. - (I speak Icelandic.)\
 Example 2: Hann elskar **Sigga**. - (He loves Siggi.)\
 Example 3: Ég borða **köku**! - (I eat cake.)
 
-*Note: "Það" often means "that" when used to refer to things just mentioned.*
-
 ## Dative
 The dative case is the third most common case. It has two main uses.
 
@@ -34,13 +34,13 @@ First, some verbs want dative direct objects, but these are rarer than those tha
 Example 1: Ég kasta **bolta**. - (I throw a ball.)\
 Example 2: Hann hjálpar **mömmu**. - (He helps mom.)
 
-But, its main usage is as indirect objects of verbs. Indirect objects come after verbs but before the direct objects. 
+But its main usage is as indirect objects of verbs. Indirect objects come after verbs but before the direct objects. Indirect objects typically show to who or for who the verb is undertaken. 
 
 Example 1: Ég gef **mömmu** köku. - (You give mom cake.)\
 Example 2: Hann gef **Sigga** penna. - (He gives Siggi a pen.)
 
 ## Genitive
-The genitive case is not often used as a direct or indirect object. Its usages will be described further in subsequent lessons. 
+The genitive case is not often used as a direct or indirect object. Its usages will be described further in later lessons. 
 
 Example: Ég sanka **pabba**. - (I miss dad.)
 
