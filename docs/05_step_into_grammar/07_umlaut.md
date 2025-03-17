@@ -6,7 +6,7 @@ This lesson will cover a and u-umlaut in a fairly comprehensive manner, touching
 
 As we have noted in previous lessons, sometimes the vowels in the stems of words change.
 
-Example 1: S**a**ga -> S**ö**gu
+Example 1: S**a**ga -> S**ö**gu\
 Example 2: Að t**e**lja -> T**a**ldi
 
 This phenomenon is known as umlaut!
@@ -27,7 +27,7 @@ Rule: An "**a**" in the stem mutates into an "**ö**" when the next syllable con
 
 Example 1: Að b**a**ka -> Við b**ö**kum\
 Example 2: M**a**mma -> M**ö**mmu\
-Example 3: Br**a**nd**a**ri -> Br**ö**nd**u**rum\
+Example 3: Br**a**nd**a**ri -> Br**ö**nd**u**rum
 
 
 ### Tricky Situations
@@ -100,7 +100,7 @@ While it is ultimately impossible and unproductive to know if a word had an *i* 
 
 I-umlaut is very common in the past tense of weak j-verbs.
 
-Example 1: Að telja -> Ég t**a**ldi\
+Example 1: Að telja -> Ég t**a**ldi
 
 I-umlaut is very prevalent in the conjugation of strong verbs (a verb type covered in later lessons), but only in the singular. It never occurs in the plural. 
 
