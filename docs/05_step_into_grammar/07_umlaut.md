@@ -41,7 +41,7 @@ Following our rule, this word should be realized as *möður*, but it is not. Th
 
 The second situation is when u-umlaut happens when it seemingly should not. 
 
-Example: G**ö**ð
+Example: Gl**ö**ð
 
 There is no *u* anywhere in the form, so why is umlaut occuring? The reason is the opposite of the previous reason. When umlaut was happening, there actually was a *u* in the form, *glaðu*. Later, that u was dropped, leacing the modern langauge with *glöð*.
 
