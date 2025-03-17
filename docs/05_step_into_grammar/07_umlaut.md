@@ -2,7 +2,7 @@
 sidebar_position: 7
 title: Umlaut
 ---
-This lesson will cover a and u-umlaut in a fairly comprehensive manner, touching on some topics that we have not yet covered, but that is by design. This wil be an improtant page to reference later.  
+This lesson will cover a and u-umlaut in a fairly comprehensive manner, touching on some topics that we have not yet covered, but that is by design. This will be an important page to reference later.  
 
 As we have noted in previous lessons, sometimes the vowels in the stems of words change.
 
