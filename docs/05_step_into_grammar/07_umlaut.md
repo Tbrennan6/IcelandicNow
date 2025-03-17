@@ -107,10 +107,6 @@ I-umlaut is very common in the conjugation of strong verbs (a verb type covered 
 Example 1: Að f**a**ra -> Ég f**e**r\
 Example 2: Að f**a**ra -> Þið farið 
 
-I-umlaut is common in the dative singular of strong masculine nouns (a noun type covered in later lessons).
-
-Example: D**a**gur -> D**e**gi
-
 I-umlaut is very common in the nominative and accusative plural of feminine nouns (we will cover plural nouns in later lessons).
 
 Example: B**ó**k -> B**æ**kur
