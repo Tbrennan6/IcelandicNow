@@ -56,7 +56,7 @@ Example 1: P**a**nda -> P**ö**ndu\
 Example 2: M**a**mma -> M**ö**mmu\
 Example 2: **A**nna -> **Ö**nnu
 
-U-umlaut is also very common in verbs in the first-person plural. 
+U-umlaut is very common in verbs in the first-person plural. 
 
 Example 1: Að t**a**la -> Við t**ö**lum\
 Example 2: Að b**a**ka -> Við b**ö**kum
