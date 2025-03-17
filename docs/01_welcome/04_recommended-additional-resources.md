@@ -20,7 +20,9 @@ I wrote more about how to use this resource in an article [here](TODO)!
 
 [Íslenzka.is](https://islenzka.is/) has helped me, and many others, learn Icelandic inflections by allowing you to search up words and providing blank inflection tables that you can fill in for each word. The website also gives you feedback, telling you if your entry was correct or not. It is extremely helpful when it comes to the repetition part necessary for committing anything to memory. 
 
-Every time you learn a new inflectional pattern, I encourage you to practice with this website, filling out the tables for yourself a few times to test your understanding and reinforce your learning.
+Every time you learn a new inflectional pattern, I encourage you to practice with this website, filling out the tables for yourself a few times to test your understanding and reinforce your learning. 
+
+A couple times during the course, I will note that I recccomend using this resource. I cannot reccomend taking that advice enough.  
 
 I wrote more about how to use this resource in an article [here](https://tbrennan6.github.io/IcelandicNow/blog/islenza.is)!
 
