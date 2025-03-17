@@ -43,7 +43,7 @@ The second situation is when u-umlaut happens when it seemingly should not.
 
 Example: Gl**ö**ð
 
-There is no *u* anywhere in the form, so why is umlaut occuring? The reason is the opposite of the previous reason. When umlaut was happening, there actually was a *u* in the form, *glaðu*. Later, that u was dropped, leacing the modern langauge with *glöð*.
+There is no *u* anywhere in the form, so why is umlaut occuring? The reason is the opposite of the previous reason. When umlaut was happening, there actually was a *u* in the form, *glaðu*. Later, that *u* was dropped, leaving the modern langauge with *glöð*.
 
 *Note: While U-umlaut is no longer an active linguistical shift, many new words introduced to the language often adhere to the pattern through analogy.*
 
