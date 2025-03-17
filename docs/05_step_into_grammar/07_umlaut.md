@@ -111,14 +111,14 @@ I-umlaut is very common in the dative singular of strong masculine nouns (a noun
 
 Example: D**a**gur -> D**e**gi
 
-I-umlaut is very common in the nominative and accusative plural of feminine nouns (we will cover plrual nouns in later lessons).
+I-umlaut is very common in the nominative and accusative plural of feminine nouns (we will cover plural nouns in later lessons).
 
 Example: B**ó**k -> B**æ**kur
 
 ## Other Notes
-Do not make the mistake of thinking that a word can only experience one type of umlaut. Some words can expereinc both!
+Do not make the mistake of thinking that a word can only experience one type of umlaut. Some words can experience both!
 
-Below, see the declension table for *að fara*, a storng verb.
+Below, see the declension table for *að fara*, a strong verb.
 
 | **Pres. fara** | **Sing.** | **Plur.** |
 |----------------|-----------|-----------|
