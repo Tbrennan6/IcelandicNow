@@ -102,12 +102,12 @@ I-umlaut is very common in the past tense of weak j-verbs.
 
 Example 1: Að telja -> Ég t**a**ldi\
 
-I-umlaut is very prevalent in the conjugation of strong verbs (a verb type covered in later lessons), but only in the singular. It never occurs in the plural. 
+I-umlaut is very common in the conjugation of strong verbs (a verb type covered in later lessons), but only in the singular. It never occurs in the plural. 
 
 Example 1: Að f**a**ra -> Ég f**e**r\
 Example 2: Að f**a**ra -> Þið farið 
 
-I-umlaut is very common in the dative singular of strong masculine nouns (a noun type covered in later lessons).
+I-umlaut is common in the dative singular of strong masculine nouns (a noun type covered in later lessons).
 
 Example: D**a**gur -> D**e**gi
 
