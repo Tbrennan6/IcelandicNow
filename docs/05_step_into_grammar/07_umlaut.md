@@ -2,7 +2,7 @@
 sidebar_position: 7
 title: Umlaut
 ---
-This lesson will cover a and u-umlaut in a fairly comprehensive manner, touching on some topics that we have not yet covered, but that is by design. This wil be an improtant page to reference leter.  
+This lesson will cover a and u-umlaut in a fairly comprehensive manner, touching on some topics that we have not yet covered, but that is by design. This wil be an improtant page to reference later.  
 
 As we have noted in previous lessons, sometimes the vowels in the stems of words change.
 
@@ -100,7 +100,7 @@ While it is ultimately impossible and unproductive to know if a word had an *i* 
 
 I-umlaut is very common in the past tense of weak j-verbs.
 
-Example 1: Að telja -> Ég t**a**ldi
+Example 1: Að telja -> Ég t**a**ldi\
 
 I-umlaut is very prevalent in the conjugation of strong verbs (a verb type covered in later lessons), but only in the singular. It never occurs in the plural. 
 
