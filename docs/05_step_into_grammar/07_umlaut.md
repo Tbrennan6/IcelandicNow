@@ -31,13 +31,13 @@ Example 3: Br**a**nd**a**ri -> Br**ö**nd**u**rum
 
 
 ### Tricky Situations
-There are two tricky situations whereby the logic of umlaut seems to break, and both of them have to do with Old Norse. 
+There are two tricky situations whereby the logic of u-umlaut seems to break, and both of them have to do with Old Norse. 
 
-The first situation is when u-umlaut doesn't seem to happen when it seemingly should. 
+The first situation is when u-umlaut doesn't happen when it seemingly should. 
 
 Example: M**a**ður
 
-Following our rule, this word should be realized as *möður*, but it is not. The reason for this is that this word was spelled *maðr* when u-umlaut occcured. Since there was no *u*, nothing caused the *a* to shift. Hundreds of years later, Old Norse underwent a spelling reform, changing the *-r* ending to a *-ur*. This is extremely common, and happens in many adjectives as well. 
+Following our rule, this word should be realized as *möður*, but it is not. The reason for this is that this word was spelled *maðr* when u-umlaut occcured. Since there was no *u* at that time, nothing caused the *a* to shift. Hundreds of years later, Old Norse underwent a spelling reform, changing the *-r* ending to a *-ur*. Since that *u* came after the u-umlaut shift finished, the *a* in the stem remains. This is extremely common, and happens in many adjectives as well. 
 
 The second situation is when u-umlaut happens when it seemingly should not. 
 
