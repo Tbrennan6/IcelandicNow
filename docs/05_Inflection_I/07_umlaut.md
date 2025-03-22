@@ -112,6 +112,8 @@ I-umlaut is very common in the nominative and accusative plural of feminine noun
 Example: B**ó**k -> B**æ**kur
 
 ## Other Notes
+
+### Both Umlauts Together
 Do not make the mistake of thinking that a word can only experience one type of umlaut. Some words can experience both!
 
 Below, see the declension table for *að fara*, a strong verb.
@@ -122,4 +124,7 @@ Below, see the declension table for *að fara*, a strong verb.
 | **2nd.**       | ferð      | farið     |
 | **3rd.**       | fer       | fara      |
 
-Notive how the singualr forms underwent i-umlaut, and the first person plural form underwent u-umlaut. 
+Notice how the singular forms underwent i-umlaut, and the first person plural form underwent u-umlaut. 
+
+### How To Think About Umlaut
+Ultimately, umlauts occured because of a sound shift. As such

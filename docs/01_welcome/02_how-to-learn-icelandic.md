@@ -5,7 +5,7 @@ title: How to Learn Icelandic
 
 Before we begin the meat of the course, lets go over some effective learning strategies, tips, and tricks that will help you learn better and quicker. 
 
-This and the following lesson are the only times I will purposely seperate the *we* going on this journey into *I* and the *you*, because it's important that *you* realize some things and *I* admit some things. 
+While I will give some helpful anecdotes where I talk about my own learning and teaching expereices throughout teh course, this lesson and the following one are some of the only times I will purposely seperate the *we* going on this journey into *I* and the *you*, because it's important that *you* realize some things and *I* admit some things. 
 
 ## Set realistic expectations
 The number one killer of language learning aspirations is unrealistic expectations.
