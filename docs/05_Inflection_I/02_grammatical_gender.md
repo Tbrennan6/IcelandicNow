@@ -31,6 +31,8 @@ Both of these words mean *horse*, so they represent the exact same thing: a hors
 
 *Note: Grammatical gender is not consistent across languages with grammatical gender. While there may be some overlap in closely related languages (e.g., Swedish and Icelandic), this is not at all reliable for less closely related languages (e.g., Spanish and Icelandic).*
 
+*Note: The only difference between "Hestur" and "Hross" is that "Hross" is an older word.*
+
 ## Why Is Gender Important
 While the assignment of grammatical gender to nouns is arbitrary, the gender of words have a huge effect on how they are used!
 
@@ -53,4 +55,4 @@ When selecting pronouns in Icelandic, always consider the noun's gender. For ins
 *Tip: Because the gender attaches to the noun, not the thing itself, there are instances where something could be referred to with multiple pronouns. For example, a haddock fish on the table could be referred to as "fiskur" (masculine) or "ýsa" (feminine), and that would determine whether "hann" or "hún" is appropriate. The same applies to a "horse", as discussed earlier. You must choose the pronoun based on which noun you're using, and clarify the noun's gender at the start for context.*
 
 ### Inflection
-Grammatical gender also affects how nouns and adjectives inflects. This aspect will be explored in more detail in the following lesson. 
+Grammatical gender also affects how nouns and adjectives inflects. This will be explored in more detail in the following lesson. 

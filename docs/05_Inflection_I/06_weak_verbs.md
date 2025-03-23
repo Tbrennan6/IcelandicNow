@@ -23,7 +23,7 @@ Example 3: Kill -> Kill**ed**
 While there are many ways to classify verbs, this course will classify Icelandic weak verbs into three types: a-verbs, i-verbs, and j-verbs.
 
 ## A-verbs 
-A-verbs are weak verbs that have *a* as their principal sound. 
+A-verbs are weak verbs that have *a* as their principal sound. You will notice that the letter *a* is very prominent throughout the pattern. 
 
 | **Pres. A** | **Sing.** | **Plur.** |
 | -------------- | --------- | --------- |
@@ -53,7 +53,7 @@ Example 6: Þeir tala -> Þeir töluðu
 *Practice: Try inflecting "að gúgla", "að borða", and "að nota" on [Íslenzka.is](https://islenzka.is/aefingar/leita.html).*
 
 ## I-verbs
-I-verbs are weak verbs that have *i* as their principal sound.
+I-verbs are weak verbs that have *i* as their principal sound. You will notice that the letter *i* is very prominent throughout the pattern. 
 
 | **Pres. I** | **Sing.** | **Plur.** |
 |---------------|-----------|-----------|
@@ -96,7 +96,7 @@ Example 6: Þær reyna -> Þær reyndu
 *Note: Just because a verb's stem ending fits in one of the i-endings patterns, that does not automatically mean it is an i-verb. It could still be an a-verb (e.g., "að elska" and "að hrópa")*
 
 ## J-verbs
-J-verbs are different in that *j* is not a principal sound. Rather, they are weak verbs that have a *j* before the *a* in their infinitive form. 
+J-verbs are different in that *j* is not a principal sound. Rather, j-verbs are the weak verbs that have a *j* before the *a* in their infinitive form. 
 
 | **Pres. J** | **Sing.** | **Plur.** |
 |-------------|-----------|-----------|
