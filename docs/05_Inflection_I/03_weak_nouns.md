@@ -10,7 +10,7 @@ While we can and will group words by part of speech (e.g., nouns, pronouns, verb
 In this lesson, we are going to focus on a specific subset of nouns: weak nouns!
 
 ## What Are Weak Nouns 
-Weak nouns are nouns that end in a vowel in all their singular forms (e.g., pappi, mamma, hjarta). They are the first type of noun that we are going to look at since they inflect very simply. Unlike strong nouns, which may have irregular changes, weak nouns follow a predictable pattern, making them one of the easiest types to learn. Instead of memorizing multiple endings, you only need to remember one for the nominative case and a single ending for all other cases.
+Weak nouns are nouns that end in a vowel in all their singular forms (e.g., pappi, mamma, hjarta). They are the first type of noun that we are going to look at since they inflect very simply. Unlike strong nouns, which may have irregular changes, weak nouns follow a predictable pattern, making them one of the easiest types to learn. 
 
 *Note: In this lesson, we will focus on learning one pattern for each type of weak noun, though other patterns exist. The others patterns will be covered in future lessons.*
 
