@@ -7,7 +7,7 @@ Now that you are familiar with weak nouns, grammatical gender, and cases, its ti
 
 Using pronouns often leads to more natural and less clunky sentences. Consider which of the two examples below sounds more natural:/
 
-Example 1: This is Jón. **Jón** loves fishing. **Fishing** is **Jon's** favorite activity. 
+Example 1: This is Jón. **Jón** loves fishing. **Fishing** is **Jon's** favorite activity.\
 Example 2: This is Jón. **He** loves fishing. **It** is **his** favorite activity.
 
 ## First and Second-Person Pronouns
@@ -20,7 +20,7 @@ The first and second-person pronouns replace words in the first and second-perso
 | **Dative**     | mér              | þér               |
 | **Genitive**   | mín              | þín               |
 
-The first and second-person pronousn are best learned together beause their additional cases differ by only one letter.
+The first and second-person pronouns are best learned together because their additional cases differ by only one letter.
 
 **Conversation 1:**\
 Person 1: Kennir pabbi **þér** **íslensku**? - (Does dad teach you Icelandic?)\
