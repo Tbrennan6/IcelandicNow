@@ -22,9 +22,9 @@ It's important to remember that written langauge is a way to represent spoken so
 
 ## Nominative
 Hopefully you noticed a patterns that you have seen before! The plurals in the nominative end in a vowel and  *r* for the masculine and the feminine, but not the neuter. This may seem familiar if you remember the way in which *þeir* changed depending on the gender it was representing. If it was a masculine group, it ended with *-eir*, if it was feminine, *-ær*, and neuter, *-u*. 
-
-Example 1: Þ**eir** eru asn**ar**. - (They are donkeys.)
-Example 2: Þ**ær** eru pönd**ur**. - (They are pandas.)
+\
+Example 1: Þ**eir** eru asn**ar**. - (They are donkeys.)\
+Example 2: Þ**ær** eru pönd**ur**. - (They are pandas.)\
 Example 3: Þau eru hjört**u**.- (They are hearts.)
 
 *Practice: Read the examples above numerous times outloud. Then, change the nouns to other weak nouns we have learned (E.g, "jakki", "banki", "mamma", "lunga"). As you so, try not to look at the table. Instead, close your eyes and just remember what gender the noun fell into.*
