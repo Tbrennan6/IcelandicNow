@@ -61,7 +61,7 @@ Because these nouns are all **neuter**, we use neuter pronouns to refer to them.
 For practice, try replacing the word *hjarta* with the words *lunga* and *eyra*.
 
 ## Practice
-Now that you know how to inflect weak singular nouns, you should be able to determine their gender in context! For practice, try to identify the gender of the noun in the examples. Don’t worry about the meaning of the sentences—just focus on analyzing the context to determine the gender. 
+Now that you know how to inflect weak singular nouns, you should be able to determine their gender in context! For practice, try to identify the gender of the noun in the examples and then identify what their nominative case form should look like if they are not in the nominative already. Don’t worry about the meaning of the sentences—just focus on analyzing the context to determine the gender. 
 
 Example 1: Hann sagði mér **sögu**.\
 Example 2: Þetta er **listi** yfir íslenska myndlistarmenn.\
@@ -71,5 +71,3 @@ Example 5: Hún á fallega **dúkku**.\
 Example 6: **Api** býr í búðinni.
 
 *Hint: None of these words are neuter.*
-
-## Now I know:

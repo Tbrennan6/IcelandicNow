@@ -3,7 +3,7 @@ sidebar_position: 6
 title: Weak Verbs 
 ---
 
-So far, we have been exposed to a few different verbs (e.g., *að elska*, *að tala*, *að heita*) and have perhaps started to pick up on how they behave. In this lesson, we are going to drill down a little harder on verb inflections by learning how to inflect weak verbs in both the present and the past!
+To this point, we have been exposed to a few different verbs (e.g., *að elska*, *að tala*, *að heita*) and have perhaps started to pick up on how they behave. In this lesson, we are going to drill down a little harder on verb inflections by learning how to inflect weak verbs in both the present and the past!
 
 While many courses and textbooks prefer to teach only one verb type or one tense at a time, we are going to take a different and learn all weak verbs in the present and past at the same time. If this is the first time you are learning conjugation, this may seem like a lot of information to take in--and admittedly it is. But there is are resaons why we are going to do it this way.
 
