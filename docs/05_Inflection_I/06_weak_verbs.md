@@ -50,7 +50,7 @@ Example 6: Þeir tala -> Þeir töluðu
 
 *Practice: As you should with the other patterns as well, take some time to observe the present and past charts together and try to better appreciate how a verb changes in one person and plurality from the present into the past as well as pick out patterns in the charts more generally.*
 
-*Practice: Try inflecting "að gúgla", "að borða", and "að nota" on [Íslenzka.is](https://islenzka.is/aefingar/leita.html).*
+*Practice: Try inflecting "að gúgla" (to google), "að borða" (to eat), and "að nota"  (to use) on [Íslenzka.is](https://islenzka.is/aefingar/leita.html).*
 
 ## I-verbs
 I-verbs are weak verbs that have *i* as their principal sound. You will notice that the letter *i* is very prominent throughout the pattern. 
@@ -89,7 +89,7 @@ Example 4: Við reynum -> Við reyndum\
 Example 5: Þið reynið -> Þið reyndið\
 Example 6: Þær reyna -> Þær reyndu
 
-*Practice: Try inflecting "að gera", "að trúa", "að skrá", and "að breytta" using the rule you just learned on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)!*
+*Practice: Try inflecting "að gera" (to do), "að trúa" (tp believe), and "að breytta" (to change) using the rule you just learned on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)!*
 
 *Tip: With time, the assignment of the i-verb endings to certain stem endings will become automatic as the sound combinations created by them become more familiar to you.*
 
@@ -114,7 +114,7 @@ In the present tense, j-verbs lose their *j* in the singular, but keep it in the
 
 In the past tense, j-verbs lose their *j* entirely. Then, have the same three possibilities for endings as i-verbs, ending either *-di*, *-ti*, or *-ði*, depending on the same rules based on the letter or combination of letters before the *-ja*. 
 
-Unlike i-verbs, these verbs will experience i-umlaut in their past tense forms if triggered. In the chart, this is represented by a capital letter *ö*. For example the verb *að telja* changes the *e* in its stem to an *a* in the past tense. Following that rule, in some forms, there will be an *ö* instead of an *a*. That is because of u-umlaut. 
+Unlike i-verbs, these verbs will experience i-umlaut in their past tense forms if triggered. In the chart, this is represented by a capital letter *ö*. For example the verb *að telja* (to count) changes the *e* in its stem to an *a* in the past tense. Following that rule, in some forms, there will be an *ö* instead of an *a*. That is because of u-umlaut. 
 
 Below, see the conjugational change from the present to the past tense for the j-verb *að telja*.
 
@@ -125,4 +125,4 @@ Example 4: Við teljum -> Við töldum\
 Example 5: Þið teljið-> Þið tölduð\
 Example 6: Þau telja -> Þær töldu
 
-*Practice: Try inflecting "að velja" and "að skilja' using the rules you just learned on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)!*
+*Practice: Try inflecting "að velja" (to choose) and "að skilja" (to understand) using the rules you just learned on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)!*

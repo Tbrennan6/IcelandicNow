@@ -58,7 +58,7 @@ Example 4: Ég sakna hjart**a**. - (I miss a heart.)
 
 Because these nouns are all **neuter**, we use neuter pronouns to refer to them. 
 
-For practice, try replacing the word *hjarta* with the words *lunga* and *eyra*.
+For practice, try replacing the word *hjarta* with the words *lunga* (lung) and *eyra* (eye).
 
 ## Practice
 Now that you know how to inflect weak singular nouns, you should be able to determine their gender in context! For practice, try to identify the gender of the noun in the examples and then identify what their nominative case form should look like if they are not in the nominative already. Don’t worry about the meaning of the sentences—just focus on analyzing the context to determine the gender. 
