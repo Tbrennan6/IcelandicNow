@@ -5,7 +5,7 @@ title: Singular Personal Pronouns
 
 Now that you are familiar with weak nouns, grammatical gender, and cases, its time to incorporate pronouns into the mix! It is extremely common to use pronouns during conversations after a noun has been mentioned previously and it is clear based on context what is being refered to. 
 
-Using pronouns often leads to more natural and less clunky sentences. Consider which of the two examples below sounds more natural:/
+Using pronouns often leads to more natural and less clunky sentences. Consider which of the two examples below sounds more natural:\
 
 Example 1: This is Jón. **Jón** loves fishing. **Fishing** is **Jon's** favorite activity.\
 Example 2: This is Jón. **He** loves fishing. **It** is **his** favorite activity.
