@@ -1,8 +1,7 @@
 ---
-sidebar_position: 7
+sidebar_position: 5
 title: Umlaut
 ---
-This lesson will cover a and u-umlaut in a fairly comprehensive manner, touching on some topics that we have not yet covered, but that is by design. This will be an important page to reference later.  
 
 As we have noted in previous lessons, sometimes the vowels in the stems of words change.
 
@@ -98,7 +97,7 @@ These forms experienced i-umlaut because they contained the letter *i* in their 
 ### Where Is I-umlaut Common
 While it is ultimately impossible and unproductive to know if a word had an *i* in the ending when Germanic Umlaut was active or if the forms changed by analogy, knowing some of the common places it occurs can be very helpful.
 
-I-umlaut is very common in the past tense of weak j-verbs.
+I-umlaut is very common in the past tense of weak j-verbs (a verb type covered in later lessons).
 
 Example 1: Að telja -> Ég t**a**ldi\
 
@@ -111,9 +110,7 @@ I-umlaut is very common in the nominative and accusative plural of feminine noun
 
 Example: B**ó**k -> B**æ**kur
 
-## Other Notes
-
-### Both Umlauts Together
+## Both Umlauts Together
 Do not make the mistake of thinking that a word can only experience one type of umlaut. Some words can experience both!
 
 Below, see the declension table for *að fara*, a strong verb.
@@ -125,6 +122,3 @@ Below, see the declension table for *að fara*, a strong verb.
 | **3rd.**       | fer       | fara      |
 
 Notice how the singular forms underwent i-umlaut, and the first person plural form underwent u-umlaut. 
-
-### How To Think About Umlaut
-Ultimately, umlauts occured because of a sound shift. As such

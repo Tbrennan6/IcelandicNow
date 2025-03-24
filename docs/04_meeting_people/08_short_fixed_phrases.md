@@ -2,8 +2,7 @@
 sidebar_position: 8
 title: Short Fixed Phrases
 ---
-
-Throughout this course, you will learn about inflection and how to form natural, creative sentences. While the goal is to construct your own sentences from scratch, having a collection of pre-constructed phrases is also highly valuable.
+This lesson will serve two purposes: (1) to provide a good bank of useful pre-constructed phrases, and (2) to provide background vocabulary necessary for the next two units. 
 
 Pre-constructed phrases reduce the mental effort and time needed to form sentences, making conversations smoother and more fluid. In fact, most conversations rely on a small set of frequently repeated phrases. By learning these, you unlock a whole new level of conversational ability.
 
@@ -38,7 +37,6 @@ Person 1: Það er allt í lagi. Takk fyrir! - (That's ok. Thanks!)\
 Person 2: Ekkert að þakka. - (No problem.)
 
 ## Set 3
-Veistu - (Do you know, used for facts)\
 Þekkirðu - (Do you know / Are you familiar with, used for people or places, not facts)\
 Flott - (Great, interjection)\
 Heyrðu - (Hey, used to get attention or to refresh the conversation)\
