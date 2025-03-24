@@ -20,7 +20,9 @@ The first and second-person pronouns replace words in the first and second-perso
 | **Dative**     | mér              | þér               |
 | **Genitive**   | mín              | þín               |
 
-The first and second-person pronouns are best learned together because their additional cases differ by only one letter.
+The first and second-person pronouns are best learned together because thery are extremely common and their additional cases differ by only one letter.
+
+*Tip: It may help your memory to notice that "mig," "mér," and "mín" are pretty similar to "me" in English.*
 
 **Conversation 1:**\
 Person 1: Kennir pabbi **þér** **íslensku**? - (Does dad teach you Icelandic?)\
@@ -50,7 +52,7 @@ The first and second-person pronouns replace words in the third-person. In pract
 | **Dative**     | honum         | henni        | því        |
 | **Genitive**   | hans          | hennar       | þess       |
 
-The third-person pronoun forms are much less consistent than the first and second-person ones, but that doesn’t mean we should neglect learning them. Taking the time to master their endings will pay off greatly in the near future when we study strong nouns, other pronouns, and adjectives.
+The third-person pronoun forms are much less consistent than the first and second-person ones, but that doesn’t mean we should neglect learning them. Taking the time to master their endings will pay off greatly in the near future when we study strong nouns, other pronouns, and adjectives. 
 
 **Conversation 1:**\
 Person 1: Hvar er **hann**? - (Where is he?)\
@@ -63,8 +65,7 @@ Person 2: Nei, þetta er íslenska. - (No, it's Icelandic.)\
 Person 1: Talarðu **íslensku**? - (Do you speak Icelandic?)\
 Person 2: Nei, ég tala **hana** ekki. - (No, I don't speak it.)
 
-*Tip: The overwhelming majority of languages in Icelandic are weak feminine words (e.g., 
-"enska", "sænska", "franska").*
+*Tip: The overwhelming majority of languages in Icelandic are weak feminine words (e.g.,"enska", "sænska", "franska").*
 
 **Conversation 3:**\
 Person 1: Gefur hann **henni** köku? - (Does he give her a cake?)\
