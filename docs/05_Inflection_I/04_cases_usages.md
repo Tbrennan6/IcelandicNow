@@ -36,7 +36,7 @@ Example 2: Hann hjálpar **mömmu**. - (He helps mom.)
 But dative's main usage is as indirect objects of verbs. Indirect objects come after verbs but before the direct objects. Indirect objects typically show to who or for who the verb is undertaken. 
 
 Example 3: Ég gef **mömmu** köku. - (You give mom cake.)\
-Example 4: Hann gef **Sigga** penna. - (He gives Siggi a pen.)
+Example 4: Hann gefur **Sigga** penna. - (He gives Siggi a pen.)
 
 ## Genitive
 The genitive case is not often used as a direct or indirect object. Its usages will be described further in later lessons. 

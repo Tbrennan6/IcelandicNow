@@ -1,9 +1,9 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 title: Singular Personal Pronouns
 ---
 
-Now that you are familiar with weak nouns, grammatical gender, and cases, its time to incorporate pronouns into the mix! It is extremely common to use pronouns during conversations after a noun has been mentioned previously and it is clear based on context what is being refered to. 
+Now that you are familiar with weak nouns, weak verbs, grammatical gender, and cases, its time to incorporate pronouns into the mix! It is extremely common to use pronouns during conversations after a noun has been mentioned previously and it is clear based on context what is being refered to. 
 
 Using pronouns often leads to more natural and less clunky sentences. Consider which of the two examples below sounds more natural:\
 
@@ -41,6 +41,15 @@ Person 2: Ég elska **þig** líka. - (I love you, too.)
 **Conversation 4:**\
 Person 1: Þekkirðu **Jóhannu**? - (Do you know Jóhanna?)\
 Person 2: Já, ég þekki **hana**. - (Yes, I know her.)
+
+For practice, translate the following into Icelandic:
+
+1. Do you love me?
+2. Do you know me?
+3. He doesn't miss you. 
+4. She gives you a cake.
+5. You eat cakes. 
+6. I eat a donkey. 
 
 ## Third-Person Pronouns
 The first and second-person pronouns replace words in the third-person. In practice, this is going to be most things.
@@ -82,3 +91,11 @@ Person 2: Hún er **Ása**. - (She is Ása.)
 **Conversation 6:**\
 Person 1: Saknarðu **pappa**? - (Do you miss dad?)\
 Person 2: Já. Ég sakna **hans** mikið. - (Yes. I miss him a lot.)
+
+For practice, translate the following into Icelandic:
+
+1. He gives it to her.
+2. I speak it (refering to Icelandic).
+3. Do you miss her?
+4. He eats it.
+5. She loves him. but he does not love her. 
