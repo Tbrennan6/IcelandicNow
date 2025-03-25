@@ -52,7 +52,7 @@ The (-is, ar) pattern follows (-s, -ar) closely. It is the exact same in the plu
 
 Example 1: Hann er góður lækn**ir**. - (He is a doctor).\
 Example 2: Hann borgaði leikn**unum**. - (He paid the doctors.)\
-Example 3: Hinn er íslenski grein**ir**inn. - (Hinn is the Icelandic definite endig.)
+Example 3: Hinn er íslenski grein**ir**inn. - (Hinn is the Icelandic definite ending.)
 
 ### The (-ar, ir) Pattern
 
