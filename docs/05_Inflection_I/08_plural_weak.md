@@ -5,7 +5,6 @@ title: Plurals
 
 You may have noticed that, so far, we have only really worked with singular nouns and pronouns. This was a deliberate choice to help us focus on their patterns and gain a feel for how they change. Now that we are ready, it's time to introduce plural weak nouns.
 
-
 ## Weak Plural Table
 Learning plural weak forms might seem like doubling the work we've already done, but if you have kept up with the lessons, a good bit of the groundwork is already well in place.
 
