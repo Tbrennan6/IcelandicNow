@@ -3,15 +3,20 @@ sidebar_position: 7
 title: Singular Personal Pronouns
 ---
 
-Now that you are familiar with weak nouns, weak verbs, grammatical gender, and cases, its time to incorporate pronouns into the mix! It is extremely common to use pronouns during conversations after a noun has been mentioned previously and it is clear based on context what is being refered to. 
+Now that we have basic familiarity with weak nouns, weak verbs, grammatical gender, and how the cases are used, its time to incorporate pronouns into the mix! It is extremely common to use pronouns during conversations after a noun has been mentioned previously and it is clear based on context what is being refered to. 
 
 Using pronouns often leads to more natural and less clunky sentences. Consider which of the two examples below sounds more natural:\
 
-Example 1: This is Jón. **Jón** loves fishing. **Fishing** is **Jon's** favorite activity.\
-Example 2: This is Jón. **He** loves fishing. **It** is **his** favorite activity.
+Example 1: This is **Jón**. **Jón** loves **fishing**. **Fishing** is **Jon's** favorite activity.\
+Example 2: This is **Jón**. **He** loves fishing. **It** is **his** favorite activity.
 
 ## First and Second-Person Pronouns
-The first and second-person pronouns replace words in the first and second-person. 
+The first and second-person pronouns replace people in the first and second-person. 
+
+*Note: We  do not typically refer to ourselves by our names, nor do we usually refer to people we are talking to by their names directly to them, so these pronouns are not really "replacing" anything directly.*
+
+Example 1: The author is happy. -> **I** am happy. 
+Example 2: The reader is happy. -> **You** are happy. 
 
 |                | **First-Person** | **Second-Person** |
 |----------------|------------------|-------------------|
@@ -20,7 +25,7 @@ The first and second-person pronouns replace words in the first and second-perso
 | **Dative**     | mér              | þér               |
 | **Genitive**   | mín              | þín               |
 
-The first and second-person pronouns are best learned together because thery are extremely common and their additional cases differ by only one letter.
+The first and second-person pronouns are best learned together because their additional cases differ by only one letter.
 
 *Tip: It may help your memory to notice that "mig," "mér," and "mín" are pretty similar to "me" in English.*
 
@@ -36,23 +41,20 @@ Person 2: Ég sakna **þín** líka. - (I miss you, too.)
 Person 1: Ég elska **þig**, Siggi. - (I love you, Siggi.)\
 Person 2: Ég elska **þig** líka. - (I love you, too.)
 
-*Note: Icelandic doesn't have a true vocative case (used when addressing somebody with their name), so the nominative case is used instead with rare exception. In the above example, "Siggi" is being used vocatively.*
-
-**Conversation 4:**\
-Person 1: Þekkirðu **Jóhannu**? - (Do you know Jóhanna?)\
-Person 2: Já, ég þekki **hana**. - (Yes, I know her.)
+*Note: Icelandic doesn't have a true vocative case (used when addressing somebody with their name), so the nominative case is used instead with rare exception. In the above example, "Siggi" is being used vocatively, so it is in the nominative case.*
 
 For practice, translate the following into Icelandic:
 
 1. Do you love me?
 2. Do you know me?
 3. He doesn't miss you. 
-4. She gives you a cake.
-5. You eat cakes. 
-6. I eat a donkey. 
 
 ## Third-Person Pronouns
-The first and second-person pronouns replace words in the third-person. In practice, this is going to be most things.
+The third-person pronouns replace third-person words and people. Any object that you can think that is not yourself or a person you are talking to can be replaced by one of these pronouns. Put another way, all nouns can be replaced with third person pronouns.
+
+Example 1: I see the caeke. -> I see **it**.\
+Example 2: I see the girl. -> I see **her**.\
+Eaxmple 3: The crab eats the cake. -> **It** eats **it**. 
 
 |                | **Masculine** | **Feminine** | **Neuter** |
 |----------------|---------------|--------------|------------|
