@@ -100,4 +100,4 @@ For practice, translate the following into Icelandic:
 2. I speak it (refering to Icelandic).
 3. Do you miss her?
 4. He eats it.
-5. She loves him. but he does not love her. 
+5. She loves him, but he does not love her. 
