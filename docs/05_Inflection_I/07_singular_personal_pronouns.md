@@ -15,7 +15,7 @@ The first and second-person pronouns replace people in the first and second-pers
 
 *Note: We  do not typically refer to ourselves by our names, nor do we usually refer to people we are talking to by their names directly to them, so these pronouns are not really "replacing" anything directly.*
 
-Example 1: The author is happy. -> **I** am happy. 
+Example 1: The author is happy. -> **I** am happy.\
 Example 2: The reader is happy. -> **You** are happy. 
 
 |                | **First-Person** | **Second-Person** |
