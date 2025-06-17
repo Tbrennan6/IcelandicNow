@@ -1,6 +1,6 @@
 ---
 slug: how-to-order-food
-title: "Hot To Order Food"
+title: "How To Order Food"
 authors: [tbrennan]
 tags: [Vocabulary]
 ---
