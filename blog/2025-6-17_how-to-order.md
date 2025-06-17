@@ -33,8 +33,8 @@ Example 2: Get ég fengið litlan/miðstærð/stóran skammt af frönskum? - (Ca
 ## Side dishes 
 To add a side dish to your food order, you use the word *með* with the accusative case. 
 
-Example 1: Get ég fengið steik með körtuflur? - (Can I get a steak with potatoes?)
-Example 2: Get ég fengið ostborgara með litlan skammt af frönskum? - (Can I get a cheeseburger with a small order of fries?)\
+Example 1: Get ég fengið steik með körtuflur? - (Can I get a steak with potatoes?)\
+Example 2: Get ég fengið ostborgara með litlan skammt af frönskum? - (Can I get a cheeseburger with a small order of fries?)
 
 ## Ingredients 
 Not to be confused with a side dish, some dishes or foods are to be specified by their ingredients. This can become important if the resurant offers multiple ways of preparing a dish or if you are making a modification. This is done with the *með* but the dative. 
