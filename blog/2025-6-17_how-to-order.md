@@ -1,8 +1,8 @@
 ---
-slug: how-to-order
+slug: how-to-order-food
 title: "Hot To Order Food"
 authors: [tbrennan]
-tags: [Resource Feature]
+tags: [Vocabulary]
 ---
 
 Góðan daginn, 
