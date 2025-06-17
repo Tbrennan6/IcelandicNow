@@ -37,7 +37,7 @@ Example 1: Get ég fengið steik með körtuflur? - (Can I get a steak with pota
 Example 2: Get ég fengið ostborgara með litlan skammt af frönskum? - (Can I get a cheeseburger with a small order of fries?)
 
 ## Ingredients 
-Not to be confused with a side dish, some dishes or foods can be specified by their ingredients. This can become important if the restaurant offers multiple ways of preparing a dish or if you are making a modification. This is done with the *með* but the dative. 
+Not to be confused with a side dish, some dishes or foods can be specified by their ingredients. This can become important if the restaurant offers multiple ways of preparing a dish or if you are making a modification. This is done with *með* and the dative case. 
 
 Example 1: Get ég fengið vatnsglas með sítrónu? - (Can I get a glass of water with a lemon?)\
 Example 2: Get ég fengið lasanjað með rjómaosti? - (Can I get the lasagne with cream cheese?)\
