@@ -17,9 +17,9 @@ One of the pleasures of traveling is ordering food from a resturant. Of course, 
 ### The opening
 After you greet the cashier or waiter with *góðan daginn* or a similar greeting, there are a few main options for the opening phrase.
 
-1. Get ég fengið... - (Can I get...). 
-2. Ég ætla að fá... - (I intend to get...).
-3. Get ég keypt af þér... - (Can I but off of you...). 
+1. Get ég fengið... - (Can I get...)
+2. Ég ætla að fá... - (I intend to get...)
+3. Get ég keypt af þér... - (Can I but off of you...) 
 
 The first option is the most common--and can be more polite by the subjunctive *gæti* instead of *get*--and will serve very well most of the time. 
 
@@ -38,8 +38,8 @@ Example 2: Get ég fengið litlan/miðstærð/stóran skammt af frönskum. - (Ca
 ### Side dishes 
 To add a side dish or a detail to your food order, you use the word *með* with the accusative case. 
 
-Example 1: Get ég fengið ostborgara með litlan skammt af frönskum. - (Can I get a cheeseburfer with a small order of fries?)\
-Example 2: Get ég fengið steik með körtuflum. - (Can I get a steak with potatoes).
+Example 1: Get ég fengið steik með körtuflur. - (Can I get a steak with potatoes).
+Example 2: Get ég fengið ostborgara með litlan skammt af frönskum. - (Can I get a cheeseburfer with a small order of fries?)\
 
 ### Ingredients 
 Not to be confused with a side dish, some dishes or foods are to be specified by their ingredients. This can become important if the resurant offers multiple ways of preparing a dish or if you are making a modification. This is done with the *með* but the dative. 
@@ -61,4 +61,4 @@ This is another common queiton that invites a dative case answer. The most commo
 
 Example 3: Stakur eða máltíð? - (By itself or a meal?)
 
-This question is would only come up in a place that does combo-meals, such as a fast food resturant. You can get ahead of this quesiton by adding the adjective *stakur* before the item or adding the noun *máltíð* to the food item to form a combo, such as *ham­borg­ara­máltíð*.
+This question is would only come up in a place that does combo-meals, such as a fast food resturant. You can get ahead of it by adding the adjective *stakur* before the item or adding the noun *máltíð* to the food item to form a combo, such as *ham­borg­ara­máltíð*.
