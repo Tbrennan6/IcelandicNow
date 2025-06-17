@@ -18,7 +18,7 @@ This first mistake is the lowest on the list, but given how common it is, it may
 
 <!-- truncate -->
 
-The compilation is that it is wrong in some cases but not others, which begs questions about the subjunctive that many new learners aren't quite ready to tackle. We'll avoid a more thorough discussion of the subjunctive here as well, as it's beyond the scope of the post.
+The complacation is that it is wrong in some cases but not others, which begs questions about the subjunctive that many new learners aren't quite ready to tackle. We'll avoid a more thorough discussion of the subjunctive here as well, as it's beyond the scope of the post.
 
 The error happens when new speakers try to chain using the verb *að vilja*.
 
