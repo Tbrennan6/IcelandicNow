@@ -14,7 +14,7 @@ This post will teach you how to ask, buy, and order food in Icelandic. While thi
 ## In General
 One of the pleasures of traveling is ordering food from a resturant. Of course, depending on the type of food and the situation, the phrasing can change a bit, however the formula is pretty standard. 
 
-### The Opening
+### The opening
 After you greet the cashier or waiter with *góðan daginn* or a similar greeting, there are a few main options for the opening phrase.
 
 1. Get ég fengið... - (Can I get...). 
@@ -35,7 +35,7 @@ But there are some things that don't come in neat countable units, like fries an
 Example 1: Get ég fengið skammt af kjötsúpu. - (Can I get a helping of meatsoup?)\
 Example 2: Get ég fengið litlan/miðstærð/stóran skammt af frönskum. - (Can I get a small/medium/large order of fries?)
 
-### Side Dishes 
+### Side dishes 
 To add a side dish or a detail to your food order, you use the word *með* with the accusative case. 
 
 Example 1: Get ég fengið ostborgara með litlan skammt af frönskum. - (Can I get a cheeseburfer with a small order of fries?)\
@@ -48,7 +48,7 @@ Example 1: Get ég fengið vatnsglas með sítrónu? - (Can I get a glass of wat
 Example 2: Get ég fengið lasanjað með rjómaosti? - (Can I get the lasagne with cream cheese?)\
 Example 3: Get ég fengið pönnukökur með neinu smjöri? - (Can I get pancakes with no butter?)
 
-### General Questions
+### General questions
 After you have successfulyl placed your order, the worker may have some additional questions. 
 
 Example 1: Eitthvað fleira? - (Anything else?)

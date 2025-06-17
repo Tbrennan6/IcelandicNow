@@ -49,7 +49,7 @@ However, the singular can be used to be more personal and to address the reader 
 Example 1: Baka**ðu** í ofni í um 15-20 mín. - (Bake in the oven for about 15-20 min.)\
 Example 2: Nota**ðu** viðeigandi hlífðarbúnað. - (Use proper protective equipment.)
 
-## What about the pool sign?
+## So what about the pool sign?
 Back to the sign. The pool sign uses both singular and plural imperative forms, but it shouldn't. Best practice would have been to choose one form and stick with it throughout. It is written for a general audience by a company in the service industry, so a plural form is likely more appropriate. 
 
 As described by an Icelandic native, "It almost feels like the Blue Lagoon poster is written by two people; one who wants to follow the service industry formality and another one who wants to feel intimate and familiar."
