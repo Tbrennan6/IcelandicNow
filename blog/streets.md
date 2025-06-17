@@ -2,7 +2,7 @@
 slug: Roads and House Numbering 
 title: "Icelandic Roads and House Numbering"
 authors: [tbrennan]
-tags: [Vocabulary 
+tags: [Vocabulary]
 ---
 
 Sæl og blessuð, 
