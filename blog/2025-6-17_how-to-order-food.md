@@ -31,13 +31,13 @@ Example 1: Get ég fengið **skammt af** kjötsúpu? - (Can I get **a helping of
 Example 2: Get ég fengið litlan/miðstærð/stóran **skammt af** frönskum? - (Can I get a small/medium/large **order of** fries?)
 
 ## Side dishes 
-To add a side dish to your food order, you use the word *með* with the accusative case. 
+To add a **side dish** to your food order, you use the word *með* with the accusative case. 
 
 Example 1: Get ég fengið steik **með körtuflur**? - (Can I get a steak **with potatoes**?)\
 Example 2: Get ég fengið ostborgara **með litlan skammt** af frönskum? - (Can I get a cheeseburger **with a small order** of fries?)
 
 ## Ingredients 
-Not to be confused with a side dish, some dishes or foods can be specified by their ingredients. This can become important if the restaurant offers multiple ways of preparing a dish or if you are making a modification. This is done with *með* and the dative case. 
+Not to be confused with a side dish, some dishes or foods can be **specified by their ingredients**. This can become important if the restaurant offers multiple ways of preparing a dish or if you are making a modification. This is done with *með* and the dative case. 
 
 Example 1: Get ég fengið vatnsglas **með sítrónu**? - (Can I get a glass of water **with lemon**?)\
 Example 2: Get ég fengið lasanjað **með rjómaosti**? - (Can I get the lasagne **with cream cheese**?)\
