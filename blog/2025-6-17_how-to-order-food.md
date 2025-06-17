@@ -27,8 +27,8 @@ Example 3: Get ég fengið **sneið af ostaköku**? - (Can I have a **slice of c
 
 But there are some things that don't come in neat countable units, like fries and soup. For these items, it's best to ask for a *skammtur af* them. *Skammtur* translates to an *order*, *portion* or *helping*. 
 
-Example 1: Get ég fengið **skammt af** kjötsúpu? - (Can I get **a helping** of meat soup?)\
-Example 2: Get ég fengið litlan/miðstærð/stóran **skammt af** frönskum? - (Can I get a small/medium/large order of fries?)
+Example 1: Get ég fengið **skammt af** kjötsúpu? - (Can I get **a helping of** meat soup?)\
+Example 2: Get ég fengið litlan/miðstærð/stóran **skammt af** frönskum? - (Can I get a small/medium/large **order of** fries?)
 
 ## Side dishes 
 To add a side dish to your food order, you use the word *með* with the accusative case. 
