@@ -37,7 +37,7 @@ While you have only learned to conjugate one verb so far, *að vera*, second-per
 |  **Verb**        | **Sing.** | **Plur.** |
 |-----------|-----------|-----------|
 | **Vera**  | ertu       | eruði     |
-| **Baka**  | bakarðu   | bakaði    |
+| **Baka**  | bakarðu   | bakiði    |
 | **Tala**  | talarðu   | taliði    |
 | **Gera**  | gerirðu   | geriði    |
 | **Fara**  | ferðu     | fariði    |
