@@ -7,48 +7,43 @@ tags: [Vocabulary]
 
 Góðan daginn, 
 
-This post will teach you how to ask, buy, and order food in Icelandic. While this post is primarily aimed at food, this guide could work equally as well for anything you can buy in a store. 
+This post will teach you how to ask for, order and buy food in Icelandic. 
 
 <!-- truncate -->
 
-## In general
-One of the pleasures of traveling is ordering food from a resturant. Of course, depending on the type of food and the situation, the phrasing can change a bit, however the formula is pretty standard. 
-
-### The opening
-After you greet the cashier or waiter with *góðan daginn* or a similar greeting, there are a few main options for the opening phrase.
+## The opening
+After you greet the server with *góðan daginn* or a similar greeting, there are a few main options for the opening phrase. The first option is the most common--and can be more polite by the subjunctive *gæti* instead of *get*--and will serve very well most of the time. 
 
 1. Get ég fengið... - (Can I get...)
 2. Ég ætla að fá... - (I intend to get...)
-3. Get ég keypt af þér... - (Can I but off of you...) 
+3. Get ég keypt af þér... - (Can I buy off of you...) 
 
-The first option is the most common--and can be more polite by the subjunctive *gæti* instead of *get*--and will serve very well most of the time. 
+## The food
+After the opening, the phrasing is going to change depending on what you are ordering. For most countable food items, you simply list off the item/s in the accusative case. You can, of course, add any number of such items you want. 
 
-After the greeting, the phrasing is going to change depending on what you are ordering. For most countable food items, you simply list off the item/s in the accusative case. You can, of course, add any number of such items you want. 
-
-### The food
 Example 1: Gæti ég fengið einn bjór? - (Could I have one beer?)\
 Example 2: Gæti ég fengið tvö hvítvínsglas? - (Could I two glasses of white wine?)\
 Example 3: Get ég fenið sneið af ostaköku? - (Can I have a slice of cheesecake?)
 
-But there are some things that don't come in neat countable units, like fries and soup. For these items, it's best to ask for a *skammtur af* them, such translates most directly to an *order*, *portion* or *helping*. 
+But there are some things that don't come in neat countable units, like fries and soup. For these items, it's best to ask for a *skammtur af* them. *Skammtur* translates to an *order*, *portion* or *helping*. 
 
-Example 1: Get ég fengið skammt af kjötsúpu. - (Can I get a helping of meatsoup?)\
-Example 2: Get ég fengið litlan/miðstærð/stóran skammt af frönskum. - (Can I get a small/medium/large order of fries?)
+Example 1: Get ég fengið skammt af kjötsúpu? - (Can I get a helping of meatsoup?)\
+Example 2: Get ég fengið litlan/miðstærð/stóran skammt af frönskum? - (Can I get a small/medium/large order of fries?)
 
-### Side dishes 
-To add a side dish or a detail to your food order, you use the word *með* with the accusative case. 
+## Side dishes 
+To add a side dish to your food order, you use the word *með* with the accusative case. 
 
-Example 1: Get ég fengið steik með körtuflur. - (Can I get a steak with potatoes).
-Example 2: Get ég fengið ostborgara með litlan skammt af frönskum. - (Can I get a cheeseburfer with a small order of fries?)\
+Example 1: Get ég fengið steik með körtuflur? - (Can I get a steak with potatoes?)
+Example 2: Get ég fengið ostborgara með litlan skammt af frönskum? - (Can I get a cheeseburger with a small order of fries?)\
 
-### Ingredients 
+## Ingredients 
 Not to be confused with a side dish, some dishes or foods are to be specified by their ingredients. This can become important if the resurant offers multiple ways of preparing a dish or if you are making a modification. This is done with the *með* but the dative. 
 
 Example 1: Get ég fengið vatnsglas með sítrónu? - (Can I get a glass of water with a lemon?)\
 Example 2: Get ég fengið lasanjað með rjómaosti? - (Can I get the lasagne with cream cheese?)\
 Example 3: Get ég fengið pönnukökur með neinu smjöri? - (Can I get pancakes with no butter?)
 
-### General questions
+## General questions
 After you have successfulyl placed your order, the worker may have some additional questions. 
 
 Example 1: Eitthvað fleira? - (Anything else?)
