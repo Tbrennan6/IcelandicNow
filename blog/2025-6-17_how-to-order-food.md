@@ -19,29 +19,29 @@ After you greet the server with *góðan daginn* or a similar greeting, there ar
 3. Get ég keypt af þér... - (Can I buy off of you...) 
 
 ## The food
-After the opening, the phrasing is going to change depending on what you are ordering. For most countable food items, you simply list off the item/s in the accusative case. You can, of course, add any number of such items you want. 
+After the opening, the phrasing is going to change depending on what you are ordering. For most countable food items, you simply list off the **item/s** in the accusative case. You can, of course, add any number of such items you want. 
 
-Example 1: Gæti ég fengið einn bjór? - (Could I have one beer?)\
-Example 2: Gæti ég fengið tvö hvítvínsglas? - (Could I have two glasses of white wine?)\
-Example 3: Get ég fengið sneið af ostaköku? - (Can I have a slice of cheesecake?)
+Example 1: Gæti ég fengið **einn bjór**? - (Could I have **one beer**?)\
+Example 2: Gæti ég fengið **tvö hvítvínsglas**? - (Could I have **two glasses of white wine**?)\
+Example 3: Get ég fengið **sneið af ostaköku**? - (Can I have a **slice of cheesecake**?)
 
 But there are some things that don't come in neat countable units, like fries and soup. For these items, it's best to ask for a *skammtur af* them. *Skammtur* translates to an *order*, *portion* or *helping*. 
 
-Example 1: Get ég fengið skammt af kjötsúpu? - (Can I get a helping of meat soup?)\
-Example 2: Get ég fengið litlan/miðstærð/stóran skammt af frönskum? - (Can I get a small/medium/large order of fries?)
+Example 1: Get ég fengið **skammt af** kjötsúpu? - (Can I get **a helping** of meat soup?)\
+Example 2: Get ég fengið litlan/miðstærð/stóran **skammt af** frönskum? - (Can I get a small/medium/large order of fries?)
 
 ## Side dishes 
 To add a side dish to your food order, you use the word *með* with the accusative case. 
 
-Example 1: Get ég fengið steik með körtuflur? - (Can I get a steak with potatoes?)\
-Example 2: Get ég fengið ostborgara með litlan skammt af frönskum? - (Can I get a cheeseburger with a small order of fries?)
+Example 1: Get ég fengið steik **með körtuflur**? - (Can I get a steak **with potatoes**?)\
+Example 2: Get ég fengið ostborgara **með litlan skammt** af frönskum? - (Can I get a cheeseburger **with a small order** of fries?)
 
 ## Ingredients 
 Not to be confused with a side dish, some dishes or foods can be specified by their ingredients. This can become important if the restaurant offers multiple ways of preparing a dish or if you are making a modification. This is done with *með* and the dative case. 
 
-Example 1: Get ég fengið vatnsglas með sítrónu? - (Can I get a glass of water with a lemon?)\
-Example 2: Get ég fengið lasanjað með rjómaosti? - (Can I get the lasagne with cream cheese?)\
-Example 3: Get ég fengið pönnukökur með neinu smjöri? - (Can I get pancakes with no butter?)
+Example 1: Get ég fengið vatnsglas **með sítrónu**? - (Can I get a glass of water **with lemon**?)\
+Example 2: Get ég fengið lasanjað **með rjómaosti**? - (Can I get the lasagne **with cream cheese**?)\
+Example 3: Get ég fengið pönnukökur **með neinu smjöri**? - (Can I get pancakes **with no butter**?)
 
 ## General questions
 After you have successfully placed your order, the worker may have some additional questions. 
