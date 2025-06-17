@@ -11,7 +11,7 @@ This post will teach you how to ask, buy, and order food in Icelandic. While thi
 
 <!-- truncate -->
 
-## In General
+## In general
 One of the pleasures of traveling is ordering food from a resturant. Of course, depending on the type of food and the situation, the phrasing can change a bit, however the formula is pretty standard. 
 
 ### The opening
