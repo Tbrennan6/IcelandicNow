@@ -16,7 +16,7 @@ const config: Config = {
   url: 'https://icelandicnow.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: /,
   // baseUrl: '/', // TODO: Change this back when in production
 
   // GitHub pages deployment config.
