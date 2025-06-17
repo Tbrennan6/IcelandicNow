@@ -35,5 +35,5 @@ Using a strong adjective with definite nouns is not a common thing to do in regu
 ## Examples from real sources
 Below, find examples from real Icelandic books that used strong adjectives with definite nouns. Consider what difference a weak adjective would make instead of a strong adjective.
 
-1. "[S]yfjuleg þögn hvíldi yfir stórum, ferköntuðum húsunum við Runnaflöt." - Harry Potter og Fonixreglan eftir J.K. Rolling
-2. "Kertaljosið á stigagagnum spegliðist í bronslítu hárinu, brúnu augunum, og fallegu húðinni." - Vetrarhörkur eftir Hildi Knútsdóttur
+1. "[S]yfjuleg þögn hvíldi yfir stórum, ferköntuðum húsunum við Runnaflöt." - Harry Potter og Fönixreglan eftir J.K. Rowling
+2. "Kertaljósið á stigagagnum spegliðist í bronslitu hárinu, brúnu augunum, og fallegu húðinni." - Vetrarhörkur eftir Hildi Knútsdóttur
