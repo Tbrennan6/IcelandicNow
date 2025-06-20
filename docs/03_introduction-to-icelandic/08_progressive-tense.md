@@ -39,7 +39,7 @@ Question 1: Hvað ert þú að gera? - (What are you doing.) \
 Answer 1: Ég er að borða. - (I am eating.) 
 
 Question 2: Hvað er Jón að gera? - (What is Jón doing?) \
-Answer 3: Hann er að elda. - (He is cooking.)
+Answer 2: Hann er að elda. - (He is cooking.)
 
 Question 3: Hvað eruð þið að gera? - (What are y'all doing?) \
 Answer 3: Við erum að tala. - (We are talking.)
