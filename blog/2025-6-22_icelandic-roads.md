@@ -32,10 +32,10 @@ Regnbogstræti (rainbow street) is a name that is sometimes used to refer to the
 ## Vegur
 A vegur is a *way*, often a larger road that runs outside of the main population centers, linking towns together. 
 
-The most notable vegir are the *þjóðvegir* (national roads) that run across the country, numbered clockwise from Gígjukvísl. Two digit vegir denote longer, more important roads while three digit roads denote shorter, less important roads. Technically, four digit roads exist but they are rarely signposted as such. The first major road is 201 Vallavegur, the last is 998 Skaftafellsvegur.
+The biggest roads in Iceland are the *þjóðvegir* (national roads) that run across the country, numbered clockwise from Gígjukvísl. Two digit vegir denote longer, more important roads while three digit roads denote shorter, less important roads. Technically, four digit roads exist but they are rarely signposted as such. The first major road is 201 Vallavegur, the last is 998 Skaftafellsvegur.
 
 ### Notable vegur 
-The most famous of the national roads is *þjóðvegur 1*, the only one to be named with one digit. Like the other þjóðvegir, þjóðpvegur 1 is more commonly known by a different name in daily speech. Because Þjóðvegur 1 runs across the entuire country in a circle, its popular name across the country is *hringvegurinn* (the ring road). It is a common vacation idea to drive around the entire country on the hringvegur, visitng most of the country's most popular spots!
+The most famous of the national roads is Þjóðvegur 1, the only one to be named with one digit. Like the other þjóðvegir, þjóðpvegur 1 is more commonly known by a different name in daily speech. Because Þjóðvegur 1 runs across the entuire country in a circle, its popular name across the country is *hringvegurinn* (the ring road). It is a common vacation idea to drive around the entire country on the hringvegur, visitng most of the country's most popular spots!
 
 Laugavegur (bath road) is the most famous street in Iceland, being the main shopping road in Reykjavík. It is filled with shops, resturants, and bars.  
 
