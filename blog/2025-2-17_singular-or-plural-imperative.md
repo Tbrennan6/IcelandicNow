@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [howdoyou, grammar, faq]
 ---
 
-Daginn, 
-
 The other day, a friend and fellow learner showed me this picture from his trip to the Blue Lagoon:
 
 <!-- truncate -->

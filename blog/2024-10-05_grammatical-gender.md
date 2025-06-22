@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [grammar, faq]
 ---
 
-Halló!
-
 This post will give a brief introduction to grammatical gender in Icelandic.
 
 Grammatical gender refers to the phenomenon in some languages whereby all nouns, even ones with no real-world gender connotation, are assigned to a specific gender for grammatical purposes.

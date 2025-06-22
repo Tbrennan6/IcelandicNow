@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [toppost, vocabulary]
 ---
 
-Good day!
-
 This is the second post in a series called "You Should Know", where we 
 
 <!-- truncate -->

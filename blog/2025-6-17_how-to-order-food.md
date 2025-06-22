@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [Vocabulary]
 ---
 
-Góðan daginn, 
-
 This post will teach you how to ask for, order and buy food in Icelandic. 
 
 <!-- truncate -->

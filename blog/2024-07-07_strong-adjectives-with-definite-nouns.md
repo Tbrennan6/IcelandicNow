@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [grammar]
 ---
 
-Sæl öllsömul!
-
 This post responds to a question I often receive. Advanced Icelandic learners know that an indefinite noun is supposed to be accompanied by strong-form adjectives and definite nouns with weak adjectives. But this is not always the case.
 
 <!-- truncate -->

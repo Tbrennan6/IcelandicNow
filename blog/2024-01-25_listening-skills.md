@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [toppost, howdoyou]
 ---
 
-Hello everybody!
-
 I am writing this post to respond to a common question that I receive all the time: "How do/did you improve your Icelandic listening skills?"
 
 <!-- truncate -->

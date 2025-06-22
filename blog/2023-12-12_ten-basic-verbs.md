@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [vocabulary]
 ---
 
-Hello everybody!
-
 This is the first post in a new series called "You Should Know." 
 
 <!-- truncate -->

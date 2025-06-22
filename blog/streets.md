@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [Vocabulary]
 ---
 
-Sæl og blessuð, 
-
 This post will discuss Iceladnic roads. 
 
 <!-- truncate -->
@@ -21,7 +19,7 @@ A *gata* is the most common word for *road*, and can be thought of as the defaul
 ## Stræti
 A *Stræti* is typically a paved road in an urban area, typically wider than your average *gata*. The main difference between a *gata* and a *stræti* was that back in the day, a *stræti* would have been paved, while a *gata* would not have been. Stræti are almost always in cities
 
-### Notable brautir
+### Notable stræti
 
 Regnbogstræti
 

@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [toppost, grammar, faq]
 ---
 
-Sælir verið þið kæru nemendur,
-
 This post will discuss and remedy ten common beginner Icelandic mistakes.
 
 <!-- truncate -->

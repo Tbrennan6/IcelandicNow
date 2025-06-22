@@ -5,8 +5,6 @@ authors: [tbrennan]
 tags: [toppost, howdoyou, grammar, faq]
 ---
 
-Hello everybody,
-
 This post answers two common questions: "How do I write conditional statements in Icelandic?" and "Do you use subjunctive or indicative with 'Ef'"?
 
 <!-- truncate -->
