@@ -15,19 +15,13 @@ Just like in English, there is no single word for all the drivable roads  in Ice
 A *gata* is the most common word for *road*, and can be thought of as the default term.  
 
 ### Notable götur
-
-There are two notable Tryggvagata. The first one, in Reykjavík is home to Bæjarins Beztu Pylsur, the famous hotdog stand, and the Hafnarhús art museum, recognizable for its . The other, in Selfoss, runs the length of the town and is named after Tryggvi Gunnarsson, a prominent figure in the town´s early days and a member of the Icelandic parliment. 
-
-Lækjargata is
-
-Hverfisgata is 
+There are two notable Tryggvagata. The first one, in Reykjavík is home to Bæjarins Beztu Pylsur, the famous hotdog stand, and the Hafnarhús art museum, recognizable for its. The other, in Selfoss, runs the length of the town and is named after Tryggvi Gunnarsson, a prominent figure in the town's early days and a member of the Icelandic parliment. 
 
 ## Stræti
-A *Stræti* is typically a paved road in an urban area, typically wider than your average *gata*. The main difference between a *gata* and a *stræti* was that back in the day, a *stræti* would have been paved, while a *gata* would not have been. Stræti are almost always in cities.
+A *Stræti* translates best as *street.* They are typically located in urban areas and are usually wider than an average *gata*. Back in the day, a *stræti* would have been paved, while a *gata* would not have been. 
 
 ### Notable stræti
-
-Austurstræti is another popular road in Reykjavík. 
+Austurstræti is a popular road in Reykjavík. 
 
 Regnbogstræti is a name that is sometimes used to refer to the rainbow painted section of skólavörðustígur and other rainbow roads across the country. It is also the name of a Bubbi Morthens album and tha album's titular song. 
 
@@ -49,7 +43,9 @@ Laugavegur is the most famous street in Iceland, being the main shopping road in
 A brout is typically the principle road in a neighborhood. 
 
 ### Notable brautir
-Reykjanesbraut is part of Þjóðvegur 41 that leads from the Keflavik airport to Reykjavík. If you have flown into Iceland, you have almost certainly driven on Reykjavnesbraut. 
+Reykjanesbraut, named after the Reykjarnes peninsula through which it runs, is part of Þjóðvegur 41 that leads from the Keflavik airport to Reykjavík. If you have flown into Iceland, you have almost certainly driven on Reykjavnesbraut. 
+
+Miklabraut and Hringbraut (the first turns into the other past Snorrabraut) are part of is part of Þjóðvegur 49, the most congested road in Iceland. It is lined with iconic traffic lights and sound-barriers and is often a spot of topic of great lament for Icelanders. 
 
 ## Stígur
 A *stígur* is a path. Typically, these are narrower and full of twists and turns. 
@@ -60,6 +56,28 @@ Skólavörðustígur is probably the second most famous street in Iceland, leadi
 ## Land features
 Often, thoroughfares are named after geographic features that are or were present on the land. 
 
-In the more rural areas, it is common to see names ending in  holt, völlur/vellir, heiði, tún, or fell meaning hillock, field/fields, moor, or hayfield, or isolated hill.   
+In  more rural areas, it is common to see road names ending in  *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell* meaning *hillock*, *field/fields*, *moor*, or *hayfield*, or *isolated hill or mountain*.   
 
-But there are 
+## Common Streets 
+
+There are a couple of street names that are common across the entire country. 
+
+### Cardinal directions
+
+Suðurgata (Found in Akranes, Hafnarfjörður, Ísafjörður, Siglufjörður, Reykjavík, Sauðárkrókur, Seyðisfjörður, Tjarnarbyggð (outside of Selfoss), Keflavík, Vogar and Sandgerði)
+
+Norðurgata (Tjarnarbyggð, Akureyri, Sandgerði, Siglufjörður, Seyðisfjörður)
+
+Austurgata (Hafnarfjörður, Vogar, Hofsós, Keflavík, Stykkishólmur and Sandgerði)
+
+Vesturgata (Hafnarfjörður, Akranes, Sandgerði, Reykjavík, Ólafsfjörður, Keflavík
+
+And other combinations of directions and primary road names (Austurvegur, Vesturbraut etc)
+
+### Others
+
+Skólavegur (Hvammstangi, Reykjavík, Seyðsfjörður, Hrísey, Fáskrúðsfjörður, Reykholt, Keflavík, Vestmannaeyjar, Hnífsdalur) and other roads named for a school
+
+Kirkjuvegur (Dalvík, Selfoss, Keflavík, Hvammstangi, Bolungarvík, Vestmannaeyjar, Grenivík, Ólafsfjörður, Bíldudalur, Vík í Mýrdal, Hafnarfjörður) and other roads named for a church
+
+Aðalgata (Keflavík, Siglufjörður, Sauðárkrókur, Blönduós, Suðureyri, Stykkishólmur, Súðavík, Hauganes) and Aðalstræti (Akureyri, Reykjavík, Patreksfjörður, Bolungarvík, Ísafjörður)
