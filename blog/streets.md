@@ -63,5 +63,3 @@ Often, thoroughfares are named after geographic features that are or were presen
 In the more rural areas, it is common to see names ending in  holt, völlur/vellir, heiði, tún, or fell meaning hillock, field/fields, moor, or hayfield, or isolated hill.   
 
 But there are 
-
-## Houses
