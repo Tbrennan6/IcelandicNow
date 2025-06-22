@@ -21,7 +21,7 @@ There are two notable Tryggvagata (Tryggvi's road). The first one, in Reykjavík
 A *stræti* translates best as *street.* They are typically located in urban areas and are usually wider than an average *gata*. Back in the day, a *stræti* would have been paved, while a *gata* would not have been. 
 
 ### Notable stræti
-Austurstræti is a popular road in Reykjavík. Interstingly, it is mentioned in at least two songs, Austurstræti by Laddi and Fröken Reykjavík by Jónas and Jón Múla Árnason. 
+Austurstræti (east street) is a popular road in Reykjavík. Interstingly, it is mentioned in at least two songs, Austurstræti by Laddi and Fröken Reykjavík by Jónas and Jón Múla Árnason. 
 
 Vonarstræti (hope street) marks the current (man-made) northern edge of Tjörnin, the big lake in Reykjavík, and hosts the city hall of Reykjavík.
 
