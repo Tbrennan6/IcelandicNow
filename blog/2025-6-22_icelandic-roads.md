@@ -54,25 +54,27 @@ A *stígur* is a path. Typically, these are narrower and full of twists and turn
 Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after the *skólavarða* (school cairn), an old stone structure built nearby by a local school that used to be where the Leifur Erikssonur statute is now, in front of Hallgrímskirkjan. The street is well known for its rainbow painted section that started during Reykjavík pride in 1999, but has now become a semi-permanent beloved cultural symbol. 
 
 ## Land features
-Often, thoroughfares are named after geographic features that are or were at some point were present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillock*, * field/fields*, *moor*, or *hayfield*, or *isolated hill or mountains*.   
+Often, thoroughfares are inspired by geographic features that are or were at some point present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillock*, * field/fields*, *moor*, or *hayfield*, or *isolated hill or mountains*.   
 
 ## Common street names
 
 There are a couple of street names that are common across the entire country. 
 
 ### Cardinal directions
+Many roads are named after the cardinal directions. 
 
-Suðurgata (found in Akranes, Hafnarfjörður, Ísafjörður, Siglufjörður, Reykjavík, Sauðárkrókur, Seyðisfjörður, Tjarnarbyggð (outside of Selfoss), Keflavík, Vogar and Sandgerði)
+Norðurgata (found in Tjarnarbyggð, Akureyri, Sandgerði, Siglufjörður, Seyðisfjörður), meaning *north road*. 
 
-Norðurgata (found in Tjarnarbyggð, Akureyri, Sandgerði, Siglufjörður, Seyðisfjörður), meaning *north steet*. 
+Suðurgata (found in Akranes, Hafnarfjörður, Ísafjörður, Siglufjörður, Reykjavík, Sauðárkrókur, Seyðisfjörður, Tjarnarbyggð (outside of Selfoss), Keflavík, Vogar and Sandgerði), meaning *south road*.
 
-Austurgata (found in Hafnarfjörður, Vogar, Hofsós, Keflavík, Stykkishólmur and Sandgerði), meaning *east steet*. 
+Austurgata (found in Hafnarfjörður, Vogar, Hofsós, Keflavík, Stykkishólmur and Sandgerði), meaning *east road*. 
 
-Vesturgata (found in Hafnarfjörður, Akranes, Sandgerði, Reykjavík, Ólafsfjörður, Keflavík), meaning *west steet*. 
+Vesturgata (found in Hafnarfjörður, Akranes, Sandgerði, Reykjavík, Ólafsfjörður, Keflavík), meaning *west road*. 
 
 Also in existance are other combinations of directions and primary road names (Austurvegur, Vesturbraut etc).
 
 ### Others
+Finally, a few other naming conventions are relativly common. 
 
 Skólavegur (Hvammstangi, Reykjavík, Seyðsfjörður, Hrísey, Fáskrúðsfjörður, Reykholt, Keflavík, Vestmannaeyjar, Hnífsdalur) meaning *school road*, and other locations named after a school.
 
