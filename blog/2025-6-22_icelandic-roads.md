@@ -21,13 +21,13 @@ There are two notable Tryggvagata (Tryggvi's road). The first one, in Reykjavík
 A *stræti* translates best as *street.* They are typically located in urban areas and are usually wider than an average *gata*. Back in the day, a *stræti* would have been paved, while a *gata* would not have been, but this is no longer the case.  
 
 ### Notable stræti
-Austurstræti (east street) is a popular road in Reykjavík. Interstingly, it is mentioned in at least two songs, Austurstræti by Laddi and Fröken Reykjavík by Jónas and Jón Múla Árnason. 
+Austurstræti (east street) is a popular road in Reykjavík. Interstingly, it is mentioned in at least two songs: Austurstræti by Laddi, and Fröken Reykjavík by Jónas and Jón Múla Árnason. 
 
-Vonarstræti (hope street) marks the current (man-made) northern edge of Tjörnin, the big lake in Reykjavík, and hosts the city hall of Reykjavík.
+Vonarstræti (hope street) marks the current man-made northern edge of Tjörnin, the big lake in Reykjavík, and hosts the city hall.
 
 Pósthússtræti (post office street) runs along the eastern edge of Austurvöllur, crosses Austurstræti, runs past the old post office (on the corner of Pósthússtræti and Austurstræti) before terminating at the Steinbryggja, by the toll house in which the Kolaport market is located.
 
-Regnbogstræti (rainbow street) is a name that is sometimes used to refer to the rainbow painted section of Skólavörðustígur and other rainbow roads across the country. It is also the name of a Bubbi Morthens album and that album's titular song. 
+Regnbognstræti (rainbow street) is a name that is sometimes used to refer to the rainbow painted section of Skólavörðustígur and other rainbow roads across the country. It is also the name of a Bubbi Morthens album and that album's titular song. 
 
 ## Vegur
 A vegur is a *way*, often a larger road that runs outside of the main population centers, linking towns together. 
