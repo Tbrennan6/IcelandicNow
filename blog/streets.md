@@ -70,14 +70,14 @@ Norðurgata (Tjarnarbyggð, Akureyri, Sandgerði, Siglufjörður, Seyðisfjörð
 
 Austurgata (Hafnarfjörður, Vogar, Hofsós, Keflavík, Stykkishólmur and Sandgerði)
 
-Vesturgata (Hafnarfjörður, Akranes, Sandgerði, Reykjavík, Ólafsfjörður, Keflavík
+Vesturgata (Hafnarfjörður, Akranes, Sandgerði, Reykjavík, Ólafsfjörður, Keflavík)
 
 And other combinations of directions and primary road names (Austurvegur, Vesturbraut etc)
 
 ### Others
 
-Skólavegur (Hvammstangi, Reykjavík, Seyðsfjörður, Hrísey, Fáskrúðsfjörður, Reykholt, Keflavík, Vestmannaeyjar, Hnífsdalur) and other roads named for a school
+Skólavegur (Hvammstangi, Reykjavík, Seyðsfjörður, Hrísey, Fáskrúðsfjörður, Reykholt, Keflavík, Vestmannaeyjar, Hnífsdalur) meaning *school road*, and other locations named after a school.
 
-Kirkjuvegur (Dalvík, Selfoss, Keflavík, Hvammstangi, Bolungarvík, Vestmannaeyjar, Grenivík, Ólafsfjörður, Bíldudalur, Vík í Mýrdal, Hafnarfjörður) and other roads named for a church
+Kirkjuvegur (Dalvík, Selfoss, Keflavík, Hvammstangi, Bolungarvík, Vestmannaeyjar, Grenivík, Ólafsfjörður, Bíldudalur, Vík í Mýrdal, Hafnarfjörður), meaning *chirch road* and other roads named for a church. 
 
-Aðalgata (Keflavík, Siglufjörður, Sauðárkrókur, Blönduós, Suðureyri, Stykkishólmur, Súðavík, Hauganes) and Aðalstræti (Akureyri, Reykjavík, Patreksfjörður, Bolungarvík, Ísafjörður)
+Aðalgata (Keflavík, Siglufjörður, Sauðárkrókur, Blönduós, Suðureyri, Stykkishólmur, Súðavík, Hauganes) and Aðalstræti (Akureyri, Reykjavík, Patreksfjörður, Bolungarvík, Ísafjörður), meaning *main street*. 
