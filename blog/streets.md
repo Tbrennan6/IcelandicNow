@@ -58,7 +58,7 @@ Often, thoroughfares are named after geographic features that are or were presen
 
 In  more rural areas, it is common to see road names ending in  *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell* meaning *hillock*, *field/fields*, *moor*, or *hayfield*, or *isolated hill or mountain*.   
 
-## Common Streets 
+## Common street names
 
 There are a couple of street names that are common across the entire country. 
 
