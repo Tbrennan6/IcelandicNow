@@ -34,7 +34,7 @@ Example 2: Get ég fengið lítinn/stóran **skammt af** frönskum? - (Can I get
 To add a **side dish** to your food order, you use the word *með* with the dative case. Additionally, you coudl use a simple *og* to connect multiple items.
 
 Example 1: Get ég fengið steik **með körtuflur**? - (Can I get a steak **with potatoes**?)\
-Example 2: Get ég fengið ostborgara **með litlum skammti** af frönskum? - (Can I get a cheeseburger **with a small order** of fries?)
+Example 2: Get ég fengið ostborgara **með litlum skammti** af frönskum? - (Can I get a cheeseburger **with a small order** of fries?)\
 Example 3: Get ég fengið pönnukukur **og kaffi?** - (Can I get pancakes **and a coffee?**)
 
 ## Ingredients 
