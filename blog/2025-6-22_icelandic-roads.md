@@ -1,6 +1,6 @@
 ---
 slug: Roads and House Numbering 
-title: "Icelandic Road Names"
+title: "Icelandic Roads"
 authors: [tbrennan]
 tags: [Vocabulary]
 ---
