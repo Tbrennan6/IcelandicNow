@@ -18,12 +18,12 @@ A *gata* is the most common word for *road*, and can be thought of as the defaul
 There are two notable Tryggvagata (Tryggvi's road). The first one, in Reykjavík is home to Bæjarins Beztu Pylsur, the famous hotdog stand, and the Hafnarhús art museum, recognizable for its white facade and black text. The other, in Selfoss, runs the length of the town and is named after Tryggvi Gunnarsson, a prominent figure in the town's early days and a member of the Icelandic parliment. 
 
 ## Stræti
-A *Stræti* translates best as *street.* They are typically located in urban areas and are usually wider than an average *gata*. Back in the day, a *stræti* would have been paved, while a *gata* would not have been. 
+A *stræti* translates best as *street.* They are typically located in urban areas and are usually wider than an average *gata*. Back in the day, a *stræti* would have been paved, while a *gata* would not have been. 
 
 ### Notable stræti
 Austurstræti is a popular road in Reykjavík. Interstingly, it is mentioned in at least two songs, Austurstræti by Laddi and Fröken Reykjavík by Jónas and Jón Múla Árnason. 
 
-Vonarstræti (hope street) marks the current (man-made) northern edge of Tjörnin and hosts the city hall of Reykjavík.
+Vonarstræti (hope street) marks the current (man-made) northern edge of Tjörnin, the big lake in Reykjavík, and hosts the city hall of Reykjavík.
 
 Pósthússtræti (post office street) runs along the eastern edge of Austurvöllur, crosses Austurstræti, runs past the old post office (on the corner of Pósthússtræti and Austurstræti) before terminating at the Steinbryggja, by the toll house in which the Kolaport market is located.
 
