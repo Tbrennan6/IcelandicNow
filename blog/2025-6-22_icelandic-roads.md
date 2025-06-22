@@ -27,7 +27,7 @@ Vonarstræti (hope street) marks the current (man-made) northern edge of Tjörni
 
 Pósthússtræti (post office street) runs along the eastern edge of Austurvöllur, crosses Austurstræti, runs past the old post office (on the corner of Pósthússtræti and Austurstræti) before terminating at the Steinbryggja, by the toll house in which the Kolaport market is located.
 
-Regnbogstræti (rainbow street) is a name that is sometimes used to refer to the rainbow painted section of skólavörðustígur and other rainbow roads across the country. It is also the name of a Bubbi Morthens album and tha album's titular song. 
+Regnbogstræti (rainbow street) is a name that is sometimes used to refer to the rainbow painted section of Skólavörðustígur and other rainbow roads across the country. It is also the name of a Bubbi Morthens album and that album's titular song. 
 
 ## Vegur
 A vegur is a *way*, often a larger road that runs outside of the main population centers, linking towns together. 
