@@ -54,7 +54,7 @@ A *stígur* is a path. Typically, these are narrower and full of twists and turn
 Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after the *skólavarða* (school cairn), an old stone structure built nearby by a local school that used to be where the Leifur Erikssonur statute is now, in front of Hallgrímskirkjan. The street is well known for its rainbow painted section that started during Reykjavík pride in 1999, but has now become a semi-permanent beloved cultural symbol. 
 
 ## Land features
-Often, thoroughfares are named after geographic features that are or were at some point were present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillocks*, *a field/fields*, *moors*, or *hayfields*, or *isolated hills or mountains*.   
+Often, thoroughfares are named after geographic features that are or were at some point were present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillock*, * field/fields*, *moor*, or *hayfield*, or *isolated hill or mountains*.   
 
 ## Common street names
 
