@@ -66,13 +66,13 @@ There are a couple of street names that are common across the entire country.
 
 Suðurgata (Found in Akranes, Hafnarfjörður, Ísafjörður, Siglufjörður, Reykjavík, Sauðárkrókur, Seyðisfjörður, Tjarnarbyggð (outside of Selfoss), Keflavík, Vogar and Sandgerði)
 
-Norðurgata (Tjarnarbyggð, Akureyri, Sandgerði, Siglufjörður, Seyðisfjörður)
+Norðurgata (Tjarnarbyggð, Akureyri, Sandgerði, Siglufjörður, Seyðisfjörður), meaning *north steet*. 
 
-Austurgata (Hafnarfjörður, Vogar, Hofsós, Keflavík, Stykkishólmur and Sandgerði)
+Austurgata (Hafnarfjörður, Vogar, Hofsós, Keflavík, Stykkishólmur and Sandgerði), meaning *east steet*. 
 
-Vesturgata (Hafnarfjörður, Akranes, Sandgerði, Reykjavík, Ólafsfjörður, Keflavík)
+Vesturgata (Hafnarfjörður, Akranes, Sandgerði, Reykjavík, Ólafsfjörður, Keflavík), meaning *west steet*. 
 
-And other combinations of directions and primary road names (Austurvegur, Vesturbraut etc)
+And other combinations of directions and primary road names (Austurvegur, Vesturbraut etc), 
 
 ### Others
 
