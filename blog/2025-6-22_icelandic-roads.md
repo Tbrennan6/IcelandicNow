@@ -1,5 +1,5 @@
 ---
-slug: Icelandic Roads 
+slug: Icelandic_roads 
 title: "Icelandic Roads"
 authors: [tbrennan]
 tags: [Vocabulary]
