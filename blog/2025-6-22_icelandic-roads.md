@@ -25,6 +25,9 @@ Austurstræti (east street) is a popular road in Reykjavík. Interstingly, it is
 
 Vonarstræti (hope street) marks the current man-made northern edge of Tjörnin, the big lake in Reykjavík, and hosts the city hall.
 
+![vonarstræti](/img/vonarstræti)
+*A picture of a Vonarstræti street sign.*
+
 Pósthússtræti (post office street) runs along the eastern edge of Austurvöllur, crosses Austurstræti, runs past the old post office (on the corner of Pósthússtræti and Austurstræti) before terminating at the Steinbryggja, by the toll house in which the Kolaport market is located.
 
 Regnbognstræti (rainbow street) is a name sometimes used to refer to the rainbow-painted section of Skólavörðustígur and other rainbow roads across the country. It is also the name of a Bubbi Morthens album and its titular song. 
