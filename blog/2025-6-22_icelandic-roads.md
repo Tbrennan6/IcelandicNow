@@ -51,7 +51,10 @@ Miklabraut (great road) and Hringbraut (ring road)--the first turns into the oth
 A *stígur* is a path. Typically, these are narrower and full of twists and turns. 
 
 ### Notable stígar
-Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after Skólavarða (school cairn), an old stone structure built by a local school that was located where the Leifur Erikssonur statute is now, in front of Hallgrímskirkjan. The street is well known for its rainbow-painted section, which started during Reykjavík pride in 1999 but has now become a semi-permanent beloved cultural symbol. 
+Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after Skólavarða (school cairn), an old stone structure built by a local school that was located where the Leifur Erikssonur statue is now, in front of Hallgrímskirkjan. The street is well known for its rainbow-painted section, which started during Reykjavík pride in 1999 but has now become a semi-permanent beloved cultural symbol. 
+
+![skólavorðustígur](/img/skólavorðustígur.jpg
+*A picture taken up Skólavorðustígur.*
 
 Frakkastígur is the road that starts at Hallgrímskirkjan and ends at the famous Sun Voyager sculpture in Reykjavík 
 
