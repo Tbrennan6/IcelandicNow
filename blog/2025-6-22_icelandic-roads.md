@@ -54,7 +54,7 @@ A *stígur* is a path. Typically, these are narrower and full of twists and turn
 Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after *Skólavarða* (school cairn), an old stone structure built by a local school, that was located where the Leifur Erikssonur statute is now, in front of Hallgrímskirkjan. The street is well known for its rainbow painted section that started during Reykjavík pride in 1999, but has now become a semi-permanent beloved cultural symbol. 
 
 ## Land features
-Often, thoroughfares are inspired by geographic features that are or were at some point present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillock*, * field/fields*, *moor*, or *hayfield*, or *isolated hill or mountains*.   
+Often, thoroughfares are inspired by geographic features that are or were at some point present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillock*, * field*/*fields*, *moor*, or *hayfield*, or *isolated hill or mountains*.   
 
 ## Common street names
 
@@ -78,6 +78,6 @@ Finally, a few other naming conventions are relativly common.
 
 Skólavegur (Hvammstangi, Reykjavík, Seyðsfjörður, Hrísey, Fáskrúðsfjörður, Reykholt, Keflavík, Vestmannaeyjar, Hnífsdalur) meaning *school road*, and other locations named after a school.
 
-Kirkjuvegur (Dalvík, Selfoss, Keflavík, Hvammstangi, Bolungarvík, Vestmannaeyjar, Grenivík, Ólafsfjörður, Bíldudalur, Vík í Mýrdal, Hafnarfjörður), meaning *chirch road* and other roads named for a church. 
+Kirkjuvegur (Dalvík, Selfoss, Keflavík, Hvammstangi, Bolungarvík, Vestmannaeyjar, Grenivík, Ólafsfjörður, Bíldudalur, Vík í Mýrdal, Hafnarfjörður), meaning *church road*, and other roads named for a church. 
 
 Aðalgata (Keflavík, Siglufjörður, Sauðárkrókur, Blönduós, Suðureyri, Stykkishólmur, Súðavík, Hauganes) and Aðalstræti (Akureyri, Reykjavík, Patreksfjörður, Bolungarvík, Ísafjörður), meaning *main road*. 
