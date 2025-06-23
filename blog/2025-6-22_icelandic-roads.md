@@ -37,26 +37,31 @@ The biggest roads in Iceland are the *þjóðvegir* (national roads) that run ac
 ### Notable vegir 
 The most famous national road is Þjóðvegur 1, the only one to be named with one digit. Like the other *þjóðvegir*, Þjóðpvegur 1 is more commonly known by a different name in daily speech. Because Þjóðvegur 1 runs across the entire country in a circle, its popular name across the country is Hringvegurinn (the ring road). It is a common vacation idea to drive around the entire country on Hringvegurinn, visiting most of the country's most popular spots!
 
-Laugavegur (bath road) is the most famous street in Iceland and the main shopping street in Reykjavík. It is filled with shops, restaurants, and bars.  
+Laugavegur (washing road) is the most famous street in Iceland and the main shopping street in Reykjavík. It is filled with shops, restaurants, and bars.  
 
 ## Braut
 A *braut* is typically the principal road in a neighborhood. 
 
 ### Notable brautir
-Reykjanesbraut, named after the Reykjarnes Peninsula through which it runs, is part of Þjóðvegur 41 that leads from the Keflavík airport  to Reykjavík. If you have flown into Iceland, you have almost certainly driven on Reykjanesbraut. 
+Reykjanesbraut, named after the Reykjarnes Peninsula through which it runs, is part of Þjóðvegur 41 that leads from the Keflavík airport to Reykjavík. If you have flown into Iceland, you have almost certainly driven on Reykjanesbraut. 
 
-Miklabraut (great road) and Hringbraut (ring road)--the first turns into the other past Snorrabraut (Snorri's road)--are part of  Þjóðvegur 49, the most congested road in Iceland. It is lined with iconic traffic lights and sound-barriers and is often a spot of topic of great lament for Icelanders due to its traffic. 
+Miklabraut (great road) and Hringbraut (ring road)--the first turns into the other past Snorrabraut (Snorri's road)--are part of Þjóðvegur 49, the most congested road in Iceland. It is lined with iconic traffic lights and sound-barriers and is often a spot of topic of great lament for Icelanders due to its traffic. 
+
+Sæbraut (sea road) is one of the longest and heaviest trafficked roads in Reykjavik. It leads from the Harpa Concert Hall and along the sea until it loops around and intersects Milkabraut. 
+
+![sæbraut](/img/sæbraut.webp)
+*A picture taken of Sæbraut from Bríetartún 9. You can see the Harpa Concert Hall and the Sun Voyager sculpture.*
 
 ## Stígur
 A *stígur* is a path. Typically, these are narrower and full of twists and turns. 
 
 ### Notable stígar
-Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after Skólavarða (school cairn), an old stone structure built by a local school that was located where the Leifur Erikssonur statue is now, in front of Hallgrímskirkjan. The street is well known for its rainbow-painted section, which started during Reykjavík pride in 1999 but has now become a semi-permanent beloved cultural symbol. 
+Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after Skólavarða (school cairn), an old stone structure built by a local school that was located where the Leifur Erikssonur statue is now, in front of Hallgrímskirkjan. The street is well known for its rainbow-painted section, which started during Reykjavík Pride in 1999 but has now become a semi-permanent beloved cultural symbol. 
 
 ![skólavörðustígur](/img/skólavörðustígur.jpg)
 *A picture taken up Skólavorðustígur.*
 
-Frakkastígur is the road that starts at Hallgrímskirkjan and ends at the famous Sun Voyager sculpture in Reykjavík 
+Frakkastígur is the road that starts at Hallgrímskirkjan and runs parallel to the Sun Voyager sculpture. 
 
 ![frakkastígur_from_hallgrímskirkja](/img/frakkastígur_from_kallgrímskirkja.jpg)
 *A picture of Frakkastígur taken from Hallgrímskirkja. If you look hard, you can see the sculpture at the end of the road.*
