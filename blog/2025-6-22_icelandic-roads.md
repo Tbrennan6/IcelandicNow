@@ -34,7 +34,7 @@ A vegur is a *way*, often a larger road that runs outside of the main population
 
 The biggest roads in Iceland are the *þjóðvegir* (national roads) that run across the country, numbered clockwise from Gígjukvísl. Two-digit *vegir* denote longer, more important roads, while three-digit *vegir* denote shorter, less important roads. Technically, four-digit *vegir* exist, but they are rarely signposted as such. The first major road is 201 Vallavegur, and the last is 998 Skaftafellsvegur.
 
-### Notable vegur 
+### Notable vegir 
 The most famous national road is Þjóðvegur 1, the only one to be named with one digit. Like the other *þjóðvegir*, Þjóðpvegur 1 is more commonly known by a different name in daily speech. Because Þjóðvegur 1 runs across the entire country in a circle, its popular name across the country is Hringvegurinn (the ring road). It is a common vacation idea to drive around the entire country on Hringvegurinn, visiting most of the country's most popular spots!
 
 Laugavegur (bath road) is the most famous street in Iceland and the main shopping street in Reykjavík. It is filled with shops, restaurants, and bars.  
