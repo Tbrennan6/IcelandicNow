@@ -45,12 +45,12 @@ A *braut* is typically the principal road in a neighborhood.
 ### Notable brautir
 Reykjanesbraut, named after the Reykjarnes Peninsula through which it runs, is part of Þjóðvegur 41 that leads from the Keflavík airport to Reykjavík. If you have flown into Iceland, you have almost certainly driven on Reykjanesbraut. 
 
-Miklabraut (great road) and Hringbraut (ring road)--the first turns into the other past Snorrabraut (Snorri's road)--are part of Þjóðvegur 49, the most congested road in Iceland. It is lined with iconic traffic lights and sound-barriers and is often a spot of topic of great lament for Icelanders due to its traffic. 
+Miklabraut (great road) and Hringbraut (ring road)--the first turns into the other past Snorrabraut (Snorri's road)--are part of Þjóðvegur 49, the most congested road in Iceland. It is lined with traffic lights and sound barriers and is often a spot of topic of great lament for Icelanders due to its traffic. 
 
-Sæbraut (sea road) is one of the longest and heaviest trafficked roads in Reykjavik. It leads from the Harpa Concert Hall and along the sea until it loops around and intersects Milkabraut. 
+Sæbraut (sea road) is one of the longest and heaviest-trafficked roads in Reykjavik. It leads from the Harpa Concert Hall along the sea until it loops around and intersects Milkabraut. 
 
 ![sæbraut](/img/sæbraut.webp)
-*A picture taken of Sæbraut from Bríetartún 9. You can see the Harpa Concert Hall and the Sun Voyager sculpture.*
+*A picture taken of Sæbraut from Bríetartún 9. You can see the Sun Voyager sculpture in the foreground, and the Harpa concert hall and the background*
 
 ## Stígur
 A *stígur* is a path. Typically, these are narrower and full of twists and turns. 
