@@ -35,7 +35,7 @@ A vegur is a *way*, often a larger road that runs outside of the main population
 The biggest roads in Iceland are the *þjóðvegir* (national roads) that run across the country, numbered clockwise from Gígjukvísl. Two-digit *vegir* denote longer, more important roads, while three-digit *vegir* denote shorter, less important roads. Technically, four-digit *vegir* exist, but they are rarely signposted as such. The first major road is 201 Vallavegur, and the last is 998 Skaftafellsvegur.
 
 ### Notable vegur 
-The most famous of the national roads is Þjóðvegur 1, the only one to be named with one digit. Like the other *þjóðvegir*, ?Þjóðpvegur 1 is more commonly known by a different name in daily speech. Because Þjóðvegur 1 runs across the entire country in a circle, its popular name across the country is *Hringvegurinn* (the ring road). It is a common vacation idea to drive around the entire country on Hringvegurinn, visiting most of the country's most popular spots!
+The most famous national road is Þjóðvegur 1, the only one to be named with one digit. Like the other *þjóðvegir*, Þjóðpvegur 1 is more commonly known by a different name in daily speech. Because Þjóðvegur 1 runs across the entire country in a circle, its popular name across the country is Hringvegurinn (the ring road). It is a common vacation idea to drive around the entire country on Hringvegurinn, visiting most of the country's most popular spots!
 
 Laugavegur (bath road) is the most famous street in Iceland and the main shopping street in Reykjavík. It is filled with shops, restaurants, and bars.  
 
@@ -51,12 +51,12 @@ Miklabraut (great road) and Hringbraut (ring road)--the first turns into the oth
 A *stígur* is a path. Typically, these are narrower and full of twists and turns. 
 
 ### Notable stígar
-Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after *Skólavarða* (school cairn), an old stone structure built by a local school, that was located where the Leifur Erikssonur statute is now, in front of Hallgrímskirkjan. The street is well known for its rainbow painted section that started during Reykjavík pride in 1999, but has now become a semi-permanent beloved cultural symbol. 
+Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after Skólavarða (school cairn), an old stone structure built by a local school that was located where the Leifur Erikssonur statute is now, in front of Hallgrímskirkjan. The street is well known for its rainbow-painted section, which started during Reykjavík pride in 1999 but has now become a semi-permanent beloved cultural symbol. 
 
 Frakkastígur is the road that starts at Hallgrímskirkjan and ends at the famous Sun Voyager sculpture in Reykjavík 
 
 ![frakkastígur_from_hallgrímskirkja](/img/frakkastígur_from_kallgrímskirkja.jpg)
-*A picture of Hallgrímskirkjan taken from Frakkastígur*
+*A picture of Frakkastígur taken from Hallgrímskirkja.*
 
 ## Land features
 Often, thoroughfares are inspired by geographic features that are or were at some point present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillock*, * field*/*fields*, *moor*, or *hayfield*, or *isolated hill or mountains*.   
