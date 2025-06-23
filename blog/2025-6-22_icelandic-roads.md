@@ -55,7 +55,7 @@ Skólavörðustígur is probably the second most famous street in Iceland, leadi
 
 Frakkastígur is the road that starts at Hallgrímskirkjan and ends at the famous Sun Voyager sculpture in Reykjavík 
 
-![[hallgrímskirkjan from frakkastígur](/img/hallgrímskirkjan_from_frakkastígur.jpg)
+![hallgrímskirkjan from frakkastígur](/img/hallgrímskirkjan_from_frakkastígur.jpg)
 *A picture of Hallgrímskirkjan taken from Frakkastígur*
 
 ## Land features
