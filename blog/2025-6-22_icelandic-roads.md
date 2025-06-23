@@ -55,7 +55,8 @@ Skólavörðustígur is probably the second most famous street in Iceland, leadi
 
 Frakkastígur is the road that starts at Hallgrímskirkjan and ends at the famous Sun Voyager sculpture in Reykjavík 
 
-![hallgrímskirkjan from frakkastígur](/img/hallgrímskirkjan_from_frakkastígur.jpg)
+![[hallgrímskirkjan from frakkastígur](/img/hallgrímskirkjan_from_frakkastígur.jpg)
+*A picture of Hallgrímskirkjan taken from Frakkastígur*
 
 ## Land features
 Often, thoroughfares are inspired by geographic features that are or were at some point present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillock*, * field*/*fields*, *moor*, or *hayfield*, or *isolated hill or mountains*.   
