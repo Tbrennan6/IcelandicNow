@@ -53,7 +53,7 @@ Miklabraut (great road) and Hringbraut (ring road)--the first turns into the oth
 Sæbraut (sea road) is one of the longest and heaviest-trafficked roads in Reykjavik. It leads from the Harpa Concert Hall along the sea until it loops around and intersects Milkabraut. 
 
 ![sæbraut](/img/sæbraut.webp)
-*A picture taken of Sæbraut from Bríetartún 9. You can see the Sun Voyager sculpture in the foreground, and the Harpa concert hall and the background*
+*A picture taken of Sæbraut from Bríetartún 9. You can see the Sun Voyager sculpture in the foreground and the Harpa concert hall in the background.*
 
 ## Stígur
 A *stígur* is a path. Typically, these are narrower and full of twists and turns. 
