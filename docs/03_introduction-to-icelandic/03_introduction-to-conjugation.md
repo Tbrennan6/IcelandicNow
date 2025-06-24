@@ -3,11 +3,10 @@ sidebar_position: 3
 title: Introduction to Conjugation
 ---
 
-The first kind of inflection that you are going to learn is conjugation. Conjugation is the inflection of verbs, and it is a kind of inflection that is present in both English and Icelandic. 
+The first bit of inflection that you are going to look at is conjugation: the inflection of verbs.
 
-## How Do Icelandic Verbs Inflect?
-
-In English, verbs are conjugated depending on who the subject (the doer of the verb) is and when the action happened. If the subject is *he*, *she*, or *it*, then the verb adds an **-s**. 
+## How Do Verbs Inflect?
+In English, verbs conjugate depending on who the subject (the doer of the verb) is. If the subject is *he*, *she*, or *it*, then the verb adds an **-s**. 
 
 Example 1: I speak.\
 Example 2: He speak**s**.\
@@ -28,7 +27,7 @@ Example 2: I talk**ed**.\
 Example 3: She bakes.\
 Example 4: She bak**ed**.
 
-Icelandic does a pretty similar thing again. When the action of the verb takes place in the past, Icelandic usually adds an ending. 
+Icelandic does a pretty similar thing again. When the action of the verb takes place in the past, Icelandic usually adds an ending, too. That ending is commonly **-aði**. 
 
 Example 1: Ég tala.\
 Example 2: Ég tal**aði**.\
@@ -46,8 +45,9 @@ As mentioned in the previous lesson, Icelandic verbs conjugate more and more com
 |  **Y'all / Þið**  |       bake      |       bak**ið**       |     bak**ed**    |    bök**uðuð**\**   |
 | **They / Þeir\*** |       bake      |        baka       |     bak**ed**    |    bök**uðu**\**    |
 
-*These subjects are hiding other versions depending on gender. You will learn more about these subjects in the lesson "conjugation charts". 
-**These words are experiencing umlaut. You will learn more about umlaut in a later lesson. 
+**These subjects are hiding other versions depending on gender. You will learn more about these subjects in the lesson "conjugation charts".*
+
+**These words are experiencing umlaut. You will learn more about umlaut in a later lesson.* 
 
 Using the chart above, translate the following into Icelandic:
 1. He bakes. 

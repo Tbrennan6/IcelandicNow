@@ -21,7 +21,6 @@ Example 2: **Að** baka \
 Example 3: **Að** tala 
 
 ## The Stem and Ending
-
 Icelandic verbs are made up of two parts: the **stem** and the *ending*. The ending is the part of the word that changes during conjugation. In the infinitive form, this is nearly universally the letter *a*. The stem is the part of the word that comes before the ending. Because the stem stays the same, you can recognize the word in its conjugated forms.
 
 Example 1: Að **tal**a \
