@@ -17,6 +17,8 @@ A *gata* is the most common word for *road*, and can be thought of as the defaul
 ### Notable götur
 There are two notable Tryggvagata (Tryggvi's road). The first one, in Reykjavík, is home to Bæjarins Beztu Pylsur, the famous hotdog stand, and the Hafnarhús art museum, recognizable for its white facade and black text. The other, in Selfoss, runs the length of the town and is named after Tryggvi Gunnarsson, a prominent figure in the town's early days and a member of the Icelandic parliament. 
 
+![tryggvagata](/img/tryggvagatai.webp)
+
 ## Stræti
 A *stræti* translates best as *street.* They are typically located in urban areas and are usually wider than an average *gata*. Back in the day, a *stræti* would have been paved, while a *gata* would not have been, but this is no longer the case.  
 
@@ -30,6 +32,8 @@ Vonarstræti (hope street) marks the current man-made northern edge of Tjörnin,
 
 Pósthússtræti (post office street) runs along the eastern edge of Austurvöllur, crosses Austurstræti, runs past the old post office (on the corner of Pósthússtræti and Austurstræti) before terminating at the Steinbryggja, by the toll house in which the Kolaport market is located.
 
+![pósthússtræti](/img/pósthússtræti.webp)
+
 Regnbognstræti (rainbow street) is a name sometimes used to refer to the rainbow-painted section of Skólavörðustígur and other rainbow roads across the country. It is also the name of a Bubbi Morthens album and its titular song. 
 
 ## Vegur
@@ -42,6 +46,8 @@ The most famous national road is Þjóðvegur 1, the only one to be named with o
 
 Laugavegur (washing road) is the most famous street in Iceland and the main shopping street in Reykjavík. It is filled with shops, restaurants, and bars.  
 
+![laugavegur](/img/laugavegur.webp)
+
 ## Braut
 A *braut* is typically the principal road in a neighborhood. 
 
@@ -49,6 +55,9 @@ A *braut* is typically the principal road in a neighborhood.
 Reykjanesbraut, named after the Reykjarnes Peninsula through which it runs, is part of Þjóðvegur 41 that leads from the Keflavík airport to Reykjavík. If you have flown into Iceland, you have almost certainly driven on Reykjanesbraut. 
 
 Miklabraut (great road) and Hringbraut (ring road)--the first turns into the other past Snorrabraut (Snorri's road)--are part of Þjóðvegur 49, the most congested road in Iceland. It is lined with traffic lights and sound barriers and is often a spot of topic of great lament for Icelanders due to its traffic. 
+
+![miklabraut](/img/miklabraut.webp)
+*Miklabraut towards HÍ.*
 
 Sæbraut (sea road) is one of the longest and heaviest-trafficked roads in Reykjavik. It leads from the Harpa Concert Hall along the sea until it loops around and intersects Milkabraut. 
 
