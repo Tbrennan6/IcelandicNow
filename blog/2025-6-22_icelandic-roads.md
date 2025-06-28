@@ -34,7 +34,7 @@ Vonarstræti (hope street) marks the current man-made northern edge of Tjörnin,
 Pósthússtræti (post office street) runs along the eastern edge of Austurvöllur, crosses Austurstræti, runs past the old post office (on the corner of Pósthússtræti and Austurstræti) before terminating at the Steinbryggja, by the toll house in which the Kolaport market is located.
 
 ![pósthússtræti](/img/pósthússtræti.webp)
-*The pósthús on Pósthússtræti is not a food hall!*
+*The pósthús on Pósthússtræti is now a food hall!*
 
 Regnbognstræti (rainbow street) is a name sometimes used to refer to the rainbow-painted section of Skólavörðustígur and other rainbow roads across the country. It is also the name of a Bubbi Morthens album and its titular song. 
 
@@ -49,6 +49,7 @@ The most famous national road is Þjóðvegur 1, the only one to be named with o
 Laugavegur (washing road) is the most famous street in Iceland and the main shopping street in Reykjavík. It is filled with shops, restaurants, and bars.  
 
 ![laugavegur](/img/laugavegur.webp)
+*A picture of Laugavegur.*
 
 ## Braut
 A *braut* is typically the principal road in a neighborhood. 
