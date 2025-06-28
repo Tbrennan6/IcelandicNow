@@ -17,13 +17,13 @@ A *gata* is the most common word for *road*, and can be thought of as the defaul
 ### Notable götur
 There are two notable Tryggvagata (Tryggvi's road). The first one, in Reykjavík, is home to Bæjarins Beztu Pylsur, the famous hotdog stand, and the Hafnarhús art museum, recognizable for its white facade and black text. The other, in Selfoss, runs the length of the town and is named after Tryggvi Gunnarsson, a prominent figure in the town's early days and a member of the Icelandic parliament. 
 
-![tryggvagata](/img/tryggvagatai.webp)
+![tryggvagata](/img/tryggvagata.webp)
 
 ## Stræti
 A *stræti* translates best as *street.* They are typically located in urban areas and are usually wider than an average *gata*. Back in the day, a *stræti* would have been paved, while a *gata* would not have been, but this is no longer the case.  
 
 ### Notable stræti
-Austurstræti (east street) is a popular road in Reykjavík. Interstingly, it is mentioned in at least two songs: Austurstræti by Laddi, and Fröken Reykjavík by Jónas and Jón Múla Árnason. 
+Austurstræti (east street) is a popular road in Reykjavík. Interestingly, it is mentioned in at least two songs: Austurstræti by Laddi, and Fröken Reykjavík by Jónas and Jón Múla Árnason. 
 
 Vonarstræti (hope street) marks the current man-made northern edge of Tjörnin, the big lake in Reykjavík, and hosts the city hall.
 
@@ -68,7 +68,7 @@ Sæbraut (sea road) is one of the longest and heaviest-trafficked roads in Reykj
 A *stígur* is a path. Typically, these are narrower and full of twists and turns. 
 
 ### Notable stígar
-Skólavörðustígur is probably the second most famous street in Iceland, leading off of Laugavegur and up to Hallgrímskirkjan. It is named after Skólavarða (school cairn), an old stone structure built by a local school that was located where the Leifur Erikssonur statue is now, in front of Hallgrímskirkjan. The street is well known for its rainbow-painted section, which started during Reykjavík Pride in 1999 but has now become a semi-permanent beloved cultural symbol. 
+Skólavörðustígur is probably the second most famous street in Iceland, running off Laugavegur and leading up to Hallgrímskirkja. It is named after Skólavarða (school cairn), an old stone structure built by a local school that was located where the Leifur Erikssonur statue is now, in front of Hallgrímskirkjan. The street is well known for its rainbow-painted section, which began during Reykjavík Pride in 1999 and has since become a semi-permanent, beloved cultural symbol. 
 
 ![skólavörðustígur](/img/skólavörðustígur.jpg)
 *A picture taken up Skólavorðustígur.*
@@ -79,7 +79,7 @@ Frakkastígur is the road that starts at Hallgrímskirkjan and runs parallel to 
 *A picture of Frakkastígur taken from Hallgrímskirkja. If you look hard, you can see Sun Voyager at the end of the road.*
 
 ## Land features
-Often, thoroughfares are inspired by geographic features that are or were at some point present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillock*, *field*/*fields*, *moor*, or *hayfield*, or *isolated hill or mountains*.   
+Often, thoroughfares are inspired by geographic features that are or were once present on the land. It is common to see road names ending in *holt*, *völlur*/*vellir*, *heiði*, *tún*, or *fell*, named after nearby or once nearby *hillock*, *field*/*fields*, *moor*, or *hayfield*, or *isolated hill or mountains*.   
 
 ## Common street names
 
