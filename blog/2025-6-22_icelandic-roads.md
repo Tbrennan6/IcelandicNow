@@ -60,7 +60,7 @@ Reykjanesbraut, named after the Reykjarnes Peninsula through which it runs, is p
 Miklabraut (great road) and Hringbraut (ring road)--the first turns into the other past Snorrabraut (Snorri's road)--are part of Þjóðvegur 49, the most congested road in Iceland. It is lined with traffic lights and sound barriers and is often a spot of topic of great lament for Icelanders due to its traffic. 
 
 ![miklabraut](/img/miklabraut.webp)
-*Miklabraut towards HÍ.*
+*Miklabraut towards Haskóli Íslands, the University of Iceland.*
 
 Sæbraut (sea road) is one of the longest and heaviest-trafficked roads in Reykjavik. It leads from the Harpa Concert Hall along the sea until it loops around and intersects Milkabraut. 
 
