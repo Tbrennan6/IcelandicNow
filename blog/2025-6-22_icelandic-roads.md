@@ -18,6 +18,7 @@ A *gata* is the most common word for *road*, and can be thought of as the defaul
 There are two notable Tryggvagata (Tryggvi's road). The first one, in Reykjavík, is home to Bæjarins Beztu Pylsur, the famous hotdog stand, and the Hafnarhús art museum, recognizable for its white facade and black text. The other, in Selfoss, runs the length of the town and is named after Tryggvi Gunnarsson, a prominent figure in the town's early days and a member of the Icelandic parliament. 
 
 ![tryggvagata](/img/tryggvagata.webp)
+*A picture of Bæjarins Beztu Pylsur.*
 
 ## Stræti
 A *stræti* translates best as *street.* They are typically located in urban areas and are usually wider than an average *gata*. Back in the day, a *stræti* would have been paved, while a *gata* would not have been, but this is no longer the case.  
@@ -33,6 +34,7 @@ Vonarstræti (hope street) marks the current man-made northern edge of Tjörnin,
 Pósthússtræti (post office street) runs along the eastern edge of Austurvöllur, crosses Austurstræti, runs past the old post office (on the corner of Pósthússtræti and Austurstræti) before terminating at the Steinbryggja, by the toll house in which the Kolaport market is located.
 
 ![pósthússtræti](/img/pósthússtræti.webp)
+*The pósthús on Pósthússtræti is not a food hall!*
 
 Regnbognstræti (rainbow street) is a name sometimes used to refer to the rainbow-painted section of Skólavörðustígur and other rainbow roads across the country. It is also the name of a Bubbi Morthens album and its titular song. 
 
