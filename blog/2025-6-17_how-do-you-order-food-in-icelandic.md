@@ -1,6 +1,6 @@
 ---
 slug: how-to-order-food
-title: "How To Order Food"
+title: "How Do You Order Food In Icelandic?"
 authors: [tbrennan]
 tags: [Vocabulary]
 ---
