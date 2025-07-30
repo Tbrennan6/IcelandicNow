@@ -61,7 +61,7 @@ Two other informal greetings are important to know.
 
 *Hæ* is much less formal and is used fairly often among younger people. *Halló* is also used, but it is most common when answering a phone.
 
-*Note: "Komdu sæll og blessaður" is a common phrase and is not nearly as stilted, weird, or bizarre as saying "come happy and blessed" would be in English.
+*Note: "Komdu sæll og blessaður" is a common phrase and is not nearly as stilted, weird, or bizarre as saying "come happy and blessed" would be in English.*
 
 ## Saying Goodbye
 There are not nearly as many ways to say *goodbye* as there are to say *hello*.

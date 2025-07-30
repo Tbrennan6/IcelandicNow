@@ -6,7 +6,7 @@ title: Introduction to Inflection
 As a native English speaker, the most important thing to understand about Icelandic immediately is that it functions very differently from English. Most prominently, this is because of inflection. Icelandic is a heavily inflected language, while English is not. 
 
 ## What Is Inflection?
-Inflection refers to the process whereby a word changes its ending to show different pieces of information or create new meanings. These pieces of information can include, for example, who is doing something, when it’s happening, or whether something is singular or plural. In a less-inflected language, like English, these pieces of information are typically supplied by word order or additional words. 
+Inflection refers to the process whereby a word changes its ending to show different pieces of information. These pieces of information can include: who is doing something, when it’s happening, or whether something is singular or plural. In a less-inflected language, like English, these pieces of information are typically supplied by word order or additional words. 
 
 *Note: Grammatical inflection is completely different than the kind of inflection meant by modulating the pitch of one’s voice.*
 

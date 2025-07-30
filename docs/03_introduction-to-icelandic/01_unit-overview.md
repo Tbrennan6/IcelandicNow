@@ -9,7 +9,7 @@ Welcome to the first unit! This unit is designed to introduce you to the absolut
 - Inflection refers to words changing their endings
 - English does not have as much inflection as Icelandic does
 - Inflection is important because it provides additional information
-- The Icelandic words for *I*, *you*, *he*, *she*, *it*, *we, *y'all*, and *they*
+- The Icelandic words for *I*, *you*, *he*, *she*, *it*, *we*, *y'all*, and *they*
 - Icelandic verbs conjugate
 - Icelandic conjugation depends on subject and tense
 - The infinitive form of a verb is the unconjugated form of the verb
