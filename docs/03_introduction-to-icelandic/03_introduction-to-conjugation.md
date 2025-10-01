@@ -57,7 +57,7 @@ Using the chart above, translate the following into Icelandic:
 5. Y'all baked. 
 
 ## Now I Know:
-- the Icelandic words for *I*, *you*, *he*, *she*, *it*, *we, *y'all*, and *they*
+- the Icelandic words for *I*, *you*, *he*, *she*, *it*, *we*, *y'all*, and *they*
 - Icelandic verbs conjugate
 - Icelandic conjugation depends on subject and tense
 
