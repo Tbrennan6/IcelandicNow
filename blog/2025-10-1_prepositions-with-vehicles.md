@@ -1,6 +1,6 @@
 ---
 slug: Prepositions_With_Vehicles
-title: "Prepositions with vehicles"
+title: "Prepositions With Vehicles"
 authors: [tbrennan]
 tags: [Vocabulary]
 ---
