@@ -27,7 +27,9 @@ A *stræti* translates best as *street.* They are typically located in urban are
 Pósthússtræti (post office street) runs along the eastern edge of Austurvöllur, crosses Austurstræti, runs past the old post office (on the corner of Pósthússtræti and Austurstræti) before terminating at the Steinbryggja, by the toll house in which the Kolaport market is located.
 
 ![pósthússtræti](/img/pósthússtræti.webp)
-*The pósthús on Pósthússtræti is now a food hall!*Austurstræti (east street) is a popular road in Reykjavík. Interestingly, it is mentioned in at least two songs: Austurstræti by Laddi, and Fröken Reykjavík by Jónas and Jón Múla Árnason. 
+*The pósthús on Pósthússtræti is now a food hall!*
+
+Austurstræti (east street) is a popular road in Reykjavík. Interestingly, it is mentioned in at least two songs: Austurstræti by Laddi, and Fröken Reykjavík by Jónas and Jón Múla Árnason. 
 
 ![austurstæi](/img/austurstræti.webp)
 *A picture of Austurstræti. To the left, you can see the pósthús.*
