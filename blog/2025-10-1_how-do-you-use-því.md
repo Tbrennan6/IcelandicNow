@@ -1,6 +1,6 @@
 ---
-slug: How_to_use_því 
-title: "How To Use Því"
+slug: How_do_you_use_því 
+title: "How Do You Use Því"
 authors: [tbrennan]
 tags: [Vocabulary]
 ---
