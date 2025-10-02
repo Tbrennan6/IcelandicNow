@@ -2,7 +2,7 @@
 slug: how-to-order-food
 title: "How Do You Order Food In Icelandic?"
 authors: [tbrennan]
-tags: [Vocabulary]
+tags: [howdoyou,Vocabulary]
 ---
 
 This post will teach you how to ask for, order and buy food in Icelandic. 

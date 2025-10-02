@@ -2,7 +2,7 @@
 slug: Prepositions_With_Vehicles
 title: "Prepositions With Vehicles"
 authors: [tbrennan]
-tags: [Vocabulary]
+tags: [howdoyou, Vocabulary]
 ---
 
 This post will discuss preposition usage when it comes to traveling by vehicle. 

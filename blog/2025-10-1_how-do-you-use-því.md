@@ -2,7 +2,7 @@
 slug: How_do_you_use_því 
 title: "How Do You Use Því"
 authors: [tbrennan]
-tags: [Vocabulary]
+tags: [howdoyou, Vocabulary]
 ---
 
 This post will discuss the two most common, sometimes confused together, ways to use the word *því*. 
