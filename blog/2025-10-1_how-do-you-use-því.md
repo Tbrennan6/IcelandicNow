@@ -27,4 +27,11 @@ However, *því* appears often in fixed phrases that also simply mean *because*.
 Example 1: Ég borðaði **af því að** ég var svangur. - (I ate **because** I was hungry.)\
 Example 2: Ég borðaði **út af því að** ég var svangur. - (I ate **because** I was hungry.)
 
+## Practice
+See if you can tell whether the *því* in the following examples is a verion of *það* or whether it means *because*. 
 
+Example 1: Ég svaf því ég var þreyttur.\
+Example 2: Ég henti því í loftið.\
+Example 3: Trúirðu því eiginlega?\
+Example 4: Af því að hún er látin.\
+Example 5: Ég þekki hana því hún er frænka mín. 
