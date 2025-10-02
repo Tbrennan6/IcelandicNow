@@ -34,7 +34,5 @@ In the previous two examples, it is fairly clear from context that the traveler 
 Unlike the two other counterparts, the use of *í* implies nothing at all. It simply describes location. For that reason, the use of *í* does not imply whether the passenger is operating the vehicle. While the passenger could be doing so, more context would be needed. 
 
 Example 1: Ég er **í** bílnum. - (I am **in** the car.)\
-Example 2: Ég var **í** lestinni þegar þú hringdi. - (I was **on** the train when you called.)
-
-## Practice
+Example 2: Ég var **í** lestinni þegar þú hringdir. - (I was **on** the train when you called.)
 
