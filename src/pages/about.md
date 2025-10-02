@@ -50,18 +50,12 @@ There was, and still is, a serious lack of good Icelandic learning resources to 
 
 As of today, the project is a one-man operation. I do all the research, write the articles, and create all other materials myself. I always try to have others check over my work, but I only do so with short-term and project-specific volunteers. In the future, I would like to recruit some more semi-permanent aides, but this has not yet come to fruition. If you're interested in this opportunity, please get in touch using the information at the top of the page.
 
-
 My goal is, as it always has been, to be the best place to learn Icelandic on the internet. This will never change.
-
-
--Tbrennan
 
 ## Acknowledgments
 
 I owe a debt of gratitude to countless individuals worldwide for enabling me to learn as much as I have and, ultimately, share it on this platform. From dedicated natives patiently answering my endless barrage of questions to those who generously share Icelandic content on YouTube, to fellow learners, to creators of Icelandic TV and music, to those who have read over my content, to those who have supported me and challenged me, your contributions have been invaluable. Thank you.
 
-
 Special thanks to Lilja Rut, Muna, Joseph Salazar, Max Schreifels , Mr Me, Vigmund, Kanína, and Anonymous.
-
 
 Without them, this project wouldn't exist. 
