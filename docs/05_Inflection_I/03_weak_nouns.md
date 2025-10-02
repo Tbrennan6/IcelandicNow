@@ -66,7 +66,7 @@ Now that you know how to inflect weak singular nouns, you should be able to dete
 Example 1: Hann sagði mér **sögu**.\
 Example 2: Þetta er **listi** yfir íslenska myndlistarmenn.\
 Example 3: Hann var ekki í **jakka**!\
-Example 4: Móðurmálið hans er **enska**.\ 
+Example 4: Móðurmálið hans er **enska**.\
 Example 5: Hún á fallega **dúkku**.\
 Example 6: **Api** býr í búðinni.
 

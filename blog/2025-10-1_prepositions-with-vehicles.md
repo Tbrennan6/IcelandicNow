@@ -36,3 +36,5 @@ Unlike the two other counterparts, the use of *í* implies nothing at all. It si
 Example 1: Ég er **í** bílnum. - (I am **in** the car.)\
 Example 2: Ég var **í** lestinni þegar þú hringdi. - (I was **on** the train when you called.)
 
+## Practice
+
