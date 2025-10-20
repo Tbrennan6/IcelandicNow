@@ -28,7 +28,7 @@ Below, find the inflection table for sá. Sá is a demonstrative pronoun, so it 
 
 
 ## Why is sá confusing?
-The problem, in my view, is that *sá* does not have a universal English transnaltion, but, despite this, most sources will tell you that *sá* just means *that*. Unfortunately, that is not really true.
+The problem, in my view, is that *sá* does not have a universal English translation, but, despite this, most sources will tell you that *sá* just means *that*. Unfortunately, that is not really true.
 
 Consider the following sentences:
 
