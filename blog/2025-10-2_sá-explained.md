@@ -97,7 +97,7 @@ The *þann* can be removed completely and no meaning chance occurs.
 Example 3: Hann fæddist 5. mars árið 2001. - (He was born on March 5, 2001.)
 
 ## Abstract nouns that call for an explanation
-Some definite nouns naturally call for a clause to explain them. They are difficult to describe precisely as a group, but they can be understood as abstract nouns that invite explanation. These nouns typically serve as labels for ideas related to problems, solutions, or situations. They are most often followed by the construction *er* *sá*/*sú*/*það* *að*, which introduces the explanatory clause. Below is a list of common examples of such nouns:
+Some definite nouns naturally call for a clause to explain them. They are difficult to describe precisely as a group, but they typically serve as labels for ideas related to problems, solutions, or situations. They are most often followed by the construction *er* *sá*/*sú*/*það* *að*, which introduces the explanatory clause. Below is a list of common examples of such nouns:
 
 Example 1: Sannleikurinn er sá að... - (The truth is...)\
 Example 2: Ástæðan er sú að...  - (The reason is...)\
