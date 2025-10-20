@@ -68,7 +68,7 @@ Example 3: Maður nokkur hét Jón. **Sá** maður var bóndi. - (A certain man'
 
 This meaning is often accompanied by an adjective that is specific to one of the things. These adjectives must be in a weak form. 
 
-Example 3: "Hvaða bíl viltu? **Þann** rauða? - (Which car do you want? **The** red **one**?)/
+Example 3: "Hvaða bíl viltu? **Þann** rauða? - (Which car do you want? **The** red **one**?)
 
 ### The thing that
 When a noun is present with *sá*, the meaning is much the same: *the (thing) that* to the exclusion of others. These examples are a bit more complicated to explain. 
