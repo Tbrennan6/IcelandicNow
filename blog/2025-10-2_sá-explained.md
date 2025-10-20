@@ -81,7 +81,7 @@ Example 2: Alríkisdómari kvað upp **þann** úrskurð í dag að Bandaríkjaf
 
 In this example, a similar phenomenon is happening where the use of *úrskurðið* may seem more logical. In addition, the word *að* is triggering the *sá* instead of the expected *sem*. However, when considering this word's purpose, the *að* is going on to explain what the judge's ruling said, much like how *sem* typically begins a clause that more narrowly describes a noun. 
 
-The use of sá is appropaire here because the ruling is still definite, it wasn't just a random ruling, it was the specific ruling, such as is explained by the clause. 
+The use of *sá* is appropaire here because the ruling is still definite, it wasn't just a random ruling, it was the specific ruling, such as is explained by the clause. 
 
 
 ## Dates
