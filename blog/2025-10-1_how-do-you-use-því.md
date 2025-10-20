@@ -18,7 +18,7 @@ Example 3: Hann skildi **því** til eigandans. - (He returned **it** to the own
 In each of these two examples, the word *því* is simply acting to replace a neuter noun or a clause. You can always identify this usage becasue there is some verb, preposition, or context that is calling for a dative noun or a clause to be used. 
 
 ## Because
-*Því* when apearing outside the dative context, often means *because*. This usage is very common.    
+*Því*, when apearing outside the dative context, often means *because*. This usage is very common.    
 
 Example 1: Ég borðaði **því** ég var svangur. - (I ate **because** I was hungry.)
 

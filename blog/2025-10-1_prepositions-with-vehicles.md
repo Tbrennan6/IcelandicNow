@@ -9,21 +9,21 @@ This post will discuss preposition usage when it comes to traveling by vehicle.
 
 <!-- truncate -->
 
-## Með (acc)
+## Með (dat)
 The use of *með* implies no participation in the steering, driving, or voyage at all. For this reason, it is commonly used with vehicles such as trains, buses, or boats where a person would be typically expected to be an inactive participant in the travel process.
 
 Example 1: Ég fór til Chicago **með** lest. - (I traveled to Chicago **by** train.)\
 Example 2: Eg fór í bæinn **með** strætó. - (I traveled to Reykjavík **by** bus.)\
-Example 3: Ég sigldi til Grænlands **með** skip. - (I sailed to Greenland **by** ship.)
+Example 3: Ég sigldi til Grænlands **með** skipi. - (I sailed to Greenland **by** ship.)
 
 ## Á (dat)
 The use of *á* implies active usage of the vehicle. 
 
-Example 1: Ég fór i vinnuna **á** bílnum. - (I went to work by car.)\
+Example 1: Ég fór í vinnuna **á** bílnum. - (I went to work by car.)\
 Example 2: Ég fer **á** kafbát. - (I travel **by steering** a submarine.)\
 Example 3: Ég get ekki drukkið, ég er **á bíl**. - (I can't drink, I'm **driving**.) 
 
-It´s important also to know that *á* has a basic meaning of *on top.* Which of the two meanings, oeprating or being on top of something, comes across to the audience is dictated by the general understanding of the situation. 
+It´s important also to know that *á* has a basic meaning of *on top.* Which of the two meanings, operating or being on top of something, comes across to the audience is dictated by the general understanding of the situation. 
 
 Example 1: Ég fór **á** lestinni í Bangladesh. - (I rode **on top of** the train in Bangladesh.)\
 Example 2: Ég fór **á** erni til Mordor. - (I rode **on top of** an eagle to Mordor.)
