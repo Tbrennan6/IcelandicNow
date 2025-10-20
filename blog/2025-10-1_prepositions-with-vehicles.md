@@ -19,8 +19,8 @@ Example 3: Ég sigldi til Grænlands **með** skipi. - (I sailed to Greenland **
 ## Á (dat)
 The use of *á* implies active usage of the vehicle. 
 
-Example 1: Ég fór í vinnuna **á** bílnum. - (I went to work by car.)\
-Example 2: Ég fer **á** kafbát. - (I travel **by steering** a submarine.)\
+Example 1: Ég fór í vinnuna **á** bílnum. - (I **took the car** to work.)\
+Example 2: Ég fer **á** kafbát. - (I travel **by driving** a submarine.)\
 Example 3: Ég get ekki drukkið, ég er **á bíl**. - (I can't drink, I'm **driving**.) 
 
 It´s important also to know that *á* has a basic meaning of *on top.* Which of the two meanings, operating or being on top of something, comes across to the audience is dictated by the general understanding of the situation. 
