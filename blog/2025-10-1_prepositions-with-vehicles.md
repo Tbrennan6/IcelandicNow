@@ -10,7 +10,7 @@ This post will discuss preposition usage when it comes to traveling by vehicle.
 <!-- truncate -->
 
 ## Með (dat)
-The use of *með* implies no participation in the steering, driving, or voyage at all. For this reason, it is commonly used with vehicles such as trains, buses, or boats where a person would be typically expected to be an inactive participant in the travel process.
+The use of *með* implies no participation in the steering, driving, or operation of the vehicle at all. For this reason, it is commonly used with vehicles such as trains, buses, or boats where a person would be typically expected to be an inactive participant in the travel process.
 
 Example 1: Ég fór til Chicago **með** lest. - (I traveled to Chicago **by** train.)\
 Example 2: Eg fór í bæinn **með** strætó. - (I traveled to Reykjavík **by** bus.)\
