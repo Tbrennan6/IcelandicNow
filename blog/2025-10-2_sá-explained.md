@@ -87,7 +87,7 @@ The use of *sá* is appropaire here because the ruling is still definite, it was
 
 
 ## Dates
-The form *þann* typically, but optionally, appears at the start of dates, before the day. This is the most detached meaning of *sá*, in my opnion, from the big-picutre meaning, and is best learned seperately, hence why it appears seperately here.
+The form *þann* typically, but optionally, appears at the start of dates, before the day. This is the most detached meaning of *sá*, in my opinion, from the big-picture meaning, and is best learned seperately, hence why it appears seperately here.
 
 Example 1: Hann fæddist **þann** 5. mars árið 2001. - (He was born **on** March 5, 2001.)\
 Example 2: Krossfararnir komu til Jerúsalem **þann** 7. júní árið 1099 - (The crusaders came to Jerusalum **on** June 7th, 1099.)
