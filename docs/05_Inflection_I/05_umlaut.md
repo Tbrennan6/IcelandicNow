@@ -99,7 +99,7 @@ While it is ultimately impossible and unproductive to know if a word had an *i* 
 
 I-umlaut is very common in the past tense of weak j-verbs (a verb type covered in later lessons).
 
-Example 1: Að telja -> Ég t**a**ldi\
+Example 1: Að telja -> Ég t**a**ldi
 
 I-umlaut is very common in the conjugation of strong verbs (a verb type covered in later lessons), but only in the singular. It never occurs in the plural. 
 
