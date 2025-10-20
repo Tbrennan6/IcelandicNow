@@ -62,8 +62,8 @@ Example 6: **Sá sem** eignast vin eignast fjársjóð. - (**One who** gets a fr
 ### Clarifying
 *Sá* is often used when there are multiple options to clarify a certain one. 
 
-Example 1: Hvað heitir plantan á myndinni, **sú** neðri? - (What do you call the plant in the picture, **the** lower **one**?)
-Example 2: Er þetta **sú** ása sem þú ertu að leita að? - (Is that **the** Ása that you were looking for?)
+Example 1: Hvað heitir plantan á myndinni, **sú** neðri? - (What do you call the plant in the picture, **the** lower **one**?)/
+Example 2: Er þetta **sú** ása sem þú ertu að leita að? - (Is that **the** Ása that you were looking for?)/
 Example 3: Maður nokkur hét Jón. **Sá** maður var bóndi. - (A certain man's name was Jón. **Said** man was a farmer.)
 
 This meaning is often accompanied by an adjective that is specific to one of the things. These adjectives must be in a weak form. 
