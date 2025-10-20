@@ -54,6 +54,8 @@ Example 3: **Sá sem** á þennan bíl skal gefa sig fram við skrifstofu. - (**
 Example 4: Hann drap **þá sem** ég elskaði.- (He killed **the one that** I loved.)\
 Example 5: Hun hlálpar **þeim sem** hlálpa öðrum. - (She helps **those that** help others. )
 
+*Note: The "sá" in example 4 could refer to either a single woman or a group of people.*
+
 This meaning is often used with proverbs, sayings, and the like. 
 
 Example 6: **Sá sem** eignast vin eignast fjársjóð. - (**One who** gets a friend gets a treasure.)
