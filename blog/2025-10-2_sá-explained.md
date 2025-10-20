@@ -52,7 +52,7 @@ Example 1: Þú ert **sá sem** þeir leita að.-   (You are **the one that** th
 Example 2: Þú ert **sú sem** ég elska. - (You are **the one that** I love.)\
 Example 3: **Sá sem** á þennan bíl skal gefa sig fram við skrifstofu. - (**The one who** owns this car should make themselves known to the office.)\
 Example 4: Hann drap **þá sem** ég elskaði.- (He killed **the one that** I loved.)\
-Example 5: Hun hlálpar **þeim sem** hlálpa öðrum. - (She helps **those that** help others. )
+Example 5: Hun hjálpar **þeim sem** hjálpa öðrum. - (She helps **those that** help others. )
 
 *Note: The "sá" in example 4 could refer to either a single woman or a group of people.*
 
@@ -65,7 +65,7 @@ Example 6: **Sá sem** eignast vin eignast fjársjóð. - (**One who** gets a fr
 *Sá* is often used when there are multiple options to clarify a certain one. 
 
 Example 1: Hvað heitir plantan á myndinni, **sú** neðri? - (What do you call the plant in the picture, **the** lower **one**?)/
-Example 2: Er þetta **sú** Asa sem þú ertu að leita að? - (Is that **the** Ása that you were looking for?)/
+Example 2: Er þetta **sú** Asa sem þú ert að leita að? - (Is that **the** Ása that you were looking for?)/
 Example 3: Maður nokkur hét Jón. **Sá** maður var bóndi. - (A certain man's name was Jón. **Said** man was a farmer.)
 
 This meaning is often accompanied by an adjective that is specific to one of the things. These adjectives must be in a weak form. 
@@ -110,6 +110,8 @@ Example 8: Árangurinn er sá að... - (The  result  is...)\
 Example 9: Afleiðingin er sú að... (The consequent is...)\
 Example 10: Lausnin er sú að... (The solution is)
 
+To help understnad the translation, the phrase *such that* can be inserted at the end of the translations. This can help to mentally justify why the *sa* is needed in the structure.
 
+Exmaple 11: Raunveruleikinn er sá að menn búa ekki á tunglinu. - (The truth is such that men do not live on the moon.)
 
 
