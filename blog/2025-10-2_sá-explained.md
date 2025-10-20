@@ -48,7 +48,7 @@ Please note that all of the following meanings have fuzzy edges, meaning they bl
 ### The one who
 *Sá* is often used without an accompanying noun to refer to people, meaning *the one who/that.* This usage is always paired with the word *sem*, and almost always uses a masculine or feminine form--except when refering to children (barn)--since people are being refered to. While the nominative forms are most common here, other cases are possible. 
 
-Example 1: Þú ert **sá sem** þeir leita að.-   (You are **the one that** they seek.)
+Example 1: Þú ert **sá sem** þeir leita að.- (You are **the one that** they seek.)\
 Example 2: Þú ert **sú sem** ég elska. - (You are **the one that** I love.)\
 Example 3: **Sá sem** á þennan bíl skal gefa sig fram við skrifstofu. - (**The one who** owns this car should make themselves known to the office.)\
 Example 4: Hann drap **þá sem** ég elskaði.- (He killed **the one that** I loved.)\
