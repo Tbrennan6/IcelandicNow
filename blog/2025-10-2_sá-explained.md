@@ -10,7 +10,7 @@ This post will discuss how the word *sá* is used.
 <!-- truncate -->
 
 ## Inflection
-Below, find the inflection table for sá. Sá is a demonstrative pronoun, so it declined for case, gender and plurality. Interstingly, it's plural inflection is the same as *þessi*. The neuter singular is just *það*, too. If you have studied Icelandic inflection, the rest should seem pretty familiar as well. 
+Below, find the inflection table for sá. Sá is a demonstrative pronoun, so it declined for case, gender and plurality. Interstingly, its plural inflection is the same as *hann*. The neuter singular is just *það*, too. If you have studied Icelandic inflection, the rest should seem pretty familiar as well. 
 
 | **Singular sá**       	| **Masculine** 	| **Feminine** 	| **Neuter** 	|
 |----------------	|---------------	|--------------	|------------	|
