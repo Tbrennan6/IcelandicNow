@@ -46,7 +46,7 @@ Intead, it is more accurate to say that *sá* has a wide number of different mea
 Please note that all of the following meanings have fuzzy edges, meaning they blend into eachother at some level. 
 
 ### The one who
-*Sá* is often used without an accompanying noun to refer to people, meaning *the one who/that.* This usage is always paired with the word *sem*, and almost always uses a masculine or feminine form--except when refering to children (barn)*--since people are being refered to. While the nominative forms are most common here, other cases are possible. 
+*Sá* is often used without an accompanying noun to refer to people, meaning *the one who/that.* This usage is always paired with the word *sem*, and almost always uses a masculine or feminine form--except when refering to children (barn)--since people are being refered to. While the nominative forms are most common here, other cases are possible. 
 
 Example 1: Þú ert **sá sem** þeir leita að.-   (You are **the one that** they seek.)
 Example 2: Þú ert **sú sem** ég elska. - (You are **the one that** I love.)\
