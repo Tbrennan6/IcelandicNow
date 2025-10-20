@@ -107,7 +107,7 @@ Example 5: Tilgangurinn er sá að... - (The purpose is...)\
 Example 6: Munurinn er sá að... - (The difference is...)\
 Example 7: Veruleikinn er sá að... - (The reality is...)\
 Example 8: Árangurinn er sá að... - (The  result  is...)\
-Example 9: Afleiðingin er sú að... (The consequent is...)\
+Example 9: Afleiðingin er sú að... (The consequence is...)\
 Example 10: Lausnin er sú að... (The solution is)
 
 To help understnad the translation, the phrase *such that* can be inserted at the end of the translations. This can help to mentally justify why the *sa* is needed in the structure.
