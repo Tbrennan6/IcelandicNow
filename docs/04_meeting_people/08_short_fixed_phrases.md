@@ -4,9 +4,9 @@ title: Short Fixed Phrases
 ---
 This lesson will serve two purposes: (1) to provide a good bank of useful pre-constructed phrases, and (2) to provide background vocabulary necessary for the next two units. 
 
-Pre-constructed phrases reduce the mental effort and time needed to form sentences, making conversations smoother and more fluid. In fact, most conversations rely on a small set of frequently repeated phrases. By learning these, you unlock a whole new level of conversational ability.
+Pre-constructed phrases are useful to learn because they reduce the mental effort and time needed to form sentencess. In fact, most conversations rely on a small set of frequently repeated phrases. By learning these, you unlock a whole new level of conversational ability.
 
-Additionally, pre-constructed phrases serve as useful grammatical reference points when forming your own sentences. You can compare your new sentences to these known correct structures, identifying and adjusting any inconsistencies. This powerful technique can be applied to any Icelandic sentence or phrase you know to be grammatically sound—use it to your advantage as often as possible!
+Additionally, pre-constructed phrases serve as useful grammatical reference points when forming your own sentences. In some resources, these are called "hooks" because they can pull you to the right answer when you are making your own sentences. You can compare your new sentences to these known correct structures, identifying and adjusting any inconsistencies. This powerful technique can be applied to any Icelandic sentence or phrase you know to be grammatically sound—use it to your advantage as often as possible!
 
 ## Set 1
 Ég skil. - (I understand.)\
