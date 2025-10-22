@@ -15,7 +15,7 @@ In the examples above, there bolded words help to paint a more vivid idea of the
 In Icelandic, adjectives are much simpler than nouns. As with previous lessons, the tables here will not cover every posssible inflection you enocounter, but it should over most wrds and provide a great starting point for understanding any adjective you encounter.  
 
 ## Adjective Usage
-Adjectives can appear in one of two ways: strong and weak. This strong/weak dicotomy is not simialr to strong and weak nouns nor strong and weak verbs. This the third--and final--different way that the terms strong and weak are used. The same adjective will decline differntly depending on whether the sitatuon calls for a strong or a weak adjective and whether the adjective is being used descriptively (right next to a nominal) or predicatively (on teh other side of a verb). 
+Adjectives can appear in one of two ways: strong and weak. This strong/weak dicotomy is not simialr to strong and weak nouns nor strong and weak verbs. This the third--and final--different way that the terms strong and weak are used. The same adjective will decline differntly depending on whether the sitatuon calls for a strong or a weak adjective and whether the adjective is being used descriptively (right next to a nominal) or predicatively (on the other side of a verb). 
 
 
 ## Strong Adjective Forms
@@ -33,9 +33,9 @@ Adjectives can appear in one of two ways: strong and weak. This strong/weak dico
 | **Dat.** | -um       | -um      | -um       |
 | **Gen.** | -ra, -na  | -ra, -na | -ra, -na  |
 
-*Tip:Be awaye of teh possibility of syncope occuring in the endings.*
+*Tip:Be aware of the possibility of syncope occuring in the endings.*
 
-The second pattern is for nouns ending *-nn*. 
+*Note: The second pattern is for nouns ending "-nn"*. 
 
 Strong adjectives are used descriptively with indefinite nouns.
 
@@ -72,3 +72,5 @@ Weak forms are used descriptively with definite nouns.
 Example 1: Sterki hesturinn borðar epli. - (The strong horse eats apples.)\
 Example 2: Fallega konan talar íslensku. - (The pretty woman speaks Icelandic.)\
 Example 3: Ég þekki góða lækninn. - (I know the good doctor.)
+
+*Tip: Becuase the plurals all end with -u, if your English sentence has "The (adjectices) (noun)s", then you can be confident that your adjectice will end un a -u.*

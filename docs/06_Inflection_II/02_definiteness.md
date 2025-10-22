@@ -7,13 +7,15 @@ So far, we have only worked with indefinite nouns.
 
 All cases and pluralities of nearly any noun in Icelandic can be either indefinite or definite. In general, indefinite nouns are used to talk about things that are general  (e.g., a cat, a man, a horse) while definite nouns are used to talk about things that are specific (e.g., the cat, the man, the horse).
 
+*Note: There are other types of definiteness that are not going to be covered in this lesson.*
+
 ## Definiteness In English
 
 In English, nouns are made indefinite by adding an indefinite marker, **a**/**an** before the word for the singular and nothing for the plural. The definite is always formed by adding the definite marker, The, before the word in both the singular and plural.
 
-Example 1: **A** horse eats.
-Example 2: **The** horse eats.
-Example 3: Horses eat.
+Example 1: **A** horse eats.\
+Example 2: **The** horse eats.\
+Example 3: Horses eat.\
 Example 4: **The** horses eat.
 
 ## Definiteness In Icelandic
@@ -44,7 +46,7 @@ The neuter singular nominative and accusative have two forms depending on which 
 | **Gen.**       | hinna     | hinna    | hinna     |
 
 ## Detached Hinn
-The detached definite is the less common method. It is not often used in typical speech and is mainly reserved for place names and official titles. Although it can be used for any noun, it is very atypical and stilted to do so.
+The detached definite is the far less common method, but is included here for completeness and for illustration purposes. It is not often used in typical speech and is mainly reserved for place names and official titles. Although it can be used for any noun, it is very atypical and stilted to do so.
 
 To form it, simply place corresponding **hinn** that matches the gender, plurality, and case of the noun before it. 
 
@@ -67,7 +69,7 @@ Example 2: Þetta er hjarta**ð**. - (This is **the** heart.)\
 Example 3: Ég elska stelpur**nar**. - (I saw **the** girls.)\
 Example 4: Ég borðaði köku**na*. - (I ate **the** cake.)
 
-If the word is a dative plural, the ending changes from *-um* to *-unum*.
+If the word is a dative plural, the ending changes from *-um* to *-unum*.This is a slight deviation from the rule, but it is consistant acorss all words. 
 
 Example 5: Hann gleymdi bönun**unum**. - (He forgot the bananas.)
 

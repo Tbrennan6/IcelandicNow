@@ -24,7 +24,7 @@ Hopefully you noticed a patterns that you have seen before! The plurals in the n
 \
 Example 1: Þ**eir** eru asn**ar**. - (They are donkeys.)\
 Example 2: Þ**ær** eru pönd**ur**. - (They are pandas.)\
-Example 3: Þau eru hjört**u**.- (They are hearts.)
+Example 3: Þa**u** eru hjört**u**.- (They are hearts.)
 
 *Practice: Read the examples above numerous times outloud. Then, change the nouns to other weak nouns we have learned (E.g, "jakki", "banki", "mamma", "lunga"). As you so, try not to look at the table. Instead, close your eyes and just remember what gender the noun fell into.*
 
