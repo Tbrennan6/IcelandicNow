@@ -7,6 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   future: {
     experimental_faster: true,
+    v4: true,
   },
   title: 'The Icelandic Now Project',
   tagline: 'The project committed to making Icelandic more learnable',
@@ -27,7 +28,11 @@ const config: Config = {
   // TODO: Fix links and change back to 'throw'
   // onBrokenLinks: 'throw',
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
