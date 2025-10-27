@@ -36,7 +36,7 @@ The first use of a triple hashtag
 ### Pronouns 
 The best way to illustrate declension in English is by using pronouns. Consider the following two sentences. 
 
-Example 1: I talk to him. \
+Example 1: I talk to him.\
 Example 2: I talk to she. 
 
 While *example 1* is perfectly grammatical, *example 2* is not. Without me even telling you, your brain can sense that the word *she* is what was wrong with the example, even if you don't know why. What's more, your brain may have even correctly told you that you have to say *her* in that second example instead of he. Before I explain why that is, please take a second to ask yourself why *she* does not work in *example 2* but *her* would. Don't both words mean the same thing?

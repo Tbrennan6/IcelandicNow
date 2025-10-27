@@ -9,9 +9,9 @@ As in any language, there are many ways to say *hello* and *goodbye* in Icelandi
 
 ## Time Sensitive Greetings
 
-Icelandic uses different greetings at different times of the day. Saying *góðan daginn* perhaps the most famous Icelandic expression of all time, at midnight would be as weird as saying *good day* to somebody at midnight.
+Icelandic uses different greetings at different times of the day. Saying *góðan daginn* at midnight, would be as weird as saying *good day* to somebody at midnight. It's simply weird. 
 
-Just like English, many of these greetings are created by blending a time of day with an adjective (a word used to describe a noun). Later in the course, you will learn a little more about why these words take the forms that they do. For now, it would be best to just memorize the greetings below in their entirety.
+Just like English, many Icelandic greetings are created by blending a time of day with an adjective (a word used to describe a noun). Later in the course, you will learn a little more about why these words take the forms that they do. For now, it would be best to just memorize the greetings below in their entirety since they are so common and idiomatic. 
 
 Below are the most common time-sensitive greetings. The options given are all extremely common and can be used interchangeably with one another. 
 
@@ -31,10 +31,10 @@ Person 2: Kvöldið. - (Good evening.)
 
 *Note 1:  While saying "good day" or "good evening" to somebody in English can be a little stilted and overly formal, this is not the case in Icelandic. Saying "góðan daginn" and its equivalents is very typical and normal sounding.*
 
-*Note 2: Icelandic does not have a comfortable translation for "good morning," such as is common in English. For this purpose, "góðan daginn" is used.*
+*Note 2: Icelandic does not have a comfortable translation for "good morning." For this purpose, "góðan daginn" is used.*
 
 ## Formality Sensitive Greetings
-Icelandic greetings can also depend on the level of formality. This happens in English as well. For instance, if you are talking with a superior at work or an older person in general, it would be common and respectful to use a more formal greeting than one you would use with your friends. You wouldn't, usually, say *wazzup* to your great-grandma or a company representative in a business meeting. Instead, you may choose to say something more formal, such as *hello*.
+Icelandic greetings can also depend on formality. This happens in English as well. For instance, if you are talking with a superior at work or an older person in general, it would be common and respectful to use a more formal greeting than one you would use with your friends. You wouldn't, usually, say *wazzup* to your great-grandma or a company representative in a business meeting. Instead, you may choose to say something more formal, such as *hello*.
  
 In Icelandic, a very formal and polite  greeting is *komdu sæll og blessaður*.
 
