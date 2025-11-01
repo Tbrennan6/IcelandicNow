@@ -3,22 +3,21 @@ sidebar_position: 2
 title: Introduction to Inflection
 ---
 
-As a native English speaker, the most important thing to understand about Icelandic immediately is that it functions very differently from English. Most prominently, this is because of inflection. Icelandic is a heavily inflected language, while English is not. 
+As a native English speaker, the most important--and often the most difficult--thing to understand about Icelandic immediately is that it functions very differently from English. Most prominently, this is because of inflection. Icelandic is a heavily inflected language, while English is not. 
 
 ## What Is Inflection?
-Inflection refers to the process whereby a word changes its ending to show different pieces of information. These pieces of information can include: who is doing something, when it’s happening, or whether something is singular or plural. In a less-inflected language, like English, these pieces of information are typically supplied by word order or additional words. 
+Inflection refers to the process whereby a word changes its ending to show different pieces of information. These pieces of information can include: who is doing something, when it’s happening, or whether something is singular or plural. In a less heavily inflected language, like English, these pieces of information are typically supplied by word order or additional words. 
 
 *Note: Grammatical inflection is completely different than the kind of inflection meant by modulating the pitch of one’s voice.*
 
 ## Inflection In English
-
-As mentioned above, English words do not inflect very much. As a result, they do not change their endings very much. Consider how the word *horse* is the same in the first three examples below. 
+As mentioned, English words do not inflect very much. As a result, they do not change their endings very much. Consider how the word *horse* is the same in the first three examples below. 
 
 Example 1: This is **a horse**.\
 Example 2: I saw **a horse**.\
 Example 3: I gave **a horse** an apple.
 
-In all three examples, the word is spelled and pronounced the exact same. Compare that with below. There, you will find the translations of those same sentences into Icelandic. Notice how the word now has different endings? That is inflection at work!
+In all three examples, the word is spelled and pronounced the exact same. Compare that below. There, you will find the translations of those same sentences into Icelandic. Notice how the word *hest* now has different endings? That is inflection at work!
 
 Example 1: Þetta er **hestur**.\
 Example 2: Ég sá **hest**. \
@@ -44,9 +43,9 @@ Overall, it is fair to say that English inflection is quiet simple.
 
 As shown by the earlier example with the word *hestur*, Icelandic words can change much more than English words can. There are more possible endings, and the endings change for more reasons than they do in English. 
 
-While there are typically only four possible forms for each noun in English (*a horse*, *horses*, *the horse*, *the horses*), there are up to sixteen different forms for each noun in Icelandic! For Icelandic verbs, too, instead of just a few forms, there can be over a hundred possibilities depending on the verb in question! This is what it means when people say that Icelandic is heavily inflected; there are many different forms for each word!
+While there are typically only four possible forms for each noun in English (*a horse*, *horses*, *the horse*, *the horses*), there are up to sixteen different forms for each noun in Icelandic! For Icelandic verbs, too, instead of just a few forms, there can be over a hundred possibilities! 
 
-What makes this difficult for non-natives is that the abundance of forms does not mean that there are many more valid ways to say something in Icelandic. Instead, only one wasy is typically correct. As a result, you must be more careful in choosing the right words to say what you are trying to say. Since using the correct inflection largely depends on grammar, you need to have a better sense of grammar to speak Icelandic than you typically do for English. This course will help you achieve that good grammar sense!
+It is importnat to note that abundance of forms does not mean that there are many more valid ways to say something in Icelandic. Instead, only one form is typically correct. Since using the correct inflection largely depends on grammar, you need to have a better sense of grammar to speak Icelandic than you typically do for English. This course will help you achieve that good grammar sense!
 
 While mastering Icelandic inflection can seem daunting, with time and practice, it will become as natural and effortless as it is in English. 
 

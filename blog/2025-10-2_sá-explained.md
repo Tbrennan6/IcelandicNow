@@ -62,7 +62,7 @@ Example 6: **Sá sem** eignast vin eignast fjársjóð. - (**One who** gets a fr
 
 
 ### Clarifying
-*Sá* is often used when there are multiple options to clarify a certain one. 
+*Sá* is often used when there are multiple options, to clarify a certain one. 
 
 Example 1: Hvað heitir plantan á myndinni, **sú** neðri? - (What do you call the plant in the picture, **the** lower **one**?)\
 Example 2: Er þetta **sú** Asa sem þú ert að leita að? - (Is that **the** Ása that you were looking for?)\

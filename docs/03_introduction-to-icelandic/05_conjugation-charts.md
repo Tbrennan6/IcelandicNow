@@ -6,7 +6,7 @@ title: Conjugation Charts
 While the idea of conjugation and inflection may seem intimidating and confusing at first, fear not! Tools, patterns, and mental shortcuts are available that can help you memorize and internalize the ideas behind inflection. 
 
 ## What Is A Conjugation Chart?
-A conjugation charts is the standard way in which the different forms of a word are displayed. These charts can be organized by different characteristics, but the standard way to organize them--and the way this course will do so unless otherwise noted--is by *person* and *plurality* with one chart for the present tense and one chart for the past tense.  
+Conjugation charts are the standard way in which the different forms of a verb are displayed. These charts can be organized by different characteristics, but the standard way to organize them is by *person* and *plurality*, with one chart for the present tense and one chart for the past tense.  
 
 | pres. bake | **Sing.** | **Plur.** |
 |------------|-----------|-----------|
@@ -20,10 +20,10 @@ A conjugation charts is the standard way in which the different forms of a word 
 | **2nd.**  | baked     | baked     |
 | **3rd.**  | baked     | baked     |
 
-*Note: Verbs also inflect differently depending on the characteristics of mood, voice, personal or impersonal usage, and more. Different charts can be used to reflect these characteristics, too. These additional aspects are not addressed further in this course because they are not important for the beginner to know and would become unduly complicated.* 
+*Note: Verbs also inflect differently depending on mood, voice, personal or impersonal usage, and more. Different charts can be used to reflect these characteristics, too. These additional aspects are not addressed further in this course because they are not important for the beginner to know and would become unduly complicated.* 
 
 ## The Elements Of A Conjugation Chart 
-Person and plurality refer to how close the subject of the verb is to the person creating the sentence and whether that subject is a single person or a group. It may help to see the English subject pronouns plugged into a conjugation chart. 
+Person and plurality refer to how close the subject of the verb is to the person creating the sentence and whether that subject is a single item or multiple. It may help to see the English subject pronouns plugged into a conjugation chart. 
 
 | subjects | **Sing.**  | **Plur.**   |
 |----------|------------|-------------|
@@ -36,7 +36,7 @@ The subjects *I* and *we* are both first person because they are as close to the
 *I*, *you*, and *he* are singular because they only refer to one individual. *We*, *y'all*, and *they* are plural because they refer to multiple people. 
 
 ## A Note On *He* And *Hann* 
-As you have likely noticed, the subjects *he* and *hann* are accompanied by asterisks in conjugation charts. This is done because they could be swapped for other words. The words *he* and *hann* have been chosen because they are standardly used in these tables--instead of including *she* and *it* or *hún* and *það*--because doing so saves considerable tablespace. 
+As you have likely noticed, the subjects *he* and *hann* are accompanied by asterisks in conjugation charts. This is because they could be swapped for other words. The words *he* and *hann* have been chosen because they are standardly used in these tables--instead of including *she* and *it* or *hún* and *það*--because doing so saves considerable tablespace. 
 
 The word *he* in the conjugation chart could be replaced with any other singular noun, and the accompanying conjugation when that noun is a subject would be correct. This includes *she*, *it*, *John*, *Eifel Tower*, *cat*, *computer*, or anything other singular that you can think of. 
 

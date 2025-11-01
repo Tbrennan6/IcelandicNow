@@ -3,7 +3,7 @@ sidebar_position: 2
 title: How to Learn Icelandic
 ---
 
-Before we begin the meat of the course, lets go over some effective learning strategies, tips, and tricks that will help you learn better and quicker. 
+Before we begin the meat of the course, let's go over some effective learning strategies, tips, and tricks that will help you learn better and quicker. 
 
 While I will give some helpful anecdotes where I talk about my own learning and teaching expereices throughout teh course, this lesson and the following one are some of the only times I will purposely seperate the *we* going on this journey into *I* and the *you*, because it's important that *you* realize some things and *I* admit some things. 
 
@@ -12,7 +12,7 @@ The number one killer of language learning aspirations is unrealistic expectatio
 
 Mastering a language, whether it’s Spanish, Icelandic, or even a programming language like C++, is a challenging task. It involves learning new vocabulary, understanding unfamiliar grammar, and changing how you view the world. Things you thought were universal might be different in another language. This is what makes language learning exciting, but also tough.
 
-At times, you may feel overwhelmed and wonder if you’ll ever understand the content. You might even start doubting yourself, thinking you’re not smart enough to learn Icelandic. But I assure you, with time and dedication, you can do it. Progress may vary based on your experience, age, or commitment, but anyone can learn any language.Expect challenges and moments of frustration, but if you keep going, you will make progress.
+At times, you may feel overwhelmed and wonder if you’ll ever understand the content. You might even start doubting yourself, thinking you’re not smart enough to learn Icelandic. But I assure you, with time and dedication, you can do it. Progress may vary based on your experience, age, or commitment, but anyone can learn any language. Expect challenges and moments of frustration, but if you keep going, you will make progress.
 
 If a baby can do it, so can you!
 
