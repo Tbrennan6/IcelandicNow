@@ -12,9 +12,9 @@ The following vocabulary compilation is, of course, incomplete, but it should co
 ## Toilet (Klósett)
 ![klosett](/img/klosett.png)
 
-1. Fara a klósettið - (Go to the bathroom/Go on the toilet) 
+1. Fara á klósettið - (Go to the bathroom/Go on the toilet) 
 2. Draga niður/upp buxurnar - (Pull one's pants down/upp) 
-3. Settjast á klósettið - (Sit on the toilet)
+3. Setjast á klósettið - (Sit on the toilet)
 4. Skeina sér - (Wipe oneself)
 5. Sturta niður - (Flush the toilet)
 6. Skipta um klósettpappír - (Change out the toilet papper)
@@ -30,7 +30,7 @@ The following vocabulary compilation is, of course, incomplete, but it should co
 3. Þvo á sér hárið - (Wash one's hair)
 4. Skrúbba/nudda sig - (Scrub oneself) 
 5. Sápa sig - (Rub soap on oneself)
-6. Skóla hárið/líkaminn - (Rince one's hair/body)
+6. Skola hárið/líkaminn - (Rince one's hair/body)
 7. Raka á sér fæturna - (Shave legs)
 
 
@@ -44,5 +44,5 @@ The following vocabulary compilation is, of course, incomplete, but it should co
 5. Blása hárið - (Blow dry hair)
 6. Mála/farða sig - (Apply makeup)
 7. Setja í sig linsur - (Put on contact lenses)
-7. Taka úr sér linsur sínar - (Take one's contact lenses out)
-8. Greiða hárið - (Comb one's hair)
+7. Taka úr sér linsurnar - (Take one's contact lenses out)
+8. Greiða á sér hárið - (Comb one's hair)
