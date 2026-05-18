@@ -27,7 +27,7 @@ The following vocabulary compilation is, of course, incomplete, but it should co
 
 1. Fara í bað/sturtu - (Take a bath/shower)
 2. Skrúfa fyrir/frá vatninu/vatnið - (Turn the water off/on)
-3. Þvo á þér hárið - (Wash one's hair)
+3. Þvo á sér hárið - (Wash one's hair)
 4. Skrúbba/nudda sig - (Scrub oneself) 
 5. Sápa sig - (Rub soap on oneself)
 6. Skóla hárið/líkaminn - (Rince one's hair/body)
