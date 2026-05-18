@@ -7,9 +7,10 @@ tags: [vocabulary]
 
 This post will discuss the essential vocabulary related to the bathroom. 
 
-## Toilet
+The following vocabulary compilation is, of course, incomplete, but it should cover most bathroom situations.
+
+## Toilet (Klósett)
 ![klosett](/img/klosett.png)
-*Klósettið*
 
 1. Fara a klósettið - (Go to the bathroom/Go on the toilet) 
 2. Draga niður/upp buxurnar - (Pull one's pants down/upp) 
@@ -21,9 +22,8 @@ This post will discuss the essential vocabulary related to the bathroom.
 *Note: The word "salerni" is also used for "toilet." It can also be used in the proceeding compounds instead of "klosett."*
 
 
-## Shower
+## Shower (Sturta)
 ![sturta](/img/sturta.png)
-*Sturtan*
 
 1. Fara í bað/sturtu - (Take a bath/shower)
 2. Skrúfa fyrir/frá vatninu/vatnið - (Turn the water off/on)
@@ -34,9 +34,8 @@ This post will discuss the essential vocabulary related to the bathroom.
 7. Raka á sér fæturna - (Shave legs)
 
 
-## Sink
+## Sink (Vaskur)
 ![vaskur](/img/Vaskur.png)
-*Vaskurinn*
 
 1. Bursta tennurnar - (Brush one's teeth)
 2. Skrúfa frá/fyrir krananum/kranann - (Turn the sink off/in)
