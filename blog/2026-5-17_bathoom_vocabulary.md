@@ -7,6 +7,8 @@ tags: [vocabulary]
 
 This post will discuss the essential vocabulary related to the bathroom. 
 
+<!-- truncate -->
+
 The following vocabulary compilation is, of course, incomplete, but it should cover most bathroom situations.
 
 ## Items
