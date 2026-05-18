@@ -9,7 +9,22 @@ This post will discuss the essential vocabulary related to the bathroom.
 
 The following vocabulary compilation is, of course, incomplete, but it should cover most bathroom situations.
 
-## Toilet (Klósett)
+## Items
+1. Tannbursti - (Tooth brush)
+2. Handklæði - (Towel)
+3. Baðmotta - (Bath rug) 
+4. Rakvél - (Shaver) 
+5. Greiða - (Comb)
+6. Bursti - (Brush)
+7. Naglaklippur - (Nail clippers) 
+8. Rakakrem - (Moisturizer cream)
+9. Svitarlyktareyðir - (Deodorant)
+
+   
+## Phrases
+The following phrases are commonly used throughout the bathroom.
+
+### Toilet (Klósett)
 ![klosett](/img/klosett.png)
 
 1. Fara á klósettið - (Go to the bathroom/Go on the toilet) 
@@ -22,7 +37,7 @@ The following vocabulary compilation is, of course, incomplete, but it should co
 *Note: The word "salerni" is also used for "toilet." It can also be used in the proceeding compounds instead of "klosett."*
 
 
-## Shower (Sturta)
+### Shower (Sturta)
 ![sturta](/img/sturta.png)
 
 1. Fara í bað/sturtu - (Take a bath/shower)
@@ -34,7 +49,7 @@ The following vocabulary compilation is, of course, incomplete, but it should co
 7. Raka á sér fæturna - (Shave legs)
 
 
-## Sink (Vaskur)
+### Sink (Vaskur)
 ![vaskur](/img/vaskur.png)
 
 1. Bursta tennurnar - (Brush one's teeth)
@@ -46,3 +61,6 @@ The following vocabulary compilation is, of course, incomplete, but it should co
 7. Setja í sig linsur - (Put on contact lenses)
 7. Taka úr sér linsurnar - (Take one's contact lenses out)
 8. Greiða á sér hárið - (Comb one's hair)
+9. Setja á sig svitalyktareyði - (Put on deoderant)
+10. Klippa á sér neglurnar - (Cut one's nails)
+
