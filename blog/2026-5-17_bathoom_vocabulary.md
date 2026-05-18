@@ -37,7 +37,7 @@ This post will discuss the essential vocabulary related to the bathroom.
 
 
 ## Sink
-![vaskur](/img/vaskur.png)
+![vaskur](/img/Vaskur.png)
 *Vaskurinn*
 
 1. Bursta tennurnar - (Brush one's teeth)
