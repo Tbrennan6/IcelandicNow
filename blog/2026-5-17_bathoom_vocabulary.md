@@ -10,15 +10,16 @@ This post will discuss the essential vocabulary related to the bathroom.
 The following vocabulary compilation is, of course, incomplete, but it should cover most bathroom situations.
 
 ## Items
-1. Tannbursti - (Tooth brush)
-2. Handklæði - (Towel)
-3. Baðmotta - (Bath rug) 
-4. Rakvél - (Shaver) 
-5. Greiða - (Comb)
-6. Bursti - (Brush)
-7. Naglaklippur - (Nail clippers) 
-8. Rakakrem - (Moisturizer cream)
-9. Svitarlyktareyðir - (Deodorant)
+1. Tannbursti - (Toothbrush)
+2. Tannkrem - (Toothpaste) 
+3. Handklæði - (Towel)
+4. Baðmotta - (Bath rug) 
+5. Rakvél - (Shaver) 
+6. Greiða - (Comb)
+7. Bursti - (Brush)
+8. Naglaklippur - (Nail clippers) 
+9. Rakakrem - (Moisturizer cream)
+10. Svitarlyktareyðir - (Deodorant)
 
    
 ## Phrases
