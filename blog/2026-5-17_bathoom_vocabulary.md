@@ -35,7 +35,7 @@ The following vocabulary compilation is, of course, incomplete, but it should co
 
 
 ## Sink (Vaskur)
-![vaskur](/img/Vaskur.png)
+![vaskur](/img/vaskur.png)
 
 1. Bursta tennurnar - (Brush one's teeth)
 2. Skrúfa frá/fyrir krananum/kranann - (Turn the sink off/in)
