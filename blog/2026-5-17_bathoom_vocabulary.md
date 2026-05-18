@@ -7,8 +7,6 @@ tags: [vocabulary]
 
 This post will discuss the essential vocabulary related to the bathroom. 
 
-## General 
-
 ## Toilet
 ![klosett](/img/klosett.png)
 *Klósettið*
@@ -48,3 +46,4 @@ This post will discuss the essential vocabulary related to the bathroom.
 6. Mála/farða sig - (Apply makeup)
 7. Setja í sig linsur - (Put on contact lenses)
 7. Taka úr sér linsur sínar - (Take one's contact lenses out)
+8. Greiða hárið - (Comb one's hair)
