@@ -28,9 +28,9 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 |  	| **This** 	| **Every** 	| **During the** 	| **In general** 	|
 |---	|---	|---	|---	|---	|
 | **Daytime** 	| í dag 	| á hverjum degi 	| að degi til 	| á daginn 	|
-| **Morning** 	| í morgun 	| á morgnana 	| að morgni dags 	| á morgnana<br>um morguninn 	|
-| **Evening** 	| í kvöld 	| á kvöldin 	| að kvöldi dags 	| á kvöldin<br>um kvöld 	|
-| **Night** 	| í nótt 	| á næturnar<br>um nætur 	| að nóttu til 	| á nótunni<br>um nætur 	|
+| **Morning** 	| í morgun 	| á morgnana 	| að morgni dags 	| á morgnana <br> um morguninn 	|
+| **Evening** 	| í kvöld 	| á kvöldin 	| að kvöldi dags 	| á kvöldin <br> um kvöld 	|
+| **Night** 	| í nótt 	| á næturnar <br> um nætur 	| að nóttu til 	| á nótunni <br> um nætur 	|
 
 *Note: "Day" and "dagur" are both used to refer to both the 24-hour sun cycle, and simply the time when the sun is out. These meanings overlap, but the chart covers the second in particular. 
 
@@ -52,9 +52,9 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 
 |  	| **Two ago** 	| **Last** 	| **Next** 	| **In two** 	|
 |---	|---	|---	|---	|---	|
-|**Day** 	| Í fyrradag 	| Í gær 	| Á morgun 	| Hinn daginn<br>Ekki á morgun heldur hinn 	|
-| **Week** 	| Í þarsíðustu víku 	| Í síðustu viku<br>Í vikunni sem leið 	| Í næstu viku 	| Í þarnæstu viku 	|
-| **Month** 	| Í þarsíðasta mánuði 	| Í síðasta mánuði<br>Í mánuðinum sem leið 	| Í næsta mánuði 	| Í þarnæsta mánuði 	|
+|**Day** 	| Í fyrradag 	| Í gær 	| Á morgun 	| Hinn daginn <br> Ekki á morgun heldur hinn 	|
+| **Week** 	| Í þarsíðustu víku 	| Í síðustu viku <br> Í vikunni sem leið 	| Í næstu viku 	| Í þarnæstu viku 	|
+| **Month** 	| Í þarsíðasta mánuði 	| Í síðasta mánuði <br> Í mánuðinum sem leið 	| Í næsta mánuði 	| Í þarnæsta mánuði 	|
 | **Year** 	| Á þarsíðasta ári <br> Í hittífyrra 	| Í fyrra 	| Á næsta ári 	| Á þarnæsta ári 	|
 
 ## Others
