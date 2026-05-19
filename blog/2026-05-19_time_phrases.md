@@ -32,7 +32,7 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 | **Evening** 	| í kvöld 	| á kvöldin 	| að kvöldi dags 	| á kvöldin <br/> um kvöld 	|
 | **Night** 	| í nótt 	| á næturnar <br/> um nætur 	| að nóttu til 	| á nótunni <br/> um nætur 	|
 
-*Note: "Day" and "dagur" are both used to refer to both the 24-hour sun cycle, and simply the time when the sun is out. These meanings overlap, but the chart covers the second in particular. 
+*Note: "Day" and "dagur" are both used to refer to both the 24-hour sun cycle, and simply the time when the sun is out. These meanings overlap, but the chart covers the second in particular.*
 
 
 |  	| **Two ago** 	| **Last** 	| **Next** 	| **In two** 	|
