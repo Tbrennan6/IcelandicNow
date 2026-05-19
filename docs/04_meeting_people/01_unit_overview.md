@@ -10,14 +10,14 @@ Welcome to the second unit! This unit is designed to teach you to introduce your
 - how cases are represented in declension tables
 - how many cases exist in Icelandic grammar
 - the names of the cases in Icelandic
-- the difference between a subjct and an object
+- the difference between a subject and an object
 - what case steering is
 - what cases subjects and objects are typically on
 - how verbs control the case of their objects
 - the most common greetings in Icelandic
 - what greetings are used depending on the time of day
 - what greetings are used depending on formality
-- how greetings change depending on person and pluality
+- how greetings change depending on person and number
 - the most common ways to say goodbye
 - how to tell somebody my name 
 - how to tell somebody where I am from
