@@ -8,11 +8,45 @@ While the idea of conjugation and inflection may seem intimidating and confusing
 ## What Is A Conjugation Chart?
 Conjugation charts are the standard way in which the different forms of a verb are displayed. These charts can be organized by different characteristics, but the standard way to organize them is by *person* and *plurality*, with one chart for the present tense and one chart for the past tense.  
 
-| pres. bake | **Sing.** | **Plur.** |
-|------------|-----------|-----------|
-| **1st.**   | bake      | bake      |
-| **2nd.**   | bake      | bake      |
-| **3rd.**   | bakes     | bake      |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-c3ow" colspan="3">present: að baka</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-fymr"></td>
+    <td class="tg-fymr">Singular</td>
+    <td class="tg-fymr">Plural</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">1st.</td>
+    <td class="tg-0pky">bake</td>
+    <td class="tg-0pky">bake</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">2nd.</td>
+    <td class="tg-0pky">bake</td>
+    <td class="tg-0pky">bake</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">3rd.</td>
+    <td class="tg-0lax">bakes</td>
+    <td class="tg-0lax">bake</td>
+  </tr>
+</tbody>
+</table>
 
 | past bake | **Sing.** | **Plur.** |
 |-----------|-----------|-----------|
