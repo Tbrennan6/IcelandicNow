@@ -10,6 +10,10 @@ This post will discuss the most common Icelandic time phrases.
 
 <!-- truncate -->
 
+<font color="red">
+This page is a work in progress!
+</font>
+
 One of the hardest and most frustrating aspects of learning Icelandic is learning time phrases. That is because there are dozens of times, and they are often illogical and singular. However, with some dedicated study, patterns emerge that make them much easier to understand. 
 
 ## Columns 
