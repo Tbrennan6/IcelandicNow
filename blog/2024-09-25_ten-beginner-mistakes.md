@@ -5,7 +5,7 @@ authors: [tbrennan]
 tags: [toppost, grammar, faq]
 ---
 
-This post will discuss and remedy ten common beginner Icelandic mistakes.
+This post will discuss and correct ten common beginner mistakes in Icelandic.
 
 <!-- truncate -->
 
@@ -16,7 +16,7 @@ This first mistake is the lowest on the list, but given how common it is, it may
 
 <!-- truncate -->
 
-The complacation is that it is wrong in some cases but not others, which begs questions about the subjunctive that many new learners aren't quite ready to tackle. We'll avoid a more thorough discussion of the subjunctive here as well, as it's beyond the scope of the post.
+The complication is that it is wrong in some cases but not others, which begs questions about the subjunctive that many new learners aren't quite ready to tackle. We'll avoid a more thorough discussion of the subjunctive here as well, as it's beyond the scope of the post.
 
 The error happens when new speakers try to chain using the verb *að vilja*.
 
@@ -35,7 +35,7 @@ Example 1 Ég vil gera þetta!\
 Example 2: Viltu sjá?
 
 ## 9. Capitalizing days and languages
-This one is straightforward. In English, days of the week and languages are always capitalized. In Icelandic, they are only capitalized if they are the first word of a sentence,just like with any other word.
+This one is straightforward. In English, days of the week and languages are always capitalized. In Icelandic, they are capitalized only if they are the first word of a sentence, just like any other word.
 
 <font color="red">
 Example 1: Ég er að læra **Í**slensku.\
@@ -48,7 +48,7 @@ Example 2: Ég fór í bankann á **m**ánudaginn.
 ## 8. Not declining proper names
 While most Icelandic learners know that nouns decline, many new learners are surprised to learn that proper nouns decline, too. As a general rule, most foreign names do not decline, except for names that end in *-a*, which typically follow the female-weak pattern.
 
-The big exception is for genetive, where most names will add an *-s*.
+The big exception is for genitive, where most names will add an *-s*.
 
 *Note: If a first and a last name are mentioned, both will decline. The exception to this rule is that foreign names with both a first and family name mentioned do not decline the family name in formal settings. This is only a formal rule. In daily speech, people will decline both names.*
 
@@ -64,9 +64,9 @@ Example 3a: Biden var varaforseti Barack**s** Obama.\
 Example 3b: Biden var varaforseti Obama**s**.
 
 ## 7. Using adjectives instead of adverbs
-This mistake is common for English natives who try to directly translate from English.
+This mistake is common among native English speakers who try to translate directly from English.
 
-English is more flexible when it comes to using adjectives as adverbs. Consider the following sentence: "I did good on the test." This sentence is natural in English, but its direct Icelandic translation would be plainly incorrect.
+English is more flexible when it comes to using adjectives as adverbs. Consider the following sentence: "I did good on the test." This sentence is natural in English, but its direct translation into Icelandic would be plainly incorrect.
 
 <font color="red">
 Example: Mér gekk **gott** í prófinu.
@@ -77,7 +77,7 @@ The problem is that *gott* is an adjective, and adjectives have to modify nouns.
 Example: Mér gekk **vel** í prófinu.
 
 ## 6. Misusing *á*, *í*, and *til*
-Beginners often don't realize that prepositions do not translate between languages very well at all, so they use the "same" prepositions across langauges. As a result, when it comes to talking about locations in Icelandic, many beginners use prepositions incorrectly.
+Beginners often don't realize that prepositions do not translate between languages very well at all, so they use the "same" prepositions across languages. As a result, when it comes to talking about locations in Icelandic, many beginners use prepositions incorrectly.
 
 <font color="red">
 Example 1: Ég fer **til** bankans.\
@@ -87,7 +87,7 @@ Example 3: Ég er **í** Íslandi.
 
 Just like how people typically say that they are "**on** a train" but "**in** a car," Icelandic switches between *á* and *í* when referring to being located at different places. What makes Icelandic a little more confusing is that this same preposition is used when going to that location as well.
 
-To tell the difference between "*going to*" and "*being at*" a location, you need to examine the verb of the sentence. Also, for the to meaning, the location with be in the accusative, while it will be dative for the at meaning.
+To tell the difference between "*going to*" and "*being at*" a location, you need to examine the verb of the sentence. Also, for the to meaning, the location will be in the accusative, while it will be dative for the at meaning.
 
 Example 1: Ég **fer í** bank**ann**.\
 Example 1: Ég **er í** bank**anum**.
@@ -121,7 +121,7 @@ Example 1: Í dag ég **fór** í bankann.
 </font>
 Example 1: Í dag **fór** ég í bankann.
 
-There is one main exception. In English, many question types contain the meaningless word do or does to signify that the words following form a question, but Icelandic (and every other language in the world except for Gaelic languages) does not. Instead, Germanic languages invert, putting the verb in the first position instead of the noun.
+There is one main exception. In English, many questions contain the meaningless word *do* or *does* to signify that the words following form a question, but Icelandic (and every other language in the world except for Gaelic languages) does not. Instead, Germanic languages invert, placing the verb first rather than the noun.
 
 Example 2: Þú **vil**t sjá. -> **Vil**tu sjá?\
 Example 3: Hann **getur** ekki. - **Getur** hann ekki?
@@ -141,9 +141,9 @@ Example 2: **Mig dreymdi** að ég væri fiskur.
 
 
 ## 2. No supine/sagnbót
-In a similar vein as #10, this common mistake is an exception when chaining verbs.
+In a similar vein to #10, this common mistake is an exception when chaining verbs.
 
-When you are using *að geta* or *að hafa* as chaining verbs, the verb that immediately follows it needs to be in the **supine** form. In Icelandic, this form is known as the **sagnbót**. Many beginners do not know about these forms or that they are required after these previously mentioned verbs and use a normal or bare infinitive instead.
+When you are using *að geta* or *að hafa* as chaining verbs, the verb that immediately follows it needs to be in the **supine** form. In Icelandic, this form is known as the **sagnbót**. Many beginners do not know about these forms or that they are required after the previously mentioned verbs, and use a normal or bare infinitive instead.
 
 <font color="red">
 Example 1: Ég get **að gera** það!\
@@ -158,9 +158,9 @@ Example 2: Hefurðu **séð** það?
 ## 1. Not inflecting
 The top mistake had to be related to inflection, the bane of every Icelandic learner's experience.
 
-I mention not inflecting here instead of inflecting incorrectly because not inflecting is more of a true mistake. Most of the time, if someone does not inflect their words at all, it's because they don't know that they should; that is a true mistake. If someone inflects incorrectly, it's because they know that they should, but they simply do so incorrectly; this is more akin to a practice error.
+I mention not inflecting here instead of inflecting incorrectly because not inflecting is more of a true mistake. Most of the time, if someone doesn't inflect their words at all, it's because they don't know they should; that is a genuine mistake. If someone inflects incorrectly, it's because they know that they should, but they simply do so incorrectly; this is more akin to a practice error.
 
-Learners coming from a language with little to no inflection, like English, often do not realize that Icelandic changes nearly all of its words based on the grammatical context that that word is acting in. As a result, they just use the words they see in one context freely in the next and make sentences like the following:
+Learners coming from a language with little to no inflection, like English, often do not realize that Icelandic changes nearly all of its words based on the grammatical context in which that word is used. As a result, they just use the words they see in one context freely in the next and make sentences like the following:
 
 <font color="red">
 Example: Ég k**unna** íslensk**a**!
