@@ -19,31 +19,31 @@ Adjectives can appear in one of two ways: strong and weak. This strong/weak dico
 
 
 ## Strong Adjective Forms
-|          | **Masc.** | **Fem.**  | **Neut.** |
+|    sg.      | **Masc.** | **Fem.**  | **Neut.** |
 |----------|-----------|-----------|-----------|
 | **Nom.** | -ur, -n   | Ö         | -t        |
 | **Acc.** | -an       | -a        | -t        |
 | **Dat.** | -um       | -ri, -ni  | -u        |
 | **Gen.** | -s        | -rar,-nar | -s        |
 
-|          | **Masc.** | **Fem.** | **Neut.** |
+|   pl.       | **Masc.** | **Fem.** | **Neut.** |
 |----------|-----------|----------|-----------|
 | **Nom.** | -ir       | -ar      | Ö         |
 | **Acc.** | -a        | -ar      | Ö         |
 | **Dat.** | -um       | -um      | -um       |
 | **Gen.** | -ra, -na  | -ra, -na | -ra, -na  |
 
-*Tip:Be aware of the possibility of syncope occuring in the endings.*
+*Tip: Be aware of the possibility of syncope occurring in the endings.*
 
 *Note: The second pattern is for nouns ending "-nn"*. 
 
 Strong adjectives are used descriptively with indefinite nouns.
 
 Example 1: Sterkur hestur borðar epli. - (A strong horse eats apples.)\
-Example 2: Falleg kona talar íslensku. - (I pretty woman speaks Icelandic.)\
+Example 2: Falleg kona talar íslensku. - (A pretty woman speaks Icelandic.)\
 Example 3: Ég þekki góðan lækni. - (I know a good doctor.)
 
-Strong adjectives are also used predicatively with all nominals. Typically, the seperating verb is *að vera*. 
+Strong adjectives are also used predicatively with all nominals. Typically, the separating verb is *að vera*. 
 
 Example 1: Jón er sterkur. - (Jón is strong.)\
 Example 2: Hún er hreinn. - (She is clean)\
@@ -51,21 +51,21 @@ Example 3: Apinn er ekki hreinn. - (The monkey is not clean.)
 
 ### Weak Adjective Forms
 
-|          | **Masc.** | **Fem.** | **Neut.** |
+|     sg.     | **Masc.** | **Fem.** | **Neut.** |
 |----------|-----------|----------|-----------|
 | **Nom.** | -i        | -a       | -a        |
 | **Acc.** | -a        | -u       | -a        |
 | **Dat.** | -a        | -u       | -a        |
 | **Gen.** | -a        | -u       | -a        |
 
-|          | **Masc.** | **Fem.** | **Neut.** |
+|      pl.    | **Masc.** | **Fem.** | **Neut.** |
 |----------|-----------|----------|-----------|
 | **Nom.** | -u        | -u       | -u        |
 | **Acc.** | -u        | -u       | -u        |
 | **Dat.** | -u        | -u       | -u        |
 | **Gen.** | -u        | -u       | -u        |
 
-The singular pattern here shoud look extremely familiar! Weak adjectives in the sinuglar follow the same pattern as weak nouns! Also, the plural only has one form. 
+The singular pattern here should look extremely familiar! Weak adjectives in the singular follow the same pattern as weak nouns! Also, the plural only has one form. 
 
 Weak forms are used descriptively with definite nouns. 
 
@@ -73,4 +73,4 @@ Example 1: Sterki hesturinn borðar epli. - (The strong horse eats apples.)\
 Example 2: Fallega konan talar íslensku. - (The pretty woman speaks Icelandic.)\
 Example 3: Ég þekki góða lækninn. - (I know the good doctor.)
 
-*Tip: Becuase the plurals all end with -u, if your English sentence has "The (adjectices) (noun)s", then you can be confident that your adjectice will end un a -u.*
+*Tip: Because the plurals all end with -u, if your English sentence has "The (adjectices) (noun)s", then you can be confident that your adjective will end in -u.*
