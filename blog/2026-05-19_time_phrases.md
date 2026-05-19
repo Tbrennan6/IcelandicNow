@@ -14,11 +14,10 @@ One of the hardest and most frustrating aspects of learning Icelandic is learnin
 
 
 ## Master chart
-
-## Times of the Day
-|             | **Last (before today)** | **This** | **Next (after today)** | **Every**           | **During the** | **In general**          | **Next after next** | **Two ago**   |
-|-------------|-------------------------|----------|------------------------|---------------------|----------------|-------------------------|---------------------|---------------|
-| **Daytime** | í gær(dag)              | í dag    | á morgun               | á hverjum degi      | að degi til    | á daginn                |          -          | í fyrradag    |
-| **Morning** | í gærmorguninn          | í morgun | í fyrramálið           | á morgnana          | að morgni dags | á morgnana um morguninn |          -          | í fyrrimorgun |
-| **Evening** | í gærkvöldi             | í kvöld  | annað kvöld            | á kvöldin           | að kvöldi dags | á kvöldin um kvöld      |          -          | í fyrrakvöld  |
-| **Night**   | í nótt (sem leið)       | í nótt   | í nótt                 | á næturnar um nætur | að nóttu til   | á nótunni um nætur      |          -          | í fyrrinótt   |
+## Times of the day
+|             	| **Last (before today)** 	| **This** 	| **Next (after today)** 	| **Every**               	| **During the** 	| **In general**              	| **Next after next** 	| **Two ago**   	|
+|-------------	|-------------------------	|----------	|------------------------	|-------------------------	|----------------	|-----------------------------	|---------------------	|---------------	|
+| **Daytime** 	| í gær(dag)              	| í dag    	| á morgun               	| á hverjum degi          	| að degi til    	| á daginn                    	|          -          	| í fyrradag    	|
+| **Morning** 	| í gærmorguninn          	| í morgun 	| í fyrramálið           	| á morgnana              	| að morgni dags 	| á morgnana,<br>um morguninn 	|          -          	| í fyrrimorgun 	|
+| **Evening** 	| í gærkvöldi             	| í kvöld  	| annað kvöld            	| á kvöldin               	| að kvöldi dags 	| á kvöldin,<br>um kvöld      	|          -          	| í fyrrakvöld  	|
+| **Night**   	| í nótt (sem leið)       	| í nótt   	| í nótt                 	| á næturnar,<br>um nætur 	| að nóttu til   	| á nótunni<br>um nætur       	|          -          	| í fyrrinótt   	|
