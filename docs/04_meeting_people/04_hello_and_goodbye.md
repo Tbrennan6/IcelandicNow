@@ -29,20 +29,20 @@ Person 2: Daginn. - (Good day.)
 Person 1: Gott kvöld. - (Good evening.)\
 Person 2: Kvöldið. - (Good evening.)
 
-*Note 1:  While saying "good day" or "good evening" to somebody in English can be a little stilted and overly formal, this is not the case in Icelandic. Saying "góðan daginn" and its equivalents is very typical and normal sounding.*
+*Note 1:  While saying "good day" or "good evening" to somebody in English can be a little stilted and overly formal, this is not the case in Icelandic. Saying "góðan daginn" and its equivalents is very typical and normal-sounding.*
 
 *Note 2: Icelandic does not have a comfortable translation for "good morning." For this purpose, "góðan daginn" is used.*
 
 ## Formality Sensitive Greetings
-Icelandic greetings can also depend on formality. This happens in English as well. For instance, if you are talking with a superior at work or an older person in general, it would be common and respectful to use a more formal greeting than one you would use with your friends. You wouldn't, usually, say *wazzup* to your great-grandma or a company representative in a business meeting. Instead, you may choose to say something more formal, such as *hello*.
+Icelandic greetings can also depend on the level of formality. This happens in English as well. For instance, if you are talking with a superior at work or an older person in general, it is common and respectful to use a more formal greeting than you would with your friends. You wouldn't, usually, say *wazzup* to your great-grandma or a company representative in a business meeting. Instead, you may choose to say something more formal, such as *hello*.
  
 In Icelandic, a very formal and polite  greeting is *komdu sæll og blessaður*.
 
 This phrase is very, very polite. Literally, it  means *come healthy and blessed.* It is often shortened in greetings to *komdu sæll,* *sæll og blessaður,* or most commonly simply *sæll* or *blessaður.* The general rule is that the longer the phrase, the more polite and formal it is. 
 
-If you’re speaking to an older person for the first time, using the entire phrase would be more appropriate. If you are talking with a coworker, just *sæll* or *blessaður* is probably more appropriate. Using the whole phrase with a young person or a friend would be seen as strange and is sometimes done for comedic effect. 
+If you’re speaking to an older person for the first time, using the entire phrase would be more appropriate. If you are talking with a coworker, just *sæll* or *blessaður* is probably more appropriate. Using the whole phrase with a young person or a friend is often seen as strange and is sometimes used for comedic effect. 
 
-Breaking it down, the phrase *komdu sæll og blessaður* makes use of two adjectives: *sæll* and *blessaður*. Getting a little ahead of ourselves, these adjectives must match the gender identity and number of the party or parties being addressed. As a result, you must use the forms of the adjectives that match who you are greeting. This holds for shortened forms as well. Below, see the forms that are approprite to use for each potential audience. Notice how both adjectives change depending on who is addressed. 
+Breaking it down, the phrase *komdu sæll og blessaður* makes use of two adjectives: *sæll* and *blessaður*. Getting a little ahead of ourselves, these adjectives must match the gender identity and number of the party or parties being addressed. As a result, you must use the forms of the adjectives that match who you are greeting. This holds for shortened forms as well. Below, see the forms that are appropriate to use for each potential audience. Notice how both adjectives change depending on who is addressed. 
 
 |              | **Masculine**      | **Feminine**       | **Neuter**      |
 |--------------|--------------------|--------------------|-----------------|
