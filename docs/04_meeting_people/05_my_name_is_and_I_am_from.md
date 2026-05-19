@@ -8,7 +8,7 @@ After meeting somebody and saying hello for the first time, it is very common to
 ## My Name Is 
 In Icelandic, the most common way to tell somebody your name is to use the verb *að heita*. English is a bit strange in the because it does not have a verb that translates directly to *að heita*. Instead, awkward phrases such as *My name is...* or *I am called...* fill in this gap. In Icelandic, you can simply use the verb.
 
-| **Pres. heita** | **Sing.** | **Plur.** |
+| **Pres. heita** | **Sg.** | **Pl.** |
 |-----------------|-----------|-----------|
 | **1st.**        | heiti     | heitum    |
 | **2nd.**        | heitir    | heitið    |
