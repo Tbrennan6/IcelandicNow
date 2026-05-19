@@ -31,7 +31,7 @@
 
 table {
   display: table;
-    width: initial;
+    width: auto;
     margin-top: 0;
     margin-bottom: 10;
     margin-left: 0;
