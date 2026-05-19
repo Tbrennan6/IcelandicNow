@@ -45,27 +45,27 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 ## Days, weeks, and years
 |  	| This 	| Every 	| During the  	| In general 	|
 |---	|---	|---	|---	|---	|
-| Day 	| Í dag 	| Á hverjum degi 	| - 	| - 	|
-| Week 	| Í vikunni 	| Í hverri viku 	| - 	| - 	|
-| Month 	| Í mánuðinum <br/> Í þessum mánuði 	| Í hverjum mánuði 	| - 	| - 	|
-| Year 	| Í ár 	| Á hverju árí 	| - 	| - 	|
+| Day 	| í dag 	| á hverjum degi 	| - 	| - 	|
+| Week 	| í vikunni 	| í hverri viku 	| - 	| - 	|
+| Month 	| í mánuðinum <br/> í þessum mánuði 	| í hverjum mánuði 	| - 	| - 	|
+| Year 	| í ár 	| á hverju árí 	| - 	| - 	|
 
 |  	| **Two ago** 	| **Last** 	| **Next** 	| **In two** 	|
 |---	|---	|---	|---	|---	|
-|**Day** 	| Í fyrradag 	| Í gær 	| Á morgun 	| Hinn daginn <br/> Ekki á morgun heldur hinn 	|
-| **Week** 	| Í þarsíðustu víku 	| Í síðustu viku <br/> Í vikunni sem leið 	| Í næstu viku 	| Í þarnæstu viku 	|
-| **Month** 	| Í þarsíðasta mánuði 	| Í síðasta mánuði <br/> Í mánuðinum sem leið 	| Í næsta mánuði 	| Í þarnæsta mánuði 	|
-| **Year** 	| Á þarsíðasta ári <br/> Í hittífyrra 	| Í fyrra 	| Á næsta ári 	| Á þarnæsta ári 	|
+|**Day** 	| í fyrradag 	| í gær 	| á morgun 	| hinn daginn <br/> Ekki á morgun heldur hinn 	|
+| **Week** 	| í þarsíðustu víku 	| í síðustu viku <br/> í vikunni sem leið 	| í næstu viku 	| í þarnæstu viku 	|
+| **Month** 	| í þarsíðasta mánuði 	| í síðasta mánuði <br/> í mánuðinum sem leið 	| í næsta mánuði 	| í þarnæsta mánuði 	|
+| **Year** 	| á þarsíðasta ári <br/> í hittífyrra 	| í fyrra 	| á næsta ári 	| á þarnæsta ári 	|
 
 ## Others
 |  	| This 	| Every 	| During the  	| In general 	|
 |---	|---	|---	|---	|---	|
-| **Day of the week** 	| Í dag 	| Á []dögum 	| - 	| Á []deginum<br/>Á []dögum 	|
-|**Weekend** 	| Í vikunni 	| Um helgar 	| - 	| Um helgar 	|
-| **Season** 	| Í mánuðinum <br/> Í þessum mánuði 	| Á [] 	| - 	| Á [] 	|
+| **Day of the week** 	| í dag 	| á []dögum 	| - 	| á []deginum<br/>á []dögum 	|
+|**Weekend** 	| í vikunni 	| um helgar 	| - 	| um helgar 	|
+| **Season** 	| í mánuðinum <br/> í þessum mánuði 	| á [] 	| - 	| á [] 	|
 
 |  	| **Two ago** 	| **Last** 	| **Next** 	| **In two** 	|
 |---	|---	|---	|---	|---	|
-| **Day of the week** 	| Þarsíðasta []dag 	| Siðasta []daginn 	| Næsta []dag 	| Þarsíðasta []dag 	|
-| **Weekend** 	| Um þarsíðustu helgi 	| (Um) síðustu helgi 	| (Um) næstu helgi 	| Um þarsíðustu helgi 	|
-| **Season** 	| Á þarsíðasta [] 	| Síðasta [] 	| Næsta [] 	| Á þarsíðasta [] 	|
+| **Day of the week** 	| þarsíðasta []dag 	| siðasta []daginn 	| næsta []dag 	| þarsíðasta []dag 	|
+| **Weekend** 	| um þarsíðustu helgi 	| (um) síðustu helgi 	| (um) næstu helgi 	| um þarsíðustu helgi 	|
+| **Season** 	| á þarsíðasta [] 	| síðasta [] 	| næsta [] 	| á þarsíðasta [] 	|
