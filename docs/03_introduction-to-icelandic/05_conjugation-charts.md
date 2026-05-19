@@ -6,66 +6,32 @@ title: Conjugation Charts
 While the idea of conjugation and inflection may seem intimidating and confusing at first, fear not! Tools, patterns, and mental shortcuts are available that can help you memorize and internalize the ideas behind inflection. 
 
 ## What Is A Conjugation Chart?
-Conjugation charts are the standard way in which the different forms of a verb are displayed. These charts can be organized by different characteristics, but the standard way to organize them is by *person* and *plurality*, with one chart for the present tense and one chart for the past tense.  
+Conjugation charts are the standard way in which the different forms of a verb are displayed. These charts can be organized by various characteristics, but the standard way is by *person* and *number*, with one chart for the present tense and one for the past tense.  
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-c3ow" colspan="3">present: að baka</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-fymr"></td>
-    <td class="tg-fymr">Singular</td>
-    <td class="tg-fymr">Plural</td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">1st.</td>
-    <td class="tg-0pky">bake</td>
-    <td class="tg-0pky">bake</td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">2nd.</td>
-    <td class="tg-0pky">bake</td>
-    <td class="tg-0pky">bake</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">3rd.</td>
-    <td class="tg-0lax">bakes</td>
-    <td class="tg-0lax">bake</td>
-  </tr>
-</tbody>
-</table>
+| **pres.** | **Sg.** | **Pl.** |
+|-----------|---------|---------|
+| **1st.**  | bake    | bake    |
+| **2nd.**  | bake    | bake    |
+| **3rd.**  | bakes   | bake    |
 
-| past bake | **Sing.** | **Plur.** |
-|-----------|-----------|-----------|
-| **1st.**  | baked     | baked     |
-| **2nd.**  | baked     | baked     |
-| **3rd.**  | baked     | baked     |
+| **past.** | **Sg.** | **Pl.** |
+|-----------|---------|---------|
+| **1st.**  | baked   | baked   |
+| **2nd.**  | baked   | baked   |
+| **3rd.**  | baked   | baked   |
 
 *Note: Verbs also inflect differently depending on mood, voice, personal or impersonal usage, and more. Different charts can be used to reflect these characteristics, too. These additional aspects are not addressed further in this course because they are not important for the beginner to know and would become unduly complicated.* 
 
 ## The Elements Of A Conjugation Chart 
-Person and plurality refer to how close the subject of the verb is to the person creating the sentence and whether that subject is a single item or multiple. It may help to see the English subject pronouns plugged into a conjugation chart. 
+Person and number refer to how close the subject of the verb is to the person creating the sentence and whether that subject is a single item or multiple. It may help to see the English subject pronouns plugged into a conjugation chart. 
 
-| subjects | **Sing.**  | **Plur.**   |
-|----------|------------|-------------|
-| **1st.** | I          | we / við    |
-| **2nd.** | you        | y'all / þið |
+|          | **Sg.**   | **Pl.**     |
+|----------|-----------|-------------|
+| **1st.** | I / ég    | we / við    |
+| **2nd.** | you / þú  | y'all / þið |
 | **3rd.** | he* / hann* | they / þeir* |
 
-The subjects *I* and *we* are both first person because they are as close to the speaker as possible. When you use *I* or *we*, you are referring to an action that you or a group including yourself did. The subjects *you* and *y'all* are the next level away. You use them when you are directly addressing somebody or a group. You are not included, but you are direclty addressing them. The subjects *he* and *they* are the furthest away. When you use them, you are referring to a person or group abstractly. 
+The subjects *I* and *we* are both first person because they are as close to the speaker as possible. When you use *I* or *we*, you are referring to an action that you or a group including yourself did. The subjects *you* and *y'all* are the next level away. You use them when you are directly addressing somebody or a group. You are not included, but you are directly addressing them. The subjects *he* and *they* are the furthest away. When you use them, you are referring to a person or group abstractly. 
 
 *I*, *you*, and *he* are singular because they only refer to one individual. *We*, *y'all*, and *they* are plural because they refer to multiple people. 
 
@@ -78,7 +44,7 @@ Example 1: He bakes. \
 Example 2: She bakes. \
 Example 3: It bakes. \
 Example 4: John bakes. \
-Example 5: The Eifel Tower bakes. 
+Example 5: The Eiffel Tower bakes. 
 
 The same is true of the word *hann* (he). It could be replaced with any other singular noun in Icelandic, and the accompanying conjugation for that word as a subject would be correct.
 
@@ -98,7 +64,7 @@ Example 4: Tölva og köttur baka. - (A computer and a cat bake.)
 
 The twist is that similar to how English has *he*, *she*, and *it* depending on whether the gender of the thing referred to is masculine, feminine, or neuter, Icelandic has three versions of the word they depending on the gender of the things referred to: *þeir*, *þær*, and *þau*. 
 
-Essentially, you can think of these are plural versions of *hann*, *hún*, or *það*. Put another way, if the *they* in the sentence is made up of two *hann*s, use *þeir*. If it is made up of two *hún*s, use *þær*. If it is made up of two or more *það*s, or a mixture of two or more genders, use *þau*. Below, find this explained in a chart. 
+Essentially, you can think of these as plural versions of *hann*, *hún*, or *það*. Put another way, if the *they* in the sentence is made up of two *hann*s, use *þeir*. If it is made up of two *hún*s, use *þær*. If it is made up of two or more *það*s, or a mixture of two or more genders, use *þau*. Below, find this explained in a chart. 
 
 | This  | And      | Equals |
 |-------|-----------|--------|
@@ -109,7 +75,7 @@ Essentially, you can think of these are plural versions of *hann*, *hún*, or *�
 
 ## Now I Know:
 - how conjugation charts are organized and how to read them
-- what person and plurality refer to
+- what person and number refer to
 - what subject pronouns each cell in a conjugation table refers to
 - that the first person singular and plural sections of the chart can be replaced with other words, and their conjugations would be correct
 - that Icelandic has three versions of *they* and when they are used
