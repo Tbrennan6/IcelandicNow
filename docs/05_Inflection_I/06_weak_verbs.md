@@ -5,14 +5,14 @@ title: Weak Verbs
 
 To this point, we have been exposed to a few different verbs (e.g., *að elska*, *að tala*, *að heita*) and have perhaps started to pick up on how they behave. In this lesson, we are going to drill down a little harder on verb inflections by learning how to inflect weak verbs in both the present and the past!
 
-While many courses and textbooks prefer to teach only one verb type or one tense at a time, we are going to take a different approach and learn all weak verbs in the present and past at the same time. If this is the first time you are studying conjugation, this may seem like a lot of information to take in--and admittedly it is. But there is are reasons to do it this way.
+While many courses and textbooks prefer to teach only one verb type or one tense at a time, we are going to take a different approach and learn all weak verbs in the present and past simultaneously. If this is the first time you are studying conjugation, this may seem like a lot of information to take in--and admittedly, it is. But there are reasons to do it this way.
 
-1. Learning all weak verbs at once helps us categorize them together mentally and gain a greater appreciation for their similarities which will help us memorize how to inflect them.  
-2. The present and past tenses are both extremely common, so knowing only one is sufficatingly limiting. 
+1. Learning all weak verbs at once helps us categorize them together mentally and gain a greater appreciation for their similarities, which will help us memorize how to inflect them.  
+2. The present and past tenses are both extremely common, so knowing only one is sufficiently limiting. 
 3. Seeing and learning both tenses together helps us to internalize the changes between the present and past tenses better!
 
 ## What Are Weak Verbs?
-Previously, we learned what weak nousn are: a certain subset of all nouns that are categorized together because they change their endings in similar ways. The same is true for weak verbs!
+Previously, we learned what weak nouns are: a certain subset of all nouns that are categorized together because they change their endings in similar ways. The same is true for weak verbs!
 
 Weak verbs are the verbs that form their simple past tense by adding a /d/, /t/, or /ð/ sound. In English, every verb that adds **-ed** to form the simple past tense is a weak verb.
 
@@ -25,21 +25,21 @@ While there are many ways to classify verbs, this course will classify Icelandic
 *Note: Similar to noun gender, there is no practical or logical reason why some weak verbs are weak verbs or not, nor is there any reason why they ended up being a-type instead of i-type and so forth.*
 
 ## A-verbs 
-A-verbs are weak verbs that have /a/ as their principle sound and *a* as their principle letter. You will notice that the letter *a* is very prominent throughout the pattern, hence the name. 
+A-verbs are weak verbs that have /a/ as their principal sound and *a* as their principal letter. You will notice that the letter *a* is very prominent throughout the pattern, hence the name. 
 
-| **Pres. A** | **Sing.** | **Plur.** |
+| pres. | **Sg.** | **Pl.** |
 | -------------- | --------- | --------- |
 | **1st.**       | -a        | -um       |
 | **2nd.**       | -ar       | -ið       |
 | **3rd.**       | -ar       | -a        |
 
-| **Past A** | **Sing.** | **Plur.** |
+| **past ** | **Sg.** | **Pl.** |
 | -------------- | --------- | --------- |
 | **1st.**      | -aði      | -uðum     |
 | **2nd.**      | -aðir     | -uðuð     |
 | **3rd.**      | -aði      | -uðu      |
 
-The a-verb pattern is the most common conjugation pattern in Icelandic. In addition, it can be thought of as the default pattern because new words entering Icelandic most often become a-verbs. For example, the verb *to google* did not exist in any language before the Google search engine existed. When the verb *to google* was created in Icelandic, it became an a-verb (e.g., *hann gúglar*).
+The a-verb pattern is the most common conjugation pattern in Icelandic. In addition, it can be considered the default pattern because new words entering Icelandic most often become a-verbs. For example, the verb *to google* did not exist in any language before the Google search engine existed. When the verb *to google* was created in Icelandic, it became an a-verb (e.g., *hann gúglar*).
 
 Below, see the conjugational change from the present to the past tense for the a-verb *að tala*.
 
@@ -55,21 +55,21 @@ Example 6: Þeir tala -> Þeir töluðu
 *Practice: Try inflecting "að gúgla" (to google), "að borða" (to eat), and "að nota"  (to use) on [Íslenzka.is](https://islenzka.is/aefingar/leita.html).*
 
 ## I-verbs
-I-verbs are weak verbs that have /ɪ/ as their principle sound and *i* as their principle letter. You will notice that the letter *i* is very prominent throughout the pattern, hence the name. 
+I-verbs are weak verbs that have /ɪ/ as their principal sound and *i* as their principal letter. You will notice that the letter *i* is very prominent throughout the pattern, hence the name. 
 
-| **Pres. I** | **Sing.** | **Plur.** |
+| **pres.** | **Sg.** | **Pl.** |
 |---------------|-----------|-----------|
 | **1st.**      | -i        | -um       |
 | **2nd.**      | -ir       | -ið       |
 | **3rd.**      | -ir       | -a        |
 
-| **Past I** | **Sing.** | **Plur.** |
+| **past** | **Sg.** | **Pl.** |
 |--------------|-----------|-----------|
 | **1st.**     | -[]i       | -[]um      |
 | **2nd.**     | -[]ir      | -[]uð      |
 | **3rd.**     | -[]i       | -[]u       |
 
-The i-verb conjugation patterns has three possible consonents that could appear throughout the past tense, *d, *t*, or *ð*. In the past tense chart, this differing letter is represented by *[]*. Which of the three ending patterns it will follow is based on what letter or combination of letters ends the verb's stem.
+The i-verb conjugation patterns have three possible consonants that can appear in the past tense: *d, *t*, or *ð*. In the past tense chart, this differing letter is represented by *[]*. Which of the three ending patterns it will follow is based on what letter or combination of letters ends the verb's stem.
 
 *Tip: Remember, the verb stem is the part of the verb that comes before the inflectional ending is added.*
 
@@ -98,13 +98,13 @@ Example 6: Þær reyna -> Þær reyndu
 ## J-verbs
 J-verbs are different in that there is no principal sound. Rather, j-verbs are the weak verbs that have a letter *j* before the *a* in their infinitive form (e.g., að skilja). 
 
-| **Pres. J** | **Sing.** | **Plur.** |
+| **pres.** | **Sg.** | **Pl.** |
 |-------------|-----------|-----------|
 | **1st.**    | -         | -jum      |
 | **2nd.**    | -ur       | -jið      |
 | **3rd.**    | -ur       | -ja       |
 
-| **Past J** | **Sing.** | **Plur.** |
+| **past** | **Sg.** | **Pl.** |
 |--------------|-----------|-----------|
 | **1st.**     | Ö-[]i       | Ö-[]um      |
 | **2nd.**     | Ö-[]ir      | Ö-[]uð      |
@@ -112,7 +112,7 @@ J-verbs are different in that there is no principal sound. Rather, j-verbs are t
 
 In the present tense, j-verbs lose their *j* in the singular, but keep it in the plural. Also notable, they have no ending for the first-person singular. 
 
-In the past tense, j-verbs lose their *j* entirely. Then, have the same three possibilities for endings as i-verbs, ending either *-di*, *-ti*, or *-ði*, depending on the same rules based on the letter or combination of letters before the *-ja*. These verbs will also experience i-umlaut in their past tense forms if one of the changing vowels we learned about last lesson is present in their stems. In the charts, the possibility for umlaut is represented by a capital letter *ö*. For example the verb *að telja* (to count) changes the *e* in its stem to an *a* in the past tense, following the i-umalaut logic. 
+In the past tense, j-verbs lose their *j* entirely. Then, have the same three possibilities for endings as i-verbs, ending either *-di*, *-ti*, or *-ði*, depending on the same rules based on the letter or combination of letters before the *-ja*. These verbs will also experience i-umlaut in their past tense forms if one of the changing vowels we learned about last lesson is present in their stems. In the charts, the possibility for umlaut is represented by a capital letter *ö*. For example, the verb *að telja* (to count) changes the *e* in its stem to an *a* in the past tense, following the i-umlaut logic. 
 
 Below, see the conjugational change from the present to the past tense for the j-verb *að telja*.
 
@@ -123,6 +123,6 @@ Example 4: Við teljum -> Við töldum\
 Example 5: Þið teljið-> Þið tölduð\
 Example 6: Þau telja -> Þær töldu
 
-*Tip: Telja expereinces u-umlaut too. See if you can identify where and why.*
+*Tip: Telja experiences u-umlaut too. See if you can identify where and why.*
 
 *Practice: Try inflecting "að velja" (to choose) and "að skilja" (to understand) using the rules you just learned on [Íslenzka.is](https://islenzka.is/aefingar/leita.html)!*
