@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Introduction to Declension
 ---
 
-Now that you have a basic understanding of conjugation, it is time to learn some basics of declension. Declension is the inflection of nominals, such as nouns. For native English speakers, understanding how declension works is often cited as the hardest aspect of Icelandic grammar to master since there is not a great modern English example or phenomenon to compare it to. As a result, English speakers often quickly feel overwhelmed and have difficulty distinguishing when they should use one form of a word in Icelandic versus when they should be using another.
+Now that you have a basic understanding of conjugation, it is time to learn some basics of declension. Declension is the inflection of nominals, such as nouns. For native English speakers, understanding how declension works is often cited as the hardest aspect of Icelandic grammar to master, since there is no clear modern English example or phenomenon to compare it to. As a result, English speakers often quickly feel overwhelmed and have difficulty distinguishing when to use one form of a word in Icelandic versus another.
 
 ### Pronouns 
 The best way to illustrate declension in English is by using pronouns. Consider the following two sentences. 
@@ -23,9 +23,9 @@ Example 1: **I** bake. \
 Example 2: **She** bakes. \
 Example 3: **We** bake. 
 
-We can group all of the pronouns that fill this niche together into one group called a *case*. 
+We can group all the pronouns that fill this niche into a single group called a *case*. 
 
-These pronouns have separate forms, such as **me**, **her**, and **us**, that represent the same nouns, but these versions can not be the subjects of verbs. Instead, they have to be **objects** (a noun that receives the action of the verb). We can group them into another case. Notice how in the three sentences below, the bolded words are not the subjects. They are not the doers. They are the object of the verb, the things being seen.
+These pronouns have separate forms, such as **me**, **her**, and **us**, that refer to the same nouns, but these forms cannot be the subjects of verbs. Instead, they have to be **objects** (a noun that receives the action of the verb). We can group them into another case. Notice how in the three sentences below, the bolded words are not the subjects. They are not the doers. They are the object of the verb, the things being seen.
 
 Example 1: He sees **me**. \
 Example 2: He sees **her**. \
@@ -33,19 +33,19 @@ Example 3: He sees **us**.
 
 Even though the two different forms of these words represent the same noun(s), you can never use them interchangeably. That is the heart of declension: different forms of words are used for different purposes. Below, find a simplified declension table for first-person pronouns.  
 
-| 1st per. | **Sing.** | **Plur.** |
+|  | **Sg.** | **Pl.** |
 |----------|-----------|-----------|
 | **Sub.** | I         | we        |
 | **Obj.** | me        | our       |
 
-While the table for *I* has all unique forms and provides a nice example, most English pronouns do not have separate forms for the different cases. Below, find the declension tables for second-person pronouns and the third-person pronouns.  
+While the table for *I* has all unique forms and provides a nice example, most English pronouns do not have separate forms for the different cases. Below, find the declension tables for the second-person pronouns and the third-person pronouns.  
 
-| 2nd per. | **Sing.** | **Plur.** |
+|  | **Sg.** | **Pl.** |
 |----------|-----------|-----------|
 | **Sub.** | you       | y'all     |
 | **Obj.** | you       | y'all     |
 
-| 3nd per. | **Sing.** | **Plur.** |
+|  | **Sg.** | **Pl.** |
 |----------|-----------|-----------|
 | **Sub.** | he*        | they      |
 | **Obj.** | him*       | them      |
@@ -56,14 +56,14 @@ Try to imagine what a similar table would look like for other pronouns, includin
 
 Regular nouns experience declension, too! But most nouns don't have unique forms between the cases, only changing for singular and plural. Consider the table for *horse*, a normal English noun. 
 
-| horse    | **Sing.** | **Plur.** |
+|     | **Sg.** | **Pl.** |
 |----------|-----------|-----------|
 | **Sub.** | horse     | horses    |
 | **Obj.** | horse     | horses    |
 
 Some nouns have the same form for everything. *Moose* is one of these words. Can you think of any others?
 
-| moose    | **Sing.** | **Plur.** |
+|    | **Sing.** | **Plur.** |
 |----------|-----------|-----------|
 | **Sub.** | moose     | moose     |
 | **Obj.** | moose     | moose     |
@@ -72,16 +72,16 @@ Some nouns have the same form for everything. *Moose* is one of these words. Can
 Icelandic has four cases instead of two, and nearly every noun and pronoun has all unique forms. Below, see the declension pattern of the word *hestur* (horse).
 
 
-| hestur   | **Sing.** | **Plural.** |
+|   | **Sg.** | **Pl.** |
 |----------|-----------|-------------|
 | **Nom.** | hestur    | hestar      |
 | **Acc.** | hest      | hesta       |
 | **Dat.** | hesti     | hestum      |
 | **Gen.** | hests     | hesta       |
 
-Icelandic does not refer to their cases by subject or object. Instead, the Icelandic cases have recognized names. In English, these names are *nominative*, *accusative*, *dative*, and *genitive*. For best practice, these names should be taken at face value. The cases could be called *case 1*, *case 2*, *case 3*, and *case 4* and nothing would functionally change.
+Icelandic does not refer to its cases by subject or object. Instead, the Icelandic cases have recognized names. In English, these names are *nominative*, *accusative*, *dative*, and *genitive*. For best practice, these names should be taken at face value. The cases could be called *case 1*, *case 2*, *case 3*, and *case 4*, and nothing would functionally change.
 
-Since nouns always have to be in a case and number--there is no equivalent of an infinitive form for nouns. Instead, the nominative singular form is used to talk about a noun in a non-grammatical context, such as when it appears by itself on a sign, when the word is being discussed in another language, or when the word is written in the dictionary.
+Since nouns always have to be in a case and number, there is no equivalent of an infinitive form for nouns. Instead, the nominative singular form is used to talk about a noun in a non-grammatical context, such as when it appears by itself on a sign, when the word is being discussed in another language, or when the word is written in the dictionary.
 
 In the next lesson, you will learn more about when each form is used!
 
