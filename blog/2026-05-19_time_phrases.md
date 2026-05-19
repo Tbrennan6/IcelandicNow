@@ -54,13 +54,13 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 |---	|---	|---	|---	|---	|
 |**Day** 	| Í fyrradag 	| Í gær 	| Á morgun 	| Hinn daginn <br/> Ekki á morgun heldur hinn 	|
 | **Week** 	| Í þarsíðustu víku 	| Í síðustu viku <br/> Í vikunni sem leið 	| Í næstu viku 	| Í þarnæstu viku 	|
-| **Month** 	| Í þarsíðasta mánuði 	| Í síðasta mánuði <br> Í mánuðinum sem leið 	| Í næsta mánuði 	| Í þarnæsta mánuði 	|
+| **Month** 	| Í þarsíðasta mánuði 	| Í síðasta mánuði <br/> Í mánuðinum sem leið 	| Í næsta mánuði 	| Í þarnæsta mánuði 	|
 | **Year** 	| Á þarsíðasta ári <br/> Í hittífyrra 	| Í fyrra 	| Á næsta ári 	| Á þarnæsta ári 	|
 
 ## Others
 |  	| This 	| Every 	| During the  	| In general 	|
 |---	|---	|---	|---	|---	|
-| **Day of the week** 	| Í dag 	| Á []dögum 	| - 	| Á []deginum<br>Á []dögum 	|
+| **Day of the week** 	| Í dag 	| Á []dögum 	| - 	| Á []deginum<br/>Á []dögum 	|
 |**Weekend** 	| Í vikunni 	| Um helgar 	| - 	| Um helgar 	|
 | **Season** 	| Í mánuðinum <br/> Í þessum mánuði 	| Á [] 	| - 	| Á [] 	|
 
