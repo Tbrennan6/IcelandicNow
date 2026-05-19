@@ -47,7 +47,7 @@ As mentioned in the previous lesson, Icelandic verbs conjugate more and more com
 
 **These subjects are hiding other versions depending on gender. You will learn more about these subjects in the lesson "conjugation charts".*
 
-**These words are experiencing umlaut. You will learn more about umlaut in a later lesson.* 
+***These words are experiencing umlaut. You will learn more about umlaut in a later lesson.* 
 
 Using the chart above, translate the following into Icelandic:
 1. He bakes. 
