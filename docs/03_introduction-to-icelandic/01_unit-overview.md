@@ -17,7 +17,7 @@ Welcome to the first unit! This unit is designed to introduce you to the absolut
 - Icelandic verbs end in *a* in the infinitive form
 - what the stem and the ending of a verb are
 - how conjugation charts are organized and how to read them
-- what person and plurality refer to
+- what person and number refer to
 - what subject pronouns each cell in a conjugation table refers to
 - that the first person singular and plural sections of the chart can be replaced with other words, and their conjugations would be correct
 - that Icelandic has three versions of they and when they are used
