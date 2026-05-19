@@ -41,7 +41,7 @@ Person 2: Ég sakna **þín** líka. - (I miss you, too.)
 Person 1: Ég elska **þig**, Siggi. - (I love you, Siggi.)\
 Person 2: Ég elska **þig** líka. - (I love you, too.)
 
-*Note: Icelandic doesn't have a true vocative case (used when addressing somebody with their name), so the nominative case is used instead with rare exception. In the above example, "Siggi" is being used vocatively, so it is in the nominative case.*
+*Note: Icelandic doesn't have a true vocative case (used when addressing somebody with their name), so the nominative case is used instead with rare exceptions. In the above example, "Siggi" is being used vocatively, so it is in the nominative case.*
 
 For practice, translate the following into Icelandic:
 
@@ -50,11 +50,11 @@ For practice, translate the following into Icelandic:
 3. He doesn't miss you. 
 
 ## Third-Person Pronouns
-The third-person pronouns replace third-person words and people. Any object that you can think that is not yourself or a person you are talking to can be replaced by one of these pronouns. Put another way, all nouns can be replaced with third person pronouns.
+Third-person pronouns replace third-person nouns and people. Any object that you can think of that is not yourself or a person you are talking to can be replaced by one of these pronouns. Put another way, all nouns can be replaced with third-person pronouns.
 
-Example 1: I see the caeke. -> I see **it**.\
+Example 1: I see the cake. -> I see **it**.\
 Example 2: I see the girl. -> I see **her**.\
-Eaxmple 3: The crab eats the cake. -> **It** eats **it**. 
+Example 3: The crab eats the cake. -> **It** eats **it**. 
 
 |                | **Masculine** | **Feminine** | **Neuter** |
 |----------------|---------------|--------------|------------|
@@ -84,7 +84,7 @@ Person 2: Nei, **hann** gefur **henni** banana. - (No, he gives her a banana.)
 
 **Conversation 4:**\
 Person 1: Talar **Anna** **norsku**? - (Does Anna speak Norwegian?)\
-Person 2: Nei, **hún** talar **hana** ekki.- (No, she doesnt speak it.)
+Person 2: Nei, **hún** talar **hana** ekki.- (No, she doesn't speak it.)
 
 **Conversation 5:**\
 Person 1: Hver er **hún**? - (Who is she?)\
@@ -97,7 +97,7 @@ Person 2: Já. Ég sakna **hans** mikið. - (Yes. I miss him a lot.)
 For practice, translate the following into Icelandic:
 
 1. He gives it to her.
-2. I speak it (refering to Icelandic).
+2. I speak it (referring to Icelandic).
 3. Do you miss her?
 4. He eats it.
 5. She loves him, but he does not love her. 
