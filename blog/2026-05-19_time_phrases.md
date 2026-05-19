@@ -47,7 +47,7 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 |---	|---	|---	|---	|---	|
 | Day 	| Í dag 	| Á hverjum degi 	| - 	| - 	|
 | Week 	| Í vikunni 	| Í hverri viku 	| - 	| - 	|
-| Month 	| Í mánuðinum <br>Í þessum mánuði 	| Í hverjum mánuði 	| - 	| - 	|
+| Month 	| Í mánuðinum <br> Í þessum mánuði 	| Í hverjum mánuði 	| - 	| - 	|
 | Year 	| Í ár 	| Á hverju árí 	| - 	| - 	|
 
 |  	| **Two ago** 	| **Last** 	| **Next** 	| **In two** 	|
@@ -55,14 +55,14 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 |**Day** 	| Í fyrradag 	| Í gær 	| Á morgun 	| Hinn daginn<br>Ekki á morgun heldur hinn 	|
 | **Week** 	| Í þarsíðustu víku 	| Í síðustu viku<br>Í vikunni sem leið 	| Í næstu viku 	| Í þarnæstu viku 	|
 | **Month** 	| Í þarsíðasta mánuði 	| Í síðasta mánuði<br>Í mánuðinum sem leið 	| Í næsta mánuði 	| Í þarnæsta mánuði 	|
-| **Year** 	| Á þarsíðasta ári<br>Í hittífyrra 	| Í fyrra 	| Á næsta ári 	| Á þarnæsta ári 	|
+| **Year** 	| Á þarsíðasta ári <br> Í hittífyrra 	| Í fyrra 	| Á næsta ári 	| Á þarnæsta ári 	|
 
 ## Others
 |  	| This 	| Every 	| During the  	| In general 	|
 |---	|---	|---	|---	|---	|
 | **Day of the week** 	| Í dag 	| Á []dögum 	| - 	| Á []deginum<br>Á []dögum 	|
 |**Weekend** 	| Í vikunni 	| Um helgar 	| - 	| Um helgar 	|
-| **Season** 	| Í mánuðinum <br>Í þessum mánuði 	| Á [] 	| - 	| Á [] 	|
+| **Season** 	| Í mánuðinum <br> Í þessum mánuði 	| Á [] 	| - 	| Á [] 	|
 
 |  	| **Two ago** 	| **Last** 	| **Next** 	| **In two** 	|
 |---	|---	|---	|---	|---	|
