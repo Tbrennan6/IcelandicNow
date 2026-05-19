@@ -29,7 +29,7 @@ Indefinite nouns become definite by adding the definite article, *hinn*, to the 
 Hinn declines according to case, number, and gender.
 
 
-| **sing. hinn** | **Masc.** | **Fem.** | **Neut.** |
+| **sg.** | **Masc.** | **Fem.** | **Neut.** |
 |----------------|-----------|----------|-----------|
 | **Nom.**      | hinn      | hin      | hitt/hið  |
 | **Acc.**       | hinn      | hina     | hitt/hið  |
@@ -38,7 +38,7 @@ Hinn declines according to case, number, and gender.
 
 The neuter singular nominative and accusative have two forms depending on which method of making the word definite is used. The first is used for the attached, and the second is used for the detached.
 
-| **plur. hinn** | **Masc.** | **Fem.** | **Neut.** |
+| **pl.** | **Masc.** | **Fem.** | **Neut.** |
 |----------------|-----------|----------|-----------|
 | **Nom.**       | hinir     | hinar    | hin       |
 | **Acc.**       | hina      | hinaar   | hin       |
@@ -48,7 +48,7 @@ The neuter singular nominative and accusative have two forms depending on which 
 ## Detached Hinn
 The detached definite is the far less common method, but is included here for completeness and for illustration purposes. It is not often used in typical speech and is mainly reserved for place names and official titles. Although it can be used for any noun, it is very atypical and stilted to do so.
 
-To form it, simply place corresponding **hinn** that matches the gender, plurality, and case of the noun before it. 
+To form it, simply place the corresponding **hinn** that matches the gender, plurality, and case of the noun before it. 
 
 Example 1: Þetta er **hinn** hestur. - (This is **the** horse.)\
 Example 2: Þetta er **hitt** hjarta. - (This is **the** heart.)\
@@ -57,7 +57,7 @@ Example 4: Ég borðaði **hina** köku. - (I ate **the** cake.)\
 Example 5: Hann gleymdi **hinum** bönunum. - (He forgot **the** bananas.)
 
 ## Attached Hinn
-The attached definite is the one that should be used 99% of the time. 
+The attached definite is the one to use 99% of the time. 
 
 To form the attached definite, the corresponding  version of **hinn** is attached to the end of the indefinite noun. For most of the forms, this means removing the letter *h* from the word *hinn* and attaching what's left to the noun's end.
 
@@ -69,7 +69,7 @@ Example 2: Þetta er hjarta**ð**. - (This is **the** heart.)\
 Example 3: Ég elska stelpur**nar**. - (I saw **the** girls.)\
 Example 4: Ég borðaði köku**na*. - (I ate **the** cake.)
 
-If the word is a dative plural, the ending changes from *-um* to *-unum*.This is a slight deviation from the rule, but it is consistant acorss all words. 
+If the word is a dative plural, the ending changes from *-um* to *-unum*.This is a slight deviation from the rule, but it is consistent across all words. 
 
 Example 5: Hann gleymdi bönun**unum**. - (He forgot the bananas.)
 
