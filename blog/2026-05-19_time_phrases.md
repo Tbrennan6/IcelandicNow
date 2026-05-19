@@ -30,16 +30,6 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 
 *Note: "Day" and "dagur" are both used to refer to both the 24-hour sun cycle, and simply the time when the sun is out. These meanings overlap, but the chart covers the second in particular. 
 
-Example 1: Hann 
-Example 2:
-Example 3: Hefurðu tíma á daginn? - (Do you have time during the day?)
-Example 4: Ég drekk aldrei á morgnana. - (I never drink in the morning.)
-Example 5:
-Example 6:
-Example 7:
-Example 8:
-Example 9:
-Example 10:
 
 |  	| **Two ago** 	| **Last** 	| **Next** 	| **In two** 	|
 |---	|---	|---	|---	|---	|
