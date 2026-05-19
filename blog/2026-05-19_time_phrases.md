@@ -62,7 +62,7 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 |---	|---	|---	|---	|---	|
 | **Day of the week** 	| í dag 	| á []dögum 	| - 	| á []deginum<br/>á []dögum 	|
 |**Weekend** 	| í vikunni 	| um helgar 	| - 	| um helgar 	|
-| **Season** 	| í mánuðinum <br/> í þessum mánuði 	| á [] 	| - 	| á [] 	|
+| **Season** 	| Í [] 	| á [] 	| - 	| á [] 	|
 
 |  	| **Two ago** 	| **Last** 	| **Next** 	| **In two** 	|
 |---	|---	|---	|---	|---	|
