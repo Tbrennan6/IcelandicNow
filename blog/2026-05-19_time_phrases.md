@@ -45,10 +45,10 @@ The columns are divided into 8 different categories: *this*, *ever**, *during th
 ## Days, weeks, and years
 |  	| This 	| Every 	| During the  	| In general 	|
 |---	|---	|---	|---	|---	|
-| Day 	| í dag 	| á hverjum degi 	| - 	| - 	|
-| Week 	| í vikunni 	| í hverri viku 	| - 	| - 	|
-| Month 	| í mánuðinum <br/> í þessum mánuði 	| í hverjum mánuði 	| - 	| - 	|
-| Year 	| í ár 	| á hverju árí 	| - 	| - 	|
+| **Day** 	| í dag 	| á hverjum degi 	| - 	| - 	|
+| **Week** 	| í vikunni 	| í hverri viku 	| - 	| - 	|
+| **Month** 	| í mánuðinum <br/> í þessum mánuði 	| í hverjum mánuði 	| - 	| - 	|
+| **Year** 	| í ár 	| á hverju árí 	| - 	| - 	|
 
 |  	| **Two ago** 	| **Last** 	| **Next** 	| **In two** 	|
 |---	|---	|---	|---	|---	|
