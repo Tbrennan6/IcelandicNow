@@ -37,7 +37,7 @@ Conditional real statements are used for conditions that could very easily be tr
 
 1. Ef ég **fer** út **verður** mér kalt. - (If I go outside, I will be cold.)
 2. Ef ég **kem** heim með kött **drepur** konan mig. - (If I come home with a cat, my wife will kill me.)
-3. Ef veðrið **er** gott **förum** við að konan mig. - (If I come home with a cat, my wife will kill me.)
+3. Ef veðrið **er** gott **förum** við í dýragarðinn. - (If the weather is good, we'll go to teh zoo .)
 
 Both me going outside and me coming home with a cat could very easily be true, so Examples 1 and 2 are conditional real. Example 3 contains a situation that may or may not simply be true. As a result, it is also conditional real.
 
@@ -48,10 +48,10 @@ Conditional unreal statements are used for conditions that are purely hypothetic
 2. Ef ég **væri** milljónamæringur **myndi** ég kaupa allt. - (If I were a millionaire, I would buy everything.)
 3. Ef ég **segði** þér sannleikinn **þyrfti** ég að drepa þig. - (If I told you the truth, I would have to kill you.)
 
-I am not a dog nor a millionaire, so Examples 1 and 2 are hypothetical, so they are conditional unreal. Since me telling you the truth is also something that hasn't happened yet and may never happen, it is hypothetical and also an example of conditional unreal, too.
+I am not a dog nor a millionaire, so Examples 1 and 2 are hypothetical, so they are conditional unreal. Since me telling you the truth hasn't happened yet and may never happen, it is hypothetical and an example of the conditional unreal, too.
 
 ## Subjunctive instead of if
-Icelandic adds an extra level of complexity; Instead of using *if*, a simple subjunctive verb can be used.
+Icelandic adds an extra layer of complexity: instead of using *if*, a simple subjunctive verb can be used.
 
 With a conditional realis, the conclusion stays indicative.
 
