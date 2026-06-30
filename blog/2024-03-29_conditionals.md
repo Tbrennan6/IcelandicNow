@@ -48,7 +48,7 @@ Conditional unreal statements are used for conditions that are purely hypothetic
 2. Ef ég **væri** milljónamæringur **myndi** ég kaupa allt. - (If I were a millionaire, I would buy everything.)
 3. Ef ég **segði** þér sannleikinn **þyrfti** ég að drepa þig. - (If I told you the truth, I would have to kill you.)
 
-I am not a dog nor a millionaire, so Examples 1 and 2 are hypothetical, so they are conditional unreal. Since me telling you the truth hasn't happened yet and may never happen, it is hypothetical and an example of the conditional unreal, too.
+I am not a dog nor a millionaire, so Examples 1 and 2 are hypothetical, so they are conditional unreal. Example 3, me telling you the truth, hasn't happened yet and may never happen; it is hypothetical and an example of the conditional unreal, too.
 
 ## Subjunctive instead of if
 Icelandic adds an extra layer of complexity: instead of using *if*, a simple subjunctive verb can be used.
