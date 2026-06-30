@@ -35,18 +35,18 @@ The difference is that the first example uses conditional real (realis) while th
 ## Conditional real
 Conditional real statements are used for conditions that could very easily be true. These statements use indicative verbs for both clauses.
 
-1. Ef ég **fer** út **verður** mér kalt. - (If I go outside, I will be cold.)
-2. Ef ég **kem** heim með kött **drepur** konan mig. - (If I come home with a cat, my wife will kill me.)
-3. Ef veðrið **er** gott **förum** við í dýragarðinn. - (If the weather is good, we'll go to teh zoo .)
+1. Ef ég **fer** út **verður** mér kalt. - (If I **go** outside, I **will be** cold.)
+2. Ef ég **kem** heim með kött **drepur** konan mig. - (If I **come** home with a cat, my wife will **kill** me.)
+3. Ef veðrið **er** gott **förum** við í dýragarðinn. - (If the weather **is** good, **we'll go** to the zoo .)
 
 Both me going outside and me coming home with a cat could very easily be true, so Examples 1 and 2 are conditional real. Example 3 contains a situation that may or may not simply be true. As a result, it is also conditional real.
 
 ## Conditional unreal
 Conditional unreal statements are used for conditions that are purely hypothetical or very unlikely to occur. The verbs in conditional unreal statements need to be in the subjunctive past. Very commonly, the verb in the conclusion will use a *myndi* construction instead of the normal subjunctive past. This is particularly common when the subjunctive past of the verb would look the same as the indicative past.
 
-1. Ef ég **væri** hundur **myndi** ég gelta. - (If I were a dog, I would bark.)
-2. Ef ég **væri** milljónamæringur **myndi** ég kaupa allt. - (If I were a millionaire, I would buy everything.)
-3. Ef ég **segði** þér sannleikinn **þyrfti** ég að drepa þig. - (If I told you the truth, I would have to kill you.)
+1. Ef ég **væri** hundur **myndi** ég gelta. - (If I **were** a dog, I **would** bark.)
+2. Ef ég **væri** milljónamæringur **myndi** ég **kaupa** allt. - (If I **were** a millionaire, I **would** buy everything.)
+3. Ef ég **segði** þér sannleikinn **þyrfti** ég að drepa þig. - (If I **told** you the truth, I **would** have to kill you.)
 
 I am not a dog nor a millionaire, so Examples 1 and 2 are hypothetical, so they are conditional unreal. Example 3, me telling you the truth, hasn't happened yet and may never happen; it is hypothetical and an example of the conditional unreal, too.
 
@@ -55,15 +55,15 @@ Icelandic adds an extra layer of complexity: instead of using *if*, a simple sub
 
 With a conditional realis, the conclusion stays indicative.
 
-1. **Fari** ég út verður mér kalt. - (If I go outside, I will be cold.)
-2. **Komi** ég heim með kött drepur konan mig . - (If I came home with a cat, my wife would kill me.)
-3. **Sé** veðrið gott förum við að veiða. - (If the weather is good, we will go fishing.)
+1. **Fari** ég út verður mér kalt. - (**If** I **go** outside, I will be cold.)
+2. **Komi** ég heim með kött drepur konan mig . - (**If** I **came** home with a cat, my wife would kill me.)
+3. **Sé** veðrið gott förum við í dýragarðinn. - (**If** the weather **is** good, we'll go to the zoo.)
 
 With a conditional unreal, the conclusion stays in the subjunctive.
 
-1. **Væri ég** hundur **myndi** ég gelta. - (If I were a dog, I would bark.)
-2. **Væri ég** milljónamæringur **myndi** ég kaupa allt. - (If I were a millionaire, I would buy everything.)
-3. **Segði ég** þér sannleikinn **þyrfti** ég að drepa þig. - (If I told you the truth, I would have to kill you.)
+1. **Væri** ég hundur **myndi** ég gelta. - (**If** I **were** a dog, I would bark.)
+2. **Væri** ég milljónamæringur **myndi** ég kaupa allt. - **(If** I **were** a millionaire, I would buy everything.)
+3. **Segði** ég þér sannleikinn **þyrfti** ég að drepa þig. - (**If** I **told** you the truth, I would have to kill you.)
 
 ## Then and þá?
 *Then* and *Þá* are never necessary in conditional statements. They are optional discourse markers.
