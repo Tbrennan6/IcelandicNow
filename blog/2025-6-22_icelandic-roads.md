@@ -2,7 +2,7 @@
 slug: Icelandic_roads 
 title: "Icelandic Roads"
 authors: [tbrennan]
-tags: [Vocabulary]
+tags: [vocabulary]
 ---
 
 This post will discuss the naming conventions of, and some of the most popular, Icelandic roads. 

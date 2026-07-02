@@ -87,7 +87,22 @@ const config: Config = {
         src: 'img/favicon.ico',
       },
       items: [
-        {to: '/blog', label: 'Articles', position: 'left'},
+        {
+          type: 'dropdown',
+          label: 'Articles',
+          position: 'left',
+          items: [
+            {label: 'All Articles', to: '/blog'},
+            {label: 'Dev Blog', to: '/blog/tags/devblog'},
+            {label: 'FAQ', to: '/blog/tags/faq'},
+            {label: 'Grammar', to: '/blog/tags/grammar'},
+            {label: 'How Do You', to: '/blog/tags/howdoyou'},
+            {label: 'Resource Feature', to: '/blog/tags/resource'},
+            {label: 'Top post', to: '/blog/tags/toppost'},
+            {label: 'Vocabulary', to: '/blog/tags/vocabulary'},
+            // one entry per tag key in tags.yml
+          ],
+        },
         {to: '/docs/welcome', label: 'Icelandic Courses', position: 'left'},
         // {
         //   type: 'docSidebar',

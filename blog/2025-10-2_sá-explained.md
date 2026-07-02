@@ -2,7 +2,7 @@
 slug: Sá_Explained
 title: "Sá Explained"
 authors: [tbrennan]
-tags: [Vocabulary]
+tags: [vocabulary]
 ---
 
 This post will discuss how the word *sá* is used. 
