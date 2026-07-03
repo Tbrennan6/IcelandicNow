@@ -117,8 +117,7 @@ Example 1: Ég **elska** þig.
 This rule holds even when you put an adverb in the first position. This word order is unnatural in English, which is why many people make mistakes, but it is perfectly correct in Icelandic.
 
 <font color="red">
-Example 1: Í dag ég **fór** í bankann.
-</font>
+Example 1: Í dag ég **fór** í bankann. </font>
 Example 1: Í dag **fór** ég í bankann.
 
 There is one main exception. In English, many questions contain the meaningless word *do* or *does* to signify that the words following form a question, but Icelandic (and every other language in the world except for Gaelic languages) does not. Instead, Germanic languages invert, placing the verb first rather than the noun.
