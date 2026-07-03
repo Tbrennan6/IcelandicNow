@@ -55,6 +55,8 @@ const config: Config = {
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          path: './articles',
+          routeBasePath: 'articles',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -92,14 +94,14 @@ const config: Config = {
           label: 'Articles',
           position: 'left',
           items: [
-            {label: 'All Articles', to: '/blog'},
-            {label: 'Dev Blog', to: '/blog/tags/devblog'},
-            {label: 'FAQ', to: '/blog/tags/faq'},
-            {label: 'Grammar', to: '/blog/tags/grammar'},
-            {label: 'How Do You', to: '/blog/tags/howdoyou'},
-            {label: 'Resource Feature', to: '/blog/tags/resource'},
-            {label: 'Top post', to: '/blog/tags/toppost'},
-            {label: 'Vocabulary', to: '/blog/tags/vocabulary'},
+            {label: 'All Articles', to: '/articles'},
+            {label: 'Dev Blog', to: '/articles/tags/devblog'},
+            {label: 'FAQ', to: '/articles/tags/faq'},
+            {label: 'Grammar', to: '/articles/tags/grammar'},
+            {label: 'How Do You', to: '/articles/tags/howdoyou'},
+            {label: 'Resource Feature', to: '/articles/tags/resource'},
+            {label: 'Top post', to: '/articles/tags/toppost'},
+            {label: 'Vocabulary', to: '/articles/tags/vocabulary'},
             // one entry per tag key in tags.yml
           ],
         },
@@ -127,7 +129,7 @@ const config: Config = {
           items: [
             {
               label: 'Articles',
-              to: '/blog',
+              to: '/articles',
             },
           ],
         },
@@ -144,8 +146,8 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Articles',
+              to: '/articles',
             },
             {
               label: 'Other Resources',

@@ -4,7 +4,7 @@ tbrennan:
   url: icelandicnow.com
   image_url: https://github.com/tbrennan6.png
   page:
-    # customize the url of the author page at /blog/authors/<permalink>
+    # customize the url of the author page at /articles/authors/<permalink>
     permalink: '/all-tbrennan-articles'
 
 mrme:
@@ -13,5 +13,5 @@ mrme:
   url: https://discord.gg/Fb8Cy8xR
   image_url: https://github.com/tbrennan6.png
   page:
-    # customize the url of the author page at /blog/authors/<permalink>
+    # customize the url of the author page at /articles/authors/<permalink>
     permalink: '/all-mr-mr-articles'

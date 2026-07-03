@@ -107,7 +107,7 @@ This mistake is typically tied to a lack of knowledge about grammatical gender. 
 
 But Icelandic does not refer to inanimate things as það unless that object has been assigned to the neuter grammatical gender.
 
-Grammatical gender is a fairly intensive topic, which you can read more about [here](https://tbrennan6.github.io/IcelandicNow/blog/grammatical-gender).
+Grammatical gender is a fairly intensive topic, which you can read more about [here](https://tbrennan6.github.io/IcelandicNow/articles/grammatical-gender).
 
 ## 4. Breaking V2
 Icelandic maintains V2 word order, which means that the sentence's main **verb** needs to be the second element of the sentence.

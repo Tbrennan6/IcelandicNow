@@ -24,5 +24,5 @@ Every time you learn a new inflectional pattern, I encourage you to practice wit
 
 A couple times during the course, I will note that I recccomend using this resource. I cannot reccomend taking that advice enough.  
 
-I wrote more about how to use this resource in an article [here](https://tbrennan6.github.io/IcelandicNow/blog/islenza.is)!
+I wrote more about how to use this resource in an article [here](https://tbrennan6.github.io/IcelandicNow/articles/islenza.is)!
 
