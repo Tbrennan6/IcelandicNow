@@ -12,13 +12,13 @@ This post answers two common questions: "How do I write conditional statements i
 ## What is a conditional statement?
 A conditional statement is an if-then style statement in which the second part of the sentence, known as the conclusion/result, is only executed or occurs if the condition/hypothesis, the first part of the sentence, occurs or is true.
 
-- If I eat a lot of pizza, I will be sick.
+1. If I eat a lot of pizza, I will be sick.
 
 In the example above, *If I eat a lot of pizza* is the hypothesis. It is not guaranteed that the hypothesis will happen, as made clear by the word *if*, but given it does occur, then the conclusion, *I will be sick*, will also occur.
 
 In Icelandic, the exact same type of statements are possible and common. The word that triggers the statement is *ef*.
 
-- **Ef** ég borða mikið af pítsu verð ég veikur. - (**If** I eat a lot of pizza, I will be sick.)
+1. **Ef** ég borða mikið af pítsu verð ég veikur. - (**If** I eat a lot of pizza, I will be sick.)
 
 *Note: Icelandic doesn't tend to separate conditionals with commas.*
 
