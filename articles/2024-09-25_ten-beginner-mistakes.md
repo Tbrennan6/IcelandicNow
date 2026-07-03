@@ -80,8 +80,8 @@ Example 1: Mér gekk **vel** í prófinu.
 Beginners often don't realize that prepositions don't translate well between languages, so they use the "same" prepositions across languages. As a result, when discussing locations in Icelandic, many beginners use prepositions incorrectly.
 
 <font color="red">
-Example 1: Ég fer **til** bankans.
-Example 2: Ég er **í** sjúkrahúsi.
+Example 1: Ég fer **til** bankans.\
+Example 2: Ég er **í** sjúkrahúsi.\
 Example 3: Ég er **í** Íslandi.
 </font>
 
