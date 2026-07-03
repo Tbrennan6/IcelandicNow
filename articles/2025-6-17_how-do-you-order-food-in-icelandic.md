@@ -29,14 +29,14 @@ Example 1: Get ég fengið **skammt af** kjötsúpu? - (Can I get **a helping of
 Example 2: Get ég fengið lítinn/stóran **skammt af** frönskum? - (Can I get a small/large **order of** fries?)
 
 ## Side dishes
-To add a **side dish** to your food order, you use the word *með* with the dative case. Additionally, you coudl use a simple *og* to connect multiple items.
+To add a **side dish** to your food order, you use the word *með* with the dative case. Additionally, you could use a simple *og* to connect multiple items.
 
 Example 1: Get ég fengið steik **með körtuflum**? - (Can I get a steak **with potatoes**?)\
 Example 2: Get ég fengið ostborgara **með litlum skammti** af frönskum? - (Can I get a cheeseburger **with a small order** of fries?)\
 Example 3: Get ég fengið pönnukukur **og kaffi?** - (Can I get pancakes **and a coffee?**)
 
 ## Ingredients 
-Not to be confused with a side dish, some dishes or foods can be **specified by their ingredients**. This can become important if the restaurant offers multiple ways of preparing a dish or if you are making a modification. This is done with *með* and the dative case too. 
+Not to be confused with a side dish, some dishes or foods can be **specified by their ingredients**. This can be important if the restaurant offers multiple ways to prepare a dish or if you are making a modification. This is done with *með* and the dative case too. 
 
 Example 1: Get ég fengið vatnsglas **með sítrónu**? - (Can I get a glass of water **with lemon**?)\
 Example 2: Get ég fengið lasanjað **með rjómaosti**? - (Can I get the lasagne **with cream cheese**?)\
@@ -47,12 +47,18 @@ After you have successfully placed your order, the worker may have some addition
 
 Example 1: Eitthvað fleira? - (Anything else?)
 
-This question will probably come up at the end of your order and a simple *já* or *nei* will suffice as an answer. 
+This question will probably come up at the end of your order, and a simple *já* or *nei* will suffice as an answer. 
 
 Example 2: Hvernig viltu borga? - (How do you want to pay?)
 
-This is another common question, and it invites a dative case answer. The most common answers would be either *cash* or *card*, which are either *peningur* or *kort*. Be sure to inflect *peningur* to *peningum* and *kort* to *korti*. 
+This is another common question, and it invites a dative case answer. The most common answers would be *cash* or *card*, which are *peningur* or *kort*, respectively. Be sure to inflect *peningur* to *peningum* and *kort* to *korti*. 
 
 Example 3: Stakur eða máltíð? - (By itself or a meal?)
 
-This question would only come up in a place that does combo-meals, such as a fast food restaurant. You can get ahead of it by adding the adjective *stakur* before the item or adding the noun *máltíð* to the food item to form a combo, such as *ham­borg­ara­máltíð*.
+This question would only come up in a place that does combo meals, such as a fast food restaurant. You can get ahead of it by adding the adjective *stakur* before the item or adding the noun *máltíð* to the food item to form a combo, such as *ham­borg­ara­máltíð*.
+
+Another common question is whether you want the food *for here* or to go. 
+
+Example 4: Borða hér eða taka með?
+
+You can just answer by repeating the phrase that you desireþ 
