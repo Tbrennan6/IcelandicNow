@@ -38,11 +38,11 @@ These sentences can be fixed by simply removing the word *að*.
 This one is straightforward. In English, days of the week and languages are always capitalized. In Icelandic, they are capitalized only if they are the first word of a sentence, just like any other word.
 
 <font color="red">
-1. Ég er að læra **Í**slensku.\
+1. Ég er að læra **Í**slensku.
 2. Ég fór í bankann á **M**ánudaginn.
 </font>
 
-1. Ég er að læra **í**slensku.\
+1. Ég er að læra **í**slensku.
 2. Ég fór í bankann á **m**ánudaginn. 
 
 ## 8. Not declining proper names
@@ -53,15 +53,15 @@ The big exception is for genitive, where most names will add an *-s*.
 *Note: If a first and a last name are mentioned, both will decline. The exception to this rule is that foreign names with both a first and family name mentioned do not decline the family name in formal settings. This is only a formal rule. In daily speech, people will decline both names.*
 
 <font color="red">
-1. Hún talaði við **Anna**.\
-2. Ég sá styttu af Leif**ur** Eirikssónur.\
+1. Hún talaði við **Anna**.
+2. Ég sá styttu af Leif**ur** Eirikssónur.
 3. Biden var varaforseti Barack Obama.
 </font>
 
-1. Hún talaði við **Önnu**.\
-2.  Ég sá styttu af Leif**i** Eirikss**y**n**i**.\
-3a. Biden var varaforseti Barack**s** Obama.\
-3b. Biden var varaforseti Obama**s**.
+1. Hún talaði við **Önnu**.
+2.  Ég sá styttu af Leif**i** Eirikss**y**n**i**.
+3. Biden var varaforseti Barack**s** Obama.
+3. Biden var varaforseti Obama**s**.
 
 ## 7. Using adjectives instead of adverbs
 This mistake is common among native English speakers who try to translate directly from English.
@@ -80,8 +80,8 @@ The problem is that *gott* is an adjective, and adjectives have to modify nouns.
 Beginners often don't realize that prepositions do not translate between languages very well at all, so they use the "same" prepositions across languages. As a result, when it comes to talking about locations in Icelandic, many beginners use prepositions incorrectly.
 
 <font color="red">
-1. Ég fer **til** bankans.\
-2. Ég er **í** sjúkrahúsi.\
+1. Ég fer **til** bankans.
+2. Ég er **í** sjúkrahúsi.
 3. Ég er **í** Íslandi.
 </font>
 
@@ -92,14 +92,14 @@ To tell the difference between "*going to*" and "*being at*" a location, you nee
 1. Ég **fer í** bank**ann**.
 2. Ég **er í** bank**anum**.
 
-2. Ég **fer á** sjúkrahús.\
+2. Ég **fer á** sjúkrahús.
 2. Ég **er á** sjúkrahúsi.
 
 It is hard to know whether the noun is going to need *á* or *í*, but you will pick up on the patterns and small rules of thumb as you learn. For example, places ending in *-hús* tend to need *á*.
 
 There is one main exception to the previously stated rule. For cities, states, and countries, the to meaning is covered by til, which needs a genitive location.
 
-3: Ég er **á Íslandi**.\
+3: Ég er **á Íslandi**.
 3. Ég fer **til Íslands**.
 
 ## 5. Overusing *það*
@@ -123,7 +123,7 @@ This rule holds even when you put an adverb in the first position. This word ord
 
 There is one main exception. In English, many questions contain the meaningless word *do* or *does* to signify that the words following form a question, but Icelandic (and every other language in the world except for Gaelic languages) does not. Instead, Germanic languages invert, placing the verb first rather than the noun.
 
-2. Þú **vil**t sjá. -> **Vil**tu sjá?\
+2. Þú **vil**t sjá. -> **Vil**tu sjá?
 3. Hann **getur** ekki. - **Getur** hann ekki?
 
 ## 3. Not understanding quirky case verbs
@@ -132,10 +132,10 @@ Learners often face a small roadblock when they learn that not all Icelandic ver
 Many of the verbs revolve around thinking and other experiential verbs.
 
 <font color="red">
-Example 1:  **Ég finnst** kakan góð!\
+Example 1:  **Ég finnst** kakan góð!
 Example 2: **Ég dreymdi** að ég væri fiskur.
 </font>
-1. **Mér finnst** kakan góð!\
+1. **Mér finnst** kakan góð!
 2. **Mig dreymdi** að ég væri fiskur.
 
 
@@ -146,13 +146,13 @@ In a similar vein to #10, this common mistake is an exception when chaining verb
 When you are using *að geta* or *að hafa* as chaining verbs, the verb that immediately follows it needs to be in the **supine** form. In Icelandic, this form is known as the **sagnbót**. Many beginners do not know about these forms or that they are required after the previously mentioned verbs, and use a normal or bare infinitive instead.
 
 <font color="red">
-1. Ég get **að gera** það!\
+1. Ég get **að gera** það!
 2. Hefurðu **að sjá** það?
 </font>
 
 These sentences can be fixed by using the supine form instead of the infinitive. While it is a bit hard to describe how to form the supine, it is always identical to the third-person singular past participle form. With time, practice, and exposure, you will pick up the patterns and be able to create this form with no problem.
 
-1. Ég get **gert** það!\
+1. Ég get **gert** það!
 2. Hefurðu **séð** það?
 
 ## 1. Not inflecting
