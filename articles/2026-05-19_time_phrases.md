@@ -23,27 +23,27 @@ Phrases in *this* column are used to refer to the current or most recently passe
 
 Example 1: Ég vaknaði kl. 5 í morgun. - (I woke up at 5 o'clock this morning)\
 Example 2: Hann ætlar að borða ís í kvöld. - (He is going to eat icecream this evening.)\
-Example 3: Ég lærði smá íslnesku í vikunni - (I learned a little bit of Icelandic this week.)\
+Example 3: Ég lærði smá íslnesku í vikunni - (I learned a little bit of Icelandic this week.)
 
 ### Every
 Phrases in the *every* column are used for things that are done every single time. Often, this can be translated by placing the English word *every* before the phrase, though that translation can be a bit clunky.  
 
 Example 1: Ég vaknaði kl. 5 á morgnana. - (I woke up at 5 o'clock every morning.)\
 Example 2: Hann ætlar að borða ís á kvöldin. - (He is going to eat icecream every evening.)\
-Example 3: Ég lærði smá íslnesku í hverri viku - (I learned a little bit of Icelandic every week.)\
+Example 3: Ég lærði smá íslnesku í hverri viku - (I learned a little bit of Icelandic every week.)
 
 ### During the, and in general
 Phrases in the *during the* and *in general* columns are done a single time.  
 
-Example 1a: Ég vaknaði kl. 5 að morgni dags. - (I woke up at 5'oclock in the morning.)
-Example 2a: Hann ætlar að borða ís að kvöldi dags. - (He is going to eat icecream during the evening.)\
+Example 1a: Ég vaknaði kl. 5 að morgni dags. - (I woke up at 5'oclock in the morning.)\
+Example 2a: Hann ætlar að borða ís að kvöldi dags. - (He is going to eat icecream during the evening.)
 
-Example 1b: Ég vaknaði kl. 5 um morguninn. - (I woke up at 5'oclock in the morning.)
-Example 1b: Hann ætlar að borða um kvöld. - (He is going to eat ice cream during the evening.)\
+Example 1b: Ég vaknaði kl. 5 um morguninn. - (I woke up at 5'oclock in the morning.)\
+Example 1b: Hann ætlar að borða um kvöld. - (He is going to eat ice cream during the evening.)
 
 The difference between the *a* and *b* examples is slim, and most of the time the forms are completely interchangeable. In the examples given, they are completely interchangeable. 
 
-Example 1: Leðurblökur sofa á daginn. - (Bats sleep during the day).
+Example 1: Leðurblökur sofa á daginn. - (Bats sleep during the day).\
 Example 2: Ég drekk aldrei á morgnana) -  (I never drink in the morning).
 Example 3:
 
