@@ -57,7 +57,7 @@ Example 3: Stakur eða máltíð? - (By itself or a meal?)
 
 This question would only come up in a place that does combo meals, such as a fast food restaurant. You can get ahead of it by adding the adjective *stakur* before the item or adding the noun *máltíð* to the food item to form a combo, such as *ham­borg­ara­máltíð*.
 
-Another common question is whether you want the food *for here* or to go. 
+Another common question is whether you want the food *for here* or *to go*. 
 
 Example 4: Borða hér eða taka með?
 
