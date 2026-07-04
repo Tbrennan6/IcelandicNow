@@ -61,4 +61,4 @@ Another common question is whether you want the food *for here* or to go.
 
 Example 4: Borða hér eða taka með?
 
-You can just answer by repeating the phrase that you desireþ 
+You can just answer by repeating the phrase that you desire. 
